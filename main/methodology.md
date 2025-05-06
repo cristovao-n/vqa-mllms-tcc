@@ -4,9 +4,9 @@
 
 for i in range(5):
 
-  select 70 random rows from PathVQA dataset (image, question, expected_answer)
-  select 50 random rows from VQA-RAD dataset (image, question, expected_answer)
-  select 50 random rows from PMC-VQA dataset (image, question, choices, expected_answer)
+  select 80 random rows from PathVQA dataset (image, question, expected_answer)
+  select 40 random rows from VQA-RAD dataset (image, question, expected_answer)
+  select 40 random rows from PMC-VQA dataset (image, question, choices, expected_answer)
 
   Classify them as open-ended or closed-ended
   Remove or add randomly to match the expected ratio of 50/50
