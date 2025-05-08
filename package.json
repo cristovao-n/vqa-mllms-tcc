@@ -1,0 +1,22 @@
+{
+  "name": "tcc",
+  "version": "1.0.0",
+  "description": "## Algorithm 1: Dataset pre-processing",
+  "main": "index.js",
+  "scripts": {
+    "get-samples": "node src/get-samples.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristovao-n/tcc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristovao-n/tcc/issues"
+  },
+  "homepage": "https://github.com/cristovao-n/tcc#readme",
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  }
+}
