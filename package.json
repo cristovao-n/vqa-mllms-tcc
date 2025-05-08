@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "## Algorithm 1: Dataset pre-processing",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "get-samples": "node src/get-samples.js"
+    "get-samples-vqa-rad": "node src/get-samples-vqa-rad"
   },
   "repository": {
     "type": "git",
