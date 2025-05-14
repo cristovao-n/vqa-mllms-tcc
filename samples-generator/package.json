@@ -1,0 +1,26 @@
+{
+  "name": "tcc",
+  "version": "1.0.0",
+  "description": "## Algorithm 1: Dataset pre-processing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "get-samples:vqa-rad": "node src/get-samples-vqa-rad",
+    "get-samples:path-vqa": "node src/get-samples-path-vqa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristovao-n/tcc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristovao-n/tcc/issues"
+  },
+  "homepage": "https://github.com/cristovao-n/tcc#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "parquetjs": "^0.11.2",
+    "seedrandom": "^3.0.5"
+  }
+}
