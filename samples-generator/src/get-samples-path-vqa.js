@@ -1,11 +1,11 @@
-import parquet from 'parquetjs';
+import { readFileSync } from "fs";
+import { parse } from "csv-parse/sync";
 
-const reader = await parquet.ParquetReader.openFile('datasets/path-vqa/data/test-00000-of-00003-e9adadb4799f44d3.parquet');
-// create a new cursor
-const cursor = reader.getCursor();
- 
-// read all records from the file and print them
-const record = null;
-while (record = await cursor.next()) {
-  console.log(record);
-}
+const rawData = readFileSync("../datasets/path-vqa/trainrenamed.csv", "utf-8");
+
+const pathVqa = parse(rawData, {
+    columns: true,
+    skip_empty_lines: true,
+});
+
+console.log(pathVqa);

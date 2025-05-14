@@ -1,4 +1,6 @@
 venv
 node_modules
-datasets
+datasets/path-vqa/train
+datasets/pmc-vqa/images_2/figures
+datasets/vqa-rad/images
 samples
