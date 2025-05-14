@@ -31,11 +31,11 @@ NUM_OF_SAMPLES.forEach((sampleNumber) => {
 
     [vqaRadSampleOpenEnded, vqaRadSampleClosedEnded].forEach((vqaRadGroup) => {
         vqaRadGroup.forEach((vqaRad) => {
-            const imageName = vqaRad.image_name;
+            const imagePath = `images/${vqaRad.image_name}`;
             const sampleName = `${vqaRad.answer_type.toLowerCase()}${sampleNumber}`;
 
             execSync(
-                `bash src/bash/save-element.sh ${DATASET} ${imageName} ${sampleName} `,
+                `bash src/bash/save-element.sh ${DATASET} ${imagePath} ${sampleName} `,
                 {
                     stdio: "inherit",
                     encoding: "utf-8",
