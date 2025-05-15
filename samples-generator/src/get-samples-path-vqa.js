@@ -57,5 +57,3 @@ NUM_OF_SAMPLES.forEach((sampleNumber) => {
         });
     });
 });
-
-console.dir(groupedByQuestionType, { depth: 1 });

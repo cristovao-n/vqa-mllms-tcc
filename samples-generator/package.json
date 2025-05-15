@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "get-samples:vqa-rad": "node src/get-samples-vqa-rad",
-    "get-samples:path-vqa": "node src/get-samples-path-vqa"
+    "get-samples:path-vqa": "node src/get-samples-path-vqa",
+    "get-samples:pmc-vqa": "node src/get-samples-pmc-vqa"
   },
   "repository": {
     "type": "git",
