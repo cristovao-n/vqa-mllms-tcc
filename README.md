@@ -1,33 +1,38 @@
 # tcc
 
-## Algorithm 1: Dataset pre-processing
+## Module 1: samples-generator
 
-for i in range(5):
+### VQA-RAD
 
-  select 80 random rows from PathVQA dataset (image, question, expected_answer)
-  select 40 random rows from VQA-RAD dataset (image, question, expected_answer)
-  select 40 random rows from PMC-VQA dataset (image, question, choices, expected_answer)
+select 5 samples of open-ended questions and 5 samples of closed-ended questions. Each sample containing 40 random rows from VQA-RAD dataset  
+Data: qid, phrase_type, qid_linked_id, image_case_url, image_name, image_organ, evaluation, question, question_rephrase, question_relation, question_frame, question_type, answer, answer_type
 
-  Classify them as open-ended or closed-ended
-  Remove or add randomly to match the expected ratio of 50/50
-  Add columns:
-  - Test number: it'll be the same for all questions of the current test
-  - question type: closed-ended or open-ended
-  - image type: pathology or radiology (it is possible to assign it according to the dataset)
-  Create one file or folder per test set
+### PathVQA
 
-## Algorithm 2: Results dataset
+select 5 samples of open-ended questions and 5 samples of closed-ended questions. Each sample containing 40 random rows from PathVQA dataset  
+Data: image, question, answer, answer_type
 
-for test in tests:
-  Do the experiment for all models using their APIs (pass the image and the question)
-    Models under test:
+### PMC-VQA
+
+select 10 samples of multi-choices questions. Each sample containing 40 random rows from PMC-VQA dataset  
+Data: index, Figure_path, Caption, Question, Choice, Choice, Choice, Choice, Answer, split
+
+Extra columns:
+
+-   image type: pathology or radiology (it is possible to assign it according to the dataset)
+
+## Module 2: Langchain
+
+Do the experiment for all models using their APIs (pass the image and the question)
+Models under test:
 
     GPT 4oV
     Gemini 2.0
     LLama 4 or LLama 3.2
-  Save in the table the model_answer and the model
 
-  Evaluate the results manually according to these criteria:
+Save in the table the model_answer and the model
+
+Evaluate the results manually according to these criteria:
 
     Should directly answer the question and provide the correct response.
 
@@ -37,8 +42,8 @@ for test in tests:
 
     Needs to provide comprehensive answers. For instance, if the prompt is “In which two ventricles... ” and it mentions only one, the answer is considered incorrect.
 
-  Save in the table a boolean column indicating whether the model was correct
+Save in the table a boolean column indicating whether the model was correct
 
-## Algorithm 3: Displaying results
+## Module 3: Displaying results
 
 Create charts in google colab from the results table to display the results
