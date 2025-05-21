@@ -1,0 +1,282 @@
+[
+    {
+        "image": "image2393",
+        "question": "What does this image show?",
+        "answer": "vertebral bodies shown close-up with metastases",
+        "answer_type": "OPEN",
+        "model_answer": "This image appears to show a section of a vertebral column affected by Potts Disease, also known as tuberculosis spondylitis. It shows the destruction of vertebral bodies and the associated soft tissue changes typically associated with this condition."
+    },
+    {
+        "image": "image1626",
+        "question": "What is cut edge of mesentery showing?",
+        "answer": "massively enlarged nodes very good example was diagnosed as reticulum cell sarcoma",
+        "answer_type": "OPEN",
+        "model_answer": "The cut edge of the mesentery in the image shows multiple enlarged and bulging lymph nodes, which appear as rounded, raised structures within the fatty tissue. This finding can indicate lymphadenopathy, which can occur in conditions such as infections, inflammation, or malignancy."
+    },
+    {
+        "image": "image1484",
+        "question": "How does this image show pleomorphic cells?",
+        "answer": "with obvious mucin secretion ",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows pleomorphic cells, which are characterized by variability in size and shape. You can observe:\n\n1. **Varying Nuclear Size and Shape**: Nuclei appear irregular, with some larger or smaller than others.\n2. **Irregular Cell Shapes**: The cells have diverse shapes, not uniform as seen in normal tissue.\n3. **Cellular Atypia**: Abnormal appearance in cell structure indicating variation.\n\nThese features are indicative of pleomorphism, often seen in malignant tumors."
+    },
+    {
+        "image": "image1445",
+        "question": "What does this image show?",
+        "answer": "cut surface of ovary close up breast primary",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows a cross-section of an adrenal gland with a pheochromocytoma, which is a tumor that can develop in the adrenal gland. You can see a well-circumscribed mass with areas of hemorrhage, which are common characteristics of pheochromocytomas. These tumors can cause symptoms due to excess production of catecholamines."
+    },
+    {
+        "image": "image1125",
+        "question": "What is ischemic?",
+        "answer": "opened abdominal cavity with massive tumor in omentum none apparent in liver nor over peritoneal surfaces gut",
+        "answer_type": "OPEN",
+        "model_answer": "The small intestine appears ischemic. Signs of ischemia in the intestines include dark discoloration and lack of blood flow. This could be observed in this image by the darker portions of the bowel, suggesting compromised blood supply."
+    },
+    {
+        "image": "image1470",
+        "question": "Why does this image show opened cervix and endometrium with necrotic tissue five weeks post section?",
+        "answer": "because of brain hemorrhage 40 gestation 29 yo hypertensive bf",
+        "answer_type": "OPEN",
+        "model_answer": "This image likely shows an opened cervix and endometrium with necrotic tissue due to postpartum infection or retained products of conception. After a cesarean section, if any tissue remains and becomes infected, it can lead to necrosis. The presence of necrotic tissue suggests possible complications such as endometritis or an abscess. This condition would require medical intervention to prevent further complications."
+    },
+    {
+        "image": "image1467",
+        "question": "What does this image show?",
+        "answer": "all pelvic organs tumor mass opened like a book typical for lesion",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows a surgical specimen of the female reproductive system, specifically featuring the fallopian tubes, ovaries, and sections of the uterus. The presence of multiple cystic structures on the ovaries suggests polycystic ovaries, which can be associated with polycystic ovary syndrome (PCOS) or ovarian cysts. The image likely represents a pathological specimen for educational or diagnostic purposes."
+    },
+    {
+        "image": "image1203",
+        "question": "What does this image show?",
+        "answer": "esophageal varices due to alcoholic cirrhosis",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows a close-up view of a gastric ulcer. A gastric ulcer is a sore that develops on the lining of the stomach. They are often associated with inflammation and damage to the stomach lining, typically caused by factors like Helicobacter pylori infection or the use of nonsteroidal anti-inflammatory drugs (NSAIDs)."
+    },
+    {
+        "image": "image1135",
+        "question": "What does this image show?",
+        "answer": "hemorrhage secondary to ruptured aneurysm",
+        "answer_type": "OPEN",
+        "model_answer": "This image appears to show an internal view of gastrointestinal structures with visible dark areas suggestive of bleeding or hemorrhage. The dark coloration might indicate the presence of blood, possibly related to conditions such as intestinal ischemia or infarction. For a precise diagnosis, a medical professional would need to conduct a thorough examination and review further clinical information."
+    },
+    {
+        "image": "image1616",
+        "question": "How does this image show sectioned nodes?",
+        "answer": "with ivory white color ",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows sectioned celiac lymph nodes, which are visible due to their distinct appearance and internal structure. The nodes have been cut open, exposing their interior, which may reveal differences in texture and color compared to the outer surface. These details help in studying the anatomy, characteristics, and potential pathological conditions of the lymph nodes. The label marks them as \"CELIAC NODES,\" indicating their location within the body."
+    },
+    {
+        "image": "image1679",
+        "question": "What is present?",
+        "answer": "chronic myelogenous leukemia in blast crisis",
+        "answer_type": "OPEN",
+        "model_answer": "The image shows a cut section of an organ, likely a spleen, with multiple dark areas. The dark areas may indicate congestion, hemorrhage, or infarction. This appearance can suggest splenomegaly due to various causes, such as infection, hematological conditions, or other diseases."
+    },
+    {
+        "image": "image1137",
+        "question": "What does electron micrographs demonstrating fiber other frame shows dilated sarcoplasmic reticulum?",
+        "answer": "not connect with another",
+        "answer_type": "OPEN",
+        "model_answer": "These electron micrographs show muscle fibers, with the left image likely displaying normal sarcomere structure and the right image demonstrating dilated sarcoplasmic reticulum (SR). \n\nThe sarcoplasmic reticulum is an essential component of muscle cells, responsible for calcium storage and release, crucial for muscle contraction. In the right image, the dilation of the SR may indicate a pathological condition, possibly affecting muscle function by disrupting the normal calcium handling. This dilation can occur due to various reasons, including certain muscle diseases or cellular stress."
+    },
+    {
+        "image": "image1455",
+        "question": "What does this image show?",
+        "answer": "ovaries and uterus with tumor mass",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows a pathological specimen of a cut open cervix and uterus. The uterus is the organ on the right with a tubular structure, while the cervix has been sliced to show its internal structure. Typically, such images are used for educational purposes in pathology to study anatomical and pathological conditions."
+    },
+    {
+        "image": "image1464",
+        "question": "What is fixed tissue opened?",
+        "answer": "ovarian cyst with two or three teeth",
+        "answer_type": "OPEN",
+        "model_answer": "The image shows an opened uterine horn. The presence of white to yellow material might suggest a condition like pyometra, which is an infection of the uterus often seen in veterinary cases. The walls appear thickened, which is common in such infections. Pyometra typically requires prompt medical treatment."
+    },
+    {
+        "image": "image1661",
+        "question": "How does this image show close-up?",
+        "answer": "with obvious small infiltrates of something ",
+        "answer_type": "OPEN",
+        "model_answer": "The image shows a close-up of a liver with a mottled appearance. The liver tissue appears reddish with white speckles, indicating a pattern that might suggest congestion or a specific condition affecting the liver. There is also a ruler present for scale, showing measurements in metric units."
+    },
+    {
+        "image": "image1614",
+        "question": "What does this image show?",
+        "answer": "nodes at tail of pancreas natural color close-up massive replacement by metastatic lung carcinoma",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows a pathological specimen of the liver with multiple masses. The appearance of these nodular, pale masses is characteristic of metastatic cancer to the liver. The scale included provides a reference for the size of the masses. Such findings typically suggest the spread of cancer from another site in the body to the liver."
+    },
+    {
+        "image": "image1467",
+        "question": "What is all pelvic organs tumor mass opened?",
+        "answer": "like a book typical for this lesion",
+        "answer_type": "OPEN",
+        "model_answer": "The image shows excised pelvic organs, including a large tumor mass that involves the uterus, ovaries, and possibly other tissues. The mass appears to be a significant growth potentially associated with an ovarian tumor or another gynecological malignancy. Further histopathological examination would be necessary for an accurate diagnosis."
+    },
+    {
+        "image": "image1685",
+        "question": "What does this image show?",
+        "answer": "section of spleen through hilum show tumor mass in hilum slide and large metastatic nodules in spleen",
+        "answer_type": "OPEN",
+        "model_answer": "The image appears to show a section of a kidney with a renal tumor. The lighter, irregular area likely represents a renal cell carcinoma. This type of tumor often arises in the kidney and can have a distinct appearance compared to the surrounding tissue."
+    },
+    {
+        "image": "image1664",
+        "question": "What does this image show?",
+        "answer": "massively enlarged spleen with large infarcts seen from capsule",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows an enlarged spleen, a condition known as splenomegaly. The significant size may suggest underlying medical conditions such as infections, liver disease, or blood disorders."
+    },
+    {
+        "image": "image1476",
+        "question": "What is excellent close-up of thickened and inflamed exocervix said?",
+        "answer": "exocervix said to be invasive carcinoma",
+        "answer_type": "OPEN",
+        "model_answer": "The excellent close-up image of a thickened and inflamed exocervix indicates chronic cervicitis. This condition is characterized by inflammation of the cervix, often resulting from infection, irritation, or injury. Chronic cervicitis can lead to thickening of the cervical tissue as the body responds to ongoing inflammation."
+    },
+    {
+        "image": "image1127",
+        "question": "What does this image show?",
+        "answer": "close-up of liver with typical gray caseous looking material that can be seen with tuberculous peritonitis",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows a cross-section of a human liver with fatty change, also known as steatosis. The liver has a pale and greasy appearance, indicating the accumulation of fat within the liver cells. Fatty liver is often associated with conditions like obesity, alcohol abuse, or metabolic syndrome."
+    },
+    {
+        "image": "image1520",
+        "question": "What does this image show?",
+        "answer": "enlarged joints typical of osteoarthritis",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows a hand with visible deformity, which may suggest a condition like rheumatoid arthritis. The hand appears to have nodules and joint swelling, commonly associated with arthritic changes. This is not a diagnosis, but the appearance is typical of such conditions."
+    },
+    {
+        "image": "image1672",
+        "question": "What does this image appear?",
+        "answer": "as large mass of matted nodes like malignant lymphoma",
+        "answer_type": "OPEN",
+        "model_answer": "This image appears to show a dissected thyroid gland with visible tumor masses, likely indicating thyroid cancer. The lumpy and irregular appearance suggests tumor growth. For a definitive diagnosis, histopathological examination would be required."
+    },
+    {
+        "image": "image1623",
+        "question": "What is this fixed tissue cut?",
+        "answer": "surface of nodes shows infiltrative lesion quite well and does not show matting history of case unknown could have been a seminoma see other slides",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows a section of lymph nodes with metastatic cancer, likely from breast carcinoma. The cut surface displays varying areas of tumor infiltration, some paler and others darker, consistent with the spread of cancerous tissue."
+    },
+    {
+        "image": "image1505",
+        "question": "What is lesions shown?",
+        "answer": "on index finger staphylococcus",
+        "answer_type": "OPEN",
+        "model_answer": "The lesions on the finger in the image appear to be splinter hemorrhages. These are linear, small, reddish-brown spots that can appear under the nails. They are often associated with certain medical conditions, such as infective endocarditis, trauma, or other systemic issues. However, a proper medical examination is necessary to determine the exact cause."
+    },
+    {
+        "image": "image1662",
+        "question": "What is present ?",
+        "answer": "infarction secondary to shock",
+        "answer_type": "OPEN",
+        "model_answer": "The image shows a liver that appears to be affected by congestion. This can be due to congestive heart failure or other conditions leading to impaired blood flow. The dark coloration suggests blood accumulation, which is typical of congested organs. For a precise diagnosis, medical evaluation including histological analysis would be necessary."
+    },
+    {
+        "image": "image1620",
+        "question": "What does this image show?",
+        "answer": "massive enlargement with necrosis shown close-up natural color",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows a section of lung tissue with a significant amount of consolidation. The lobulated, red appearance and areas of dense, firm tissue may indicate pneumonia. The presence of consolidation like this generally results from an infection or inflammation, causing the airspaces to fill with fluid, bacteria, and white blood cells."
+    },
+    {
+        "image": "image1424",
+        "question": "What does this image show?",
+        "answer": "unopened uterus tubes and ovaries",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows a gross pathological specimen of the uterus and ovaries. The uterus is significantly enlarged and shows the presence of a large submucosal fibroid, also known as a leiomyoma. Fibroids are noncancerous growths of the uterus that often appear during childbearing years."
+    },
+    {
+        "image": "image1503",
+        "question": "How does this image show good shot of sixth finger?",
+        "answer": "with ligature on it ",
+        "answer_type": "OPEN",
+        "model_answer": "The image shows a hand with a sixth finger, or polydactyly, which appears to be a small, well-developed extra digit on the side of the hand near the pinky. The hand is positioned to clearly display the additional finger, highlighting its structure and placement. The ruler provides scale and context for the size of the extra digit."
+    },
+    {
+        "image": "image1134",
+        "question": "How does this image show close-up of uterus and ovaries?",
+        "answer": "with metastatic carcinoma on peritoneal surface ",
+        "answer_type": "OPEN",
+        "model_answer": "This image appears to show a close-up of a medical specimen, possibly including a uterus with multiple growths. The presence of irregular, nodular masses on the surface suggests the potential for fibroids or other similar growths. The texture and appearance of the tissue are consistent with biological material, which could include the uterus and possibly adjacent structures. However, without additional context or medical analysis, it's not definitive."
+    },
+    {
+        "image": "image2170",
+        "question": "How does this image show photo of face and neck?",
+        "answer": "with multiple nodular lesions consisting neoplastic plasma cells iga type 73yo man ",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows the face and neck with numerous large, raised nodules and tumors. The lesions appear to be scattered across the skin, some of which are red and inflamed. These characteristics could be indicative of a dermatological condition or disease like neurofibromatosis or another type of skin-related disorder."
+    },
+    {
+        "image": "image1798",
+        "question": "What does this image show?",
+        "answer": "basal body dr garcia tumors 66",
+        "answer_type": "OPEN",
+        "model_answer": "This image is a transmission electron micrograph showing a centrosome in a typical animal cell. The centrosome is an organelle that serves as the main microtubule organizing center, and it plays a critical role in cell division. The fibrous structures radiating from the centrosome are microtubules."
+    },
+    {
+        "image": "image1791",
+        "question": "What does this image show?",
+        "answer": "dilantin induced gingival hyperplasia",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows gingival hyperplasia, which is an overgrowth of the gum tissue. It can be caused by certain medications, such as anticonvulsants, immunosuppressants, or calcium channel blockers. Other possible causes include hormonal changes or certain health conditions. It's important for an individual with this condition to seek professional dental or medical advice for proper diagnosis and management."
+    },
+    {
+        "image": "image24",
+        "question": "What are evident in this microscopic image?",
+        "answer": "distended hydropic villi and proliferation of the chorionic epithelium",
+        "answer_type": "OPEN",
+        "model_answer": "This microscopic image shows a histological section, likely of glandular tissue such as a section from the prostate or breast. The following features are evident:\n\n1. **Proliferation of cells**: There is a notable increase in the number of cells, which could indicate hyperplasia or neoplasia.\n\n2. **Glandular structures**: The organized arrangement suggests possible glandular formations.\n\n3. **Stroma**: There is a connective tissue framework supporting the glands.\n\n4. **Irregular architecture**: The glands appear irregular, which can indicate a pathological condition.\n\nDetailed analysis would require more context and a pathologist's evaluation."
+    },
+    {
+        "image": "image1486",
+        "question": "What sickled red cells in vessels well shown ?",
+        "answer": "metastatic choriocarcinoma with pleomorphism and mitotic figures",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows what appears to be a histological section which might include various cell types. However, without specific markers or additional information, identifying sickled red blood cells in the vessels can be challenging, particularly if the cells are not clearly in the sickle shape. In sickle cell disease, sickled cells typically have a crescent or elongated shape, which may not be distinct in such a histological image unless highlighted specifically."
+    },
+    {
+        "image": "image31",
+        "question": "What is associated with severe internal anomalies such as maldevelopment of the brain and cardiac defects in almost all cases?",
+        "answer": "this degree of external dysmorphogenesis",
+        "answer_type": "OPEN",
+        "model_answer": "The image depicts a condition known as cyclopia, a rare congenital disorder part of a group of anomalies called holoprosencephaly. This condition is often associated with severe internal anomalies, including maldevelopment of the brain (such as a failure of the forebrain to divide into hemispheres) and cardiac defects. Holoprosencephaly is a result of impaired embryonic development, and its severity can vary, but most cases have significant associated anomalies."
+    },
+    {
+        "image": "image1873",
+        "question": "What does this image show?",
+        "answer": "oil wrights good photo blast cells",
+        "answer_type": "OPEN",
+        "model_answer": "This image shows a microscopic view of blood cells, specifically leukemic cells related to acute lymphoblastic leukemia (ALL). The cells exhibit a characteristic appearance with large, irregularly shaped nuclei and scant cytoplasm, typically stained for identification in a medical laboratory setting."
+    },
+    {
+        "image": "image50",
+        "question": "What do testicular teratomas contain?",
+        "answer": "mature cells from endodermal",
+        "answer_type": "OPEN",
+        "model_answer": "Testicular teratomas are a type of germ cell tumor that can contain a variety of tissue types, often from all three germ layers: ectoderm, mesoderm, and endoderm. They can include a mix of mature tissues such as hair, muscle, and bone, as well as neural and glandular elements. In immature teratomas, these tissues can be less differentiated and more embryonic in appearance."
+    },
+    {
+        "image": "image1928",
+        "question": "What is atypical appearing immunoblastic cells near splenic arteriole man died?",
+        "answer": "of what was thought to be viral pneumonia probably influenza",
+        "answer_type": "OPEN",
+        "model_answer": "The image shows a histological section with atypical appearing immunoblastic cells near a splenic arteriole, potentially indicative of a type of lymphoma, such as diffuse large B-cell lymphoma (DLBCL). These cells are large, with distinct nucleoli, and resemble activated lymphocytes or immunoblasts. \n\nWhen found in the spleen, especially in the context of a person who has died, this could indicate a hematologic malignancy or aggressive lymphoma affecting the spleen. However, a definitive diagnosis would require additional clinical information and a full pathological evaluation."
+    },
+    {
+        "image": "image1631",
+        "question": "What does this image show?",
+        "answer": "x-ray super cava venogram showing obstruction at level of entrance of innominate vein gross photo of tumor in file corresponds",
+        "answer_type": "OPEN",
+        "model_answer": "This image appears to be an X-ray of the upper part of a spine. It might show the cervical and thoracic regions, but the image quality is low and lacks clarity. It could be a lateral view, but it's difficult to provide a precise analysis without more context or a clearer image."
+    }
+]

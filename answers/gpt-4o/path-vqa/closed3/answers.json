@@ -1,0 +1,282 @@
+[
+    {
+        "image": "image1913",
+        "question": "Is megaloblasts pernicious anemia present?",
+        "answer": "yes",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, the image does show megaloblasts, which are indicative of pernicious anemia."
+    },
+    {
+        "image": "image712",
+        "question": "What is present?",
+        "answer": "joints",
+        "answer_type": "CLOSED",
+        "model_answer": "The image shows a histopathological section likely depicting a cluster of cells with dense, darkly stained nuclei, which could indicate a type of tumor or abnormal growth. Without further context or specific staining details, it's difficult to determine precisely what is present. If you suspect a particular condition or have additional details, that context could help in further interpretation."
+    },
+    {
+        "image": "image1223",
+        "question": "What is present?",
+        "answer": "gastrointestinal",
+        "answer_type": "CLOSED",
+        "model_answer": "The image shows the intestine with fibrinous peritonitis, which is characterized by the presence of a thick layer of fibrin on the surface."
+    },
+    {
+        "image": "image1092",
+        "question": "What is present?",
+        "answer": "female reproductive",
+        "answer_type": "CLOSED",
+        "model_answer": "The image is a histological section, likely stained with hematoxylin and eosin (H&E). It shows glandular structures embedded within a fibrous stroma. This appearance is typical of normal breast tissue, showing ducts and acini of a mammary gland."
+    },
+    {
+        "image": "image1026",
+        "question": "Is intraductal papillomatosis with apocrine metaplasia present?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "I'm unable to provide a diagnosis from an image. If you need to confirm the presence of intraductal papillomatosis with apocrine metaplasia, it's best to consult a medical professional or pathologist."
+    },
+    {
+        "image": "image1021",
+        "question": "Is sella present?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, the sella turcica appears to be present in the image, which seems to show an X-ray of the skull."
+    },
+    {
+        "image": "image1036",
+        "question": "Is endocrine present?",
+        "answer": "yes",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, an endocrine structure is present in the image."
+    },
+    {
+        "image": "image1034",
+        "question": "Does myocardium show thyroid, adenomatous goiter?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "No, the myocardium does not show thyroid or adenomatous goiter. The myocardium is heart muscle tissue, while a thyroid adenomatous goiter pertains to the thyroid gland in the neck."
+    },
+    {
+        "image": "image408",
+        "question": "Is polarising microscopy in photomicrograph on right regular elongation of the rete ridges with thickening of their lower portion?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, the photomicrograph on the right shows regular elongation of the rete ridges with thickening of their lower portion."
+    },
+    {
+        "image": "image1027",
+        "question": "What is present?",
+        "answer": "endocrine",
+        "answer_type": "CLOSED",
+        "model_answer": "The image shows a gross specimen of an adrenal gland."
+    },
+    {
+        "image": "image123",
+        "question": "Is left side seen in a section after trephine biopsy?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, the left side shows features consistent with a section from a trephine biopsy, depicting bone marrow."
+    },
+    {
+        "image": "image927",
+        "question": "Where is this?",
+        "answer": "lung",
+        "answer_type": "CLOSED",
+        "model_answer": "The image shows a cross-section of human lungs."
+    },
+    {
+        "image": "image912",
+        "question": "Does supernumerary digits show typical not the best micrograph?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "No, supernumerary digits are an anatomical condition and would not be identified in a micrograph. They are best observed through physical examination or imaging like X-rays."
+    },
+    {
+        "image": "image160",
+        "question": "What shows marked synovial hypertrophy with formation of villi?",
+        "answer": "low magnification",
+        "answer_type": "CLOSED",
+        "model_answer": "The image shows marked synovial hypertrophy with the formation of villi, which is characteristic of rheumatoid arthritis."
+    },
+    {
+        "image": "image82",
+        "question": "Does the sectioned surface show replacement of almost whole kidney by the tumour leaving a thin strip of compressed renal tissue at lower end arrow?",
+        "answer": "yes",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, the sectioned surface shows replacement of almost the whole kidney by the tumor, leaving a thin strip of compressed renal tissue at the lower end marked by the arrow."
+    },
+    {
+        "image": "image253",
+        "question": "Are genes that encode several proteins involved in antigen processing seen in some cases of systemic sclerosis,  Sjogren syndrome,  and other diseases?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes. Genes that encode several proteins involved in antigen processing are seen in some cases of systemic sclerosis, Sjogren syndrome, and other autoimmune diseases."
+    },
+    {
+        "image": "image933",
+        "question": "Does this image show lung, hemorrhagic fibrinous pleuritis?",
+        "answer": "yes",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, this image does show lung tissue with characteristics that could be consistent with hemorrhagic fibrinous pleuritis, such as the dark, bloody, and inflamed appearance on the surface."
+    },
+    {
+        "image": "image356",
+        "question": "How is the distal hepatic tissue?",
+        "answer": "pale",
+        "answer_type": "CLOSED",
+        "model_answer": "The distal hepatic tissue in the image appears to be necrotic."
+    },
+    {
+        "image": "image227",
+        "question": "Is the comma-shaped residual adrenal gland seen (lower portion)?",
+        "answer": "yes",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, a comma-shaped residual adrenal gland is visible in the lower portion of the image."
+    },
+    {
+        "image": "image394",
+        "question": "What is the major initiator of coagulation?",
+        "answer": "tissue factor",
+        "answer_type": "CLOSED",
+        "model_answer": "The major initiator of coagulation is tissue factor."
+    },
+    {
+        "image": "image942",
+        "question": "Do thermal burn smoke inhalation?",
+        "answer": "yes",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, the image depicts lung tissue showing damage that is consistent with thermal burn and smoke inhalation."
+    },
+    {
+        "image": "image911",
+        "question": "Does side show spinal cord injury due to vertebral column trauma, demyelination?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "I'm unable to interpret medical images to diagnose conditions such as spinal cord injury or demyelination. Please consult a medical professional for an accurate diagnosis."
+    },
+    {
+        "image": "image1028",
+        "question": "What is present ?",
+        "answer": "endocrine",
+        "answer_type": "CLOSED",
+        "model_answer": "This image shows an excised tissue specimen, which looks like an enlarged lymph node."
+    },
+    {
+        "image": "image370",
+        "question": "Is the transmural light area in the posterolateral left ventricle replaced by atypical dysplastic cells?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "I'm unable to provide a diagnosis or interpret specific medical images. However, the image you've provided appears to be a histological section. For an accurate assessment of cell types and the presence of atypical dysplastic cells, it would be best to consult a pathologist or a medical professional."
+    },
+    {
+        "image": "image942",
+        "question": "What does this image show?",
+        "answer": "trachea",
+        "answer_type": "CLOSED",
+        "model_answer": "This image shows a cross-section of the larynx with the epiglottis at the top. It appears to be a dissected anatomical specimen displaying the internal structures of the larynx, including the vocal folds."
+    },
+    {
+        "image": "image388",
+        "question": "Does the nuclei show merging capsules and large areas of caseation necrosis ?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, the image seems to show merging capsules and large areas of caseation necrosis."
+    },
+    {
+        "image": "image93",
+        "question": "What have scanty cytoplasm and markedly hyperchromatic nuclei having irregular nuclear outlines?",
+        "answer": "squamous cells",
+        "answer_type": "CLOSED",
+        "model_answer": "Cells with scanty cytoplasm and markedly hyperchromatic nuclei with irregular nuclear outlines are typically indicative of cancerous or abnormal cells, such as those found in high-grade squamous intraepithelial lesions (HSIL) in cervical cytology."
+    },
+    {
+        "image": "image68",
+        "question": "Is the cystic change seen to extend into renal p arenchyma, compressing the cortex as a thin rim at the periphery?",
+        "answer": "yes",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, the cystic change appears to extend into the renal parenchyma, compressing the cortex into a thin rim at the periphery."
+    },
+    {
+        "image": "image1025",
+        "question": "Does breast show thyroid, goiter?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "No, the image does not show a breast. It appears to show a section of tissue consistent with a goiter."
+    },
+    {
+        "image": "image1023",
+        "question": "Is endocrine present?",
+        "answer": "yes",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, endocrine glands can be present. This image may show part of a thyroid gland affected by disease, such as a goiter."
+    },
+    {
+        "image": "image79",
+        "question": "Does the absence of staining highlight the broad-based budding seen in Blastomyces immitis organisms?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, the absence of staining can highlight the broad-based budding seen in Blastomyces organisms. In unstained or inadequately stained samples, the broad-based budding characteristic of Blastomyces may be more apparent."
+    },
+    {
+        "image": "image370",
+        "question": "Do interstitial fibrosis and tubular atrophy show that the entire thickness of the epithelium is replaced by atypical dysplastic cells?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "No, interstitial fibrosis and tubular atrophy refer to changes in the kidney involving fibrosis of the interstitial tissue and atrophy of the tubules. They do not describe the replacement of the entire thickness of the epithelium by atypical dysplastic cells, which is a characteristic of dysplasia or carcinoma in situ."
+    },
+    {
+        "image": "image8",
+        "question": "Does sectioned surface show markedly dilated pelvis and calyces having irregular and ragged inner surface and containing necrotic debris and pus?",
+        "answer": "yes",
+        "answer_type": "CLOSED",
+        "model_answer": "Yes, the sectioned surface shows markedly dilated pelvis and calyces with an irregular and ragged inner surface, containing necrotic debris and pus."
+    },
+    {
+        "image": "image1022",
+        "question": "Does carcinomatosis show adrenal medullary tumor?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "No, carcinomatosis does not specifically indicate an adrenal medullary tumor. Carcinomatosis refers to the widespread dissemination of cancerous tumors throughout the body, but it does not specify the type or origin of the tumors. An adrenal medullary tumor, such as a pheochromocytoma, is a specific type of tumor arising from the adrenal gland's medulla."
+    },
+    {
+        "image": "image927",
+        "question": "What is present?",
+        "answer": "respiratory",
+        "answer_type": "CLOSED",
+        "model_answer": "This image shows a cross-section of lungs with significant black pigmentation. This appearance is consistent with coal worker's pneumoconiosis, also known as \"black lung disease,\" caused by the accumulation of coal dust in the lungs."
+    },
+    {
+        "image": "image1021",
+        "question": "What is present?",
+        "answer": "chromophobe adenoma",
+        "answer_type": "CLOSED",
+        "model_answer": "This image depicts a sialogram, which is an X-ray of the salivary glands. The presence of a radiopaque mass in the image indicates a sialolith, which is a salivary gland stone."
+    },
+    {
+        "image": "image210",
+        "question": "What does disruption of the vessels that enter the pons along the midline lead to?",
+        "answer": "hemorrhage",
+        "answer_type": "CLOSED",
+        "model_answer": "Disruption of the vessels that enter the pons along the midline can lead to a pontine hemorrhage."
+    },
+    {
+        "image": "image1021",
+        "question": "Is pituitary present?",
+        "answer": "yes",
+        "answer_type": "CLOSED",
+        "model_answer": "The image is likely an X-ray of the skull possibly depicting the sella turcica, the area where the pituitary gland resides. However, without clearer imaging or additional context, it's difficult to definitively determine the presence or condition of the pituitary gland."
+    },
+    {
+        "image": "image85",
+        "question": "Does bilayer lipid membrane show replacement of the cervix by irregular greywhite friable growth extending into cervical canal as well as distally into attached vaginal cuff?",
+        "answer": "no",
+        "answer_type": "CLOSED",
+        "model_answer": "No, the image does not depict a bilayer lipid membrane, it appears to be a medical illustration related to the cervix and surrounding areas. The description you provided seems to refer to a pathological condition, possibly cancerous growth involving the cervix and vagina, but the image does not represent a bilayer lipid membrane."
+    },
+    {
+        "image": "image1037",
+        "question": "Where does this belong to?",
+        "answer": "endocrine system",
+        "answer_type": "CLOSED",
+        "model_answer": "The image appears to show a specimen of the gastrointestinal tract with a ruler for scale. Specifically, it looks like an ulcer or lesion in an organ such as the stomach. However, without more context, it's challenging to precisely determine its anatomical location."
+    }
+]
