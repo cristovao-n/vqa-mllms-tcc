@@ -23,7 +23,7 @@ def process_sample(sample, sample_dir):
         ) as image_file:
             image_data = base64.b64encode(image_file.read()).decode("utf-8")
             help = (
-                "This is a closed-ended question. Answer with yes or no."
+                "This is a closed-ended question. Answer with only yes or no."
                 if sample_dir.startswith("closed")
                 else ""
             )
