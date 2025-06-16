@@ -34,13 +34,13 @@ Save in the table the model_answer and the model
 
 Evaluate the results manually according to these criteria:
 
-    Should directly answer the question and provide the correct response.
+-   Should directly answer the question and provide the correct response.
 
-    Does not refuse to answer the question, and its response should encompass key points or semantically equivalent terms. Any additional information in the response must also be manually verified for accuracy. This criterion is particularly applicable to open-ended questions.
+-   Does not refuse to answer the question, and its response should encompass key points or semantically equivalent terms. Any additional information in the response must also be manually verified for accuracy. This criterion is particularly applicable to open-ended questions.
 
-    Responses should be devoid of ambiguity. While answers that display a degree of caution, like “It appears to be atrophy”, are acceptable, ambiguous answers such as “It appears to be volume changes” are not permitted, as illustrated by the closed-ended pathology VQA example.
+-   Responses should be devoid of ambiguity. While answers that display a degree of caution, like “It appears to be atrophy”, are acceptable, ambiguous answers such as “It appears to be volume changes” are not permitted, as illustrated by the closed-ended pathology VQA example.
 
-    Needs to provide comprehensive answers. For instance, if the prompt is “In which two ventricles... ” and it mentions only one, the answer is considered incorrect.
+-   Needs to provide comprehensive answers. For instance, if the prompt is “In which two ventricles... ” and it mentions only one, the answer is considered incorrect.
 
 Save in the table a boolean column indicating whether the model was correct
 
