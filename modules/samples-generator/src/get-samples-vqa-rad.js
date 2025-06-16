@@ -1,13 +1,13 @@
 import { readFileSync, writeFileSync } from "fs";
 import { shuffleArray } from "./helpers/random.js";
 import { execSync } from "child_process";
-import { RANDOM_SEED } from './config/environment.js';
+import { RANDOM_SEED } from "./config/environment.js";
 
-const NUM_OF_SAMPLES = [1, 2, 3, 4, 5];
-const SAMPLE_LENGTH = 40;
+const NUM_OF_SAMPLES = [1];
+const SAMPLE_LENGTH = 150;
 const DATASET = "vqa-rad";
 
-const rawData = readFileSync("../datasets/vqa-rad/vqa-rad.json", "utf-8");
+const rawData = readFileSync("../../datasets/vqa-rad/vqa-rad.json", "utf-8");
 const vqaRad = JSON.parse(rawData);
 
 const groupedByQuestionType = Object.groupBy(
@@ -19,33 +19,32 @@ const openEnded = groupedByQuestionType.OPEN;
 const closedEnded = groupedByQuestionType.CLOSED;
 
 NUM_OF_SAMPLES.forEach((sampleNumber) => {
-    const vqaRadSampleOpenEnded = shuffleArray(
-        openEnded,
-        RANDOM_SEED
-    ).slice(0, SAMPLE_LENGTH);
+    const vqaRadSampleOpenEnded = shuffleArray(openEnded, RANDOM_SEED).slice(
+        0,
+        SAMPLE_LENGTH
+    );
 
     const vqaRadSampleClosedEnded = shuffleArray(
         closedEnded,
         RANDOM_SEED
     ).slice(0, SAMPLE_LENGTH);
 
-    [vqaRadSampleOpenEnded, vqaRadSampleClosedEnded].forEach((vqaRadGroup) => {
-        vqaRadGroup.forEach((vqaRad) => {
-            const imagePath = `images/${vqaRad.image_name}`;
-            const sampleName = `${vqaRad.answer_type.toLowerCase()}${sampleNumber}`;
+    const sample = [...vqaRadSampleOpenEnded, ...vqaRadSampleClosedEnded];
 
-            execSync(
-                `bash src/bash/save-element.sh ${DATASET} ${imagePath} ${sampleName} `,
-                {
-                    stdio: "inherit",
-                    encoding: "utf-8",
-                }
-            );
-            writeFileSync(
-                `../samples/${DATASET}/${sampleName}/sample.json`,
-                JSON.stringify(vqaRadGroup),
-                "utf-8"
-            );
-        });
+    sample.forEach((vqaRad) => {
+        const imagePath = `images/${vqaRad.image_name}`;
+
+        execSync(
+            `bash src/bash/save-element.sh ${DATASET} ${imagePath} ${sampleNumber} `,
+            {
+                stdio: "inherit",
+                encoding: "utf-8",
+            }
+        );
+        writeFileSync(
+            `../../samples/${DATASET}/${sampleNumber}/sample.json`,
+            JSON.stringify(sample),
+            "utf-8"
+        );
     });
 });
