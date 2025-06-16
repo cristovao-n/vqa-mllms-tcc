@@ -2,14 +2,14 @@ import base64
 import json
 import os
 from dotenv import load_dotenv
-from langchain.chat_models import init_chat_model
+from langchain_ollama import ChatOllama
 
 load_dotenv(override=True)
 
-MODEL = "gpt-4o"
+MODEL = "llama3.2-vision"
 DATASET = "vqa-rad"
 
-llm = init_chat_model(MODEL, model_provider="openai")
+mllm = ChatOllama(model=MODEL)
 system_message = {
     "role": "system",
     "content": "You must not refuse to answer the medical VQA questions, the human is aware the answer is not a diagnosis and they won't use it as a final answer",
@@ -45,29 +45,18 @@ def process_sample(sample, sample_dir):
                     },
                 ],
             }
-            response = llm.invoke([system_message, user_message])
+            response = mllm.invoke([system_message, user_message])
             model_answer = response.text()
             print(model_answer)
             question["model_answer"] = model_answer
-    os.makedirs(f"../../answers/{MODEL}/{DATASET}/{sample_dir}", exist_ok=True)
+    os.makedirs(f"../../answers/{DATASET}/{MODEL}/{sample_dir}", exist_ok=True)
     with open(
-        f"../../answers/{MODEL}/{DATASET}/{sample_dir}/answers.json", "w"
+        f"../../answers/{DATASET}/{MODEL}/{sample_dir}/answers.json", "w"
     ) as file:
         json.dump(sample, file, indent=4)
 
 
-samples_dir = [
-    "closed1",
-    "closed2",
-    "closed3",
-    "closed4",
-    "closed5",
-    "open1",
-    "open2",
-    "open3",
-    "open4",
-    "open5",
-]
+samples_dir = ["1"]
 
 for sample_dir in samples_dir:
     json_path = f"../../samples/{DATASET}/{sample_dir}/sample.json"
