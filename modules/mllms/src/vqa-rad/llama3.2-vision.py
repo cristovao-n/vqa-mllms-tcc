@@ -6,7 +6,7 @@ from langchain_ollama import ChatOllama
 
 load_dotenv(override=True)
 
-MODEL = "llama3.2-vision"
+MODEL = "llama3.2-vision:11b"
 DATASET = "vqa-rad"
 
 mllm = ChatOllama(model=MODEL)
