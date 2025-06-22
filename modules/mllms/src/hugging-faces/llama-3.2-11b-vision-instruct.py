@@ -1,6 +1,6 @@
 from transformers import pipeline
 
-pipe = pipeline("image-text-to-text", model="Qwen/Qwen2.5-VL-7B-Instruct", device="cuda")
+pipe = pipeline("image-text-to-text", model="meta-llama/Llama-3.2-11B-Vision-Instruct", device="cuda")
 messages = [
     {
         "role": "user",
