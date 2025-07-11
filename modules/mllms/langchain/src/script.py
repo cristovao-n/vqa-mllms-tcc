@@ -3,11 +3,23 @@ import json
 import os
 from dotenv import load_dotenv
 from langchain_ollama import ChatOllama
+from langchain.chat_models import init_chat_model
+import sys
+from datetime import datetime
+
 
 load_dotenv(override=True)
 
-MODEL = "llama3.2-vision:11b"
+MODEL = sys.argv[1]
 DATASET = "vqa-rad"
+
+def get_mllm(model):
+    if model == "qwen2.5vl:7b":
+        return ChatOllama(model)
+    if model == "llama3.2-vision:11b":
+        return ChatOllama(model)
+    if model == "gpt-4o":
+        return init_chat_model(MODEL, model_provider="openai")
 
 mllm = ChatOllama(model=MODEL)
 system_message = {
@@ -16,10 +28,13 @@ system_message = {
 }
 
 
+def get_time():
+    return datetime.now().strftime("%H:%M:%S")
+
 def process_sample(sample, sample_dir):
     for question in sample:
         with open(
-            f"../../samples/{DATASET}/{sample_dir}/{question['image_name']}", "rb"
+            f"../../../samples/{DATASET}/{sample_dir}/{question['image_name']}", "rb"
         ) as image_file:
             image_data = base64.b64encode(image_file.read()).decode("utf-8")
             help = (
@@ -47,19 +62,24 @@ def process_sample(sample, sample_dir):
             }
             response = mllm.invoke([system_message, user_message])
             model_answer = response.text()
-            print(model_answer)
+            print(f"[INFO] {get_time()}")
+            print(f"Question: {question['question']}")
+            print(f"Expected: {question['answer']}")
+            print(f"Received: {model_answer}")
             question["model_answer"] = model_answer
-    os.makedirs(f"../../answers/{DATASET}/{MODEL}/{sample_dir}", exist_ok=True)
+    os.makedirs(f"../../../answers/{DATASET}/{MODEL}/{sample_dir}", exist_ok=True)
     with open(
         f"../../answers/{DATASET}/{MODEL}/{sample_dir}/answers.json", "w"
     ) as file:
         json.dump(sample, file, indent=4)
 
 
-samples_dir = ["1"]
+samples_dir = ["closed/1"]
 
 for sample_dir in samples_dir:
-    json_path = f"../../samples/{DATASET}/{sample_dir}/sample.json"
+    json_path = f"../../../samples/{DATASET}/{sample_dir}/sample.json"
     with open(json_path, "r") as file:
         sample = json.load(file)
+        print(f"[INFO] {get_time()} - Starting to process {sample_dir}")
         process_sample(sample, sample_dir)
+        print(f"[INFO] {get_time()} - The {sample_dir} sample has finished.")
