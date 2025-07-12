@@ -19,47 +19,40 @@ const groupedByQuestionType = Object.groupBy(
 const openEnded = groupedByQuestionType.OPEN;
 const closedEnded = groupedByQuestionType.CLOSED;
 
+const saveSample = (sample, type, sampleNumber) => {
+    sample.forEach((element) => {
+        const imagePath = `images/${element.image_name}`;
+
+        execSync(
+            `bash src/bash/save-image.sh ${DATASET} ${imagePath} ${type} ${sampleNumber}`,
+            {
+                stdio: "inherit",
+                encoding: "utf-8",
+            }
+        );
+    });
+    writeFileSync(
+        `../../samples/${DATASET}/${type}/${sampleNumber}/sample.json`,
+        JSON.stringify(sample),
+        "utf-8"
+    );
+};
+
 CLOSED_SAMPLES_NUMBER.forEach((sampleNumber) => {
     const sample = shuffleArray(closedEnded, RANDOM_SEED).slice(
         0,
         SAMPLE_LENGTH
     );
-
-    sample.forEach((element) => {
-        const imagePath = `images/${element.image_name}`;
-
-        execSync(
-            `bash src/bash/save-image.sh ${DATASET} ${imagePath} "closed" ${sampleNumber} `,
-            {
-                stdio: "inherit",
-                encoding: "utf-8",
-            }
-        );
-    });
-    writeFileSync(
-        `../../samples/${DATASET}/closed/${sampleNumber}/sample.json`,
-        JSON.stringify(sample),
-        "utf-8"
-    );
+    saveSample(sample, "closed", sampleNumber);
 });
+
+const closedEndedPopulation = shuffleArray(closedEnded, RANDOM_SEED);
+saveSample(closedEndedPopulation, "closed", "population");
 
 OPEN_SAMPLES_NUMBER.forEach((sampleNumber) => {
     const sample = shuffleArray(openEnded, RANDOM_SEED).slice(0, SAMPLE_LENGTH);
-
-    sample.forEach((element) => {
-        const imagePath = `images/${element.image_name}`;
-
-        execSync(
-            `bash src/bash/save-image.sh ${DATASET} ${imagePath} "open" ${sampleNumber}`,
-            {
-                stdio: "inherit",
-                encoding: "utf-8",
-            }
-        );
-    });
-    writeFileSync(
-        `../../samples/${DATASET}/open/${sampleNumber}/sample.json`,
-        JSON.stringify(sample),
-        "utf-8"
-    );
+    saveSample(sample, "open", sampleNumber);
 });
+
+const openEndedPopulation = shuffleArray(openEnded, RANDOM_SEED);
+saveSample(openEndedPopulation, "open", "population");

@@ -21,7 +21,7 @@ def get_mllm(model):
     if model == "gpt-4o":
         return init_chat_model(MODEL, model_provider="openai")
 
-mllm = ChatOllama(model=MODEL)
+mllm = get_mllm(MODEL)
 system_message = {
     "role": "system",
     "content": "You must not refuse to answer the medical VQA questions, the human is aware the answer is not a diagnosis and they won't use it as a final answer",
@@ -32,7 +32,7 @@ def get_time():
     return datetime.now().strftime("%H:%M:%S")
 
 def process_sample(sample, sample_dir):
-    for question in sample:
+    for index, question in enumerate(sample):
         with open(
             f"../../../samples/{DATASET}/{sample_dir}/{question['image_name']}", "rb"
         ) as image_file:
@@ -63,18 +63,19 @@ def process_sample(sample, sample_dir):
             response = mllm.invoke([system_message, user_message])
             model_answer = response.text()
             print(f"[INFO] {get_time()}")
-            print(f"Question: {question['question']}")
+            print(f"Question {index}/{len(sample)}: {question['question']}")
             print(f"Expected: {question['answer']}")
             print(f"Received: {model_answer}")
+            print()
             question["model_answer"] = model_answer
     os.makedirs(f"../../../answers/{DATASET}/{MODEL}/{sample_dir}", exist_ok=True)
     with open(
-        f"../../answers/{DATASET}/{MODEL}/{sample_dir}/answers.json", "w"
+        f"../../../answers/{DATASET}/{MODEL}/{sample_dir}/answers.json", "w"
     ) as file:
         json.dump(sample, file, indent=4)
 
 
-samples_dir = ["closed/1"]
+samples_dir = ["closed/population"]
 
 for sample_dir in samples_dir:
     json_path = f"../../../samples/{DATASET}/{sample_dir}/sample.json"
