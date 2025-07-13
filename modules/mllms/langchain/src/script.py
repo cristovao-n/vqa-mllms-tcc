@@ -15,9 +15,9 @@ DATASET = "vqa-rad"
 
 def get_mllm(model):
     if model == "qwen2.5vl:7b":
-        return ChatOllama(model)
+        return ChatOllama(model=model)
     if model == "llama3.2-vision:11b":
-        return ChatOllama(model)
+        return ChatOllama(model=model)
     if model == "gpt-4o":
         return init_chat_model(MODEL, model_provider="openai")
 
