@@ -33,6 +33,9 @@ def get_time():
 
 def process_sample(sample, sample_dir):
     for index, question in enumerate(sample):
+        output_path = f"../../../answers/{DATASET}/{MODEL}/{sample_dir}/answers.jsonl"
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
         with open(
             f"../../../samples/{DATASET}/{sample_dir}/{question['image_name']}", "rb"
         ) as image_file:
@@ -63,17 +66,15 @@ def process_sample(sample, sample_dir):
             response = mllm.invoke([system_message, user_message])
             model_answer = response.text()
             print(f"[INFO] {get_time()}")
-            print(f"Question {index}/{len(sample)}: {question['question']}")
+            print(f"Question {index + 1}/{len(sample)}: {question['question']}")
             print(f"Expected: {question['answer']}")
             print(f"Received: {model_answer}")
             print()
             question["model_answer"] = model_answer
-    os.makedirs(f"../../../answers/{DATASET}/{MODEL}/{sample_dir}", exist_ok=True)
-    with open(
-        f"../../../answers/{DATASET}/{MODEL}/{sample_dir}/answers.json", "w"
-    ) as file:
-        json.dump(sample, file, indent=4)
 
+            # Append to JSONL
+            with open(output_path, "a") as out_file:
+                out_file.write(json.dumps(question) + "\n")
 
 samples_dir = ["closed/population"]
 
