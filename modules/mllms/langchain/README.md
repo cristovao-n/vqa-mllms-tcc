@@ -9,7 +9,7 @@ Installing dependencies in virtual environment
 
 ## Running app
 
-`python3.11 src/script.py <model>`
+`python3.11 -u src/script.py <model> >> ouput-<model>.txt`
 
 ### Models
 
