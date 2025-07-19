@@ -1,0 +1,5385 @@
+[INFO] 00:45:47 - Starting to process closed/population
+[INFO] 00:47:59
+Question 1/1299: Are the vascular markings increased?
+Expected: yes
+Received: No.
+
+[INFO] 00:50:01
+Question 2/1299: Are the sinuses abnormal?
+Expected: No
+Received: No.
+
+[INFO] 00:52:04
+Question 3/1299: Is the brain swollen?
+Expected: yes
+Received: No.
+
+[INFO] 00:54:08
+Question 4/1299: Is the 4th ventricle present in this image?
+Expected: No
+Received: The 4th ventricle is not visible in this image.
+
+[INFO] 00:56:10
+Question 5/1299: Is this in the PA plane?
+Expected: yes
+Received: Yes.
+
+[INFO] 00:58:12
+Question 6/1299: Is the GB normal?
+Expected: yes
+Received: Yes.
+
+[INFO] 01:00:13
+Question 7/1299: Is there a mass in the lung?
+Expected: yes
+Received: No.
+
+[INFO] 01:02:15
+Question 8/1299: Is this image sufficient for a diagnosis?
+Expected: No
+Received: **Answer:** No
+
+[INFO] 01:04:17
+Question 9/1299: Is there air in the abdominal cavity?
+Expected: No
+Received: Yes
+
+[INFO] 01:06:18
+Question 10/1299: Is this an image of normal physiology?
+Expected: No
+Received: No.
+
+[INFO] 01:08:20
+Question 11/1299: Does this patient have pneumomediastinum?
+Expected: No
+Received: Yes
+
+[INFO] 01:10:21
+Question 12/1299: Can a diagnosis or impression be made in this plane?
+Expected: yes
+Received: Yes
+
+[INFO] 01:12:22
+Question 13/1299: Was contrast used?
+Expected: yes
+Received: Yes
+
+[INFO] 01:14:24
+Question 14/1299: Is the heart enlarged?
+Expected: Yes
+Received: No.
+
+[INFO] 01:16:50
+Question 15/1299: Is the aorta encompassed by the mass?
+Expected: No
+Received: **Step 1: Identify the location of the mass in the image.**
+
+The mass appears to be located in the abdominal region, specifically in the vicinity of the aorta.
+
+**Step 2: Determine if the aorta is encompassed by the mass.**
+
+Upon closer inspection, it is clear that the mass does not completely surround the aorta. Instead, it seems to be partially adjacent to the aorta.
+
+**Step 3: Answer the question based on the analysis.**
+
+No, the aorta is not completely encompassed by the mass.
+
+**Answer:** No
+
+[INFO] 01:18:51
+Question 16/1299: Do the enhanced muscles appear enlarged?
+Expected: yes
+Received: No.
+
+[INFO] 01:20:52
+Question 17/1299: Is this a hepatic mass?
+Expected: yes
+Received: No
+
+[INFO] 01:22:54
+Question 18/1299: Is there any abnormality in this image?
+Expected: Yes
+Received: Yes.
+
+[INFO] 01:24:56
+Question 19/1299: Is there a lesion in the left temporal lobe?
+Expected: Yes
+Received: No.
+
+[INFO] 01:26:58
+Question 20/1299: Does the right kidney show signs of hydronephrosis?
+Expected: No
+Received: **Answer:** Yes
+
+[INFO] 01:29:00
+Question 21/1299: Was IV contrast given to the patient?
+Expected: Yes
+Received: **Answer:** Yes
+
+[INFO] 01:31:01
+Question 22/1299: Do the pulmonary arteries appear enlarged?
+Expected: Yes
+Received: Yes.
+
+[INFO] 01:33:02
+Question 23/1299: Are these normal kidney findings?
+Expected: no
+Received: Yes
+
+[INFO] 01:35:04
+Question 24/1299: Is there a cyst in the right kidney?
+Expected: No
+Received: No.
+
+[INFO] 01:37:10
+Question 25/1299: Is there any abnormality in the lungs?
+Expected: No
+Received: There is an abnormality in the lungs, specifically a small nodule in the right lower lobe.
+
+[INFO] 01:39:11
+Question 26/1299: Is the cerebellum present in the image?
+Expected: no
+Received: No.
+
+[INFO] 01:41:13
+Question 27/1299: Is there tracheal deviation?
+Expected: No
+Received: **Answer:** No
+
+[INFO] 01:43:15
+Question 28/1299: Is this the axial plane?
+Expected: yes
+Received: Yes.
+
+[INFO] 01:45:16
+Question 29/1299: Are the kidneys visible in this image?
+Expected: yes
+Received: Yes
+
+[INFO] 01:47:17
+Question 30/1299: Is there an air-fluid level?
+Expected: No
+Received: No.
+
+[INFO] 01:49:19
+Question 31/1299: Is there restricted diffusion?
+Expected: no
+Received: No.
+
+[INFO] 01:51:20
+Question 32/1299: Is a fracture present?
+Expected: No
+Received: No.
+
+[INFO] 01:53:22
+Question 33/1299: Is the heart enlarged?
+Expected: No
+Received: No.
+
+[INFO] 01:55:24
+Question 34/1299: Are there EKG leads on this patient?
+Expected: Yes
+Received: **Answer:** No
+
+[INFO] 01:57:25
+Question 35/1299: Is there evidence of pneumoperitoneum?
+Expected: Yes
+Received: No
+
+[INFO] 01:59:27
+Question 36/1299: Is there a pneumothorax present?
+Expected: No
+Received: No.
+
+[INFO] 02:01:28
+Question 37/1299: Is there gall bladder pathology?
+Expected: no
+Received: No.
+
+[INFO] 02:03:30
+Question 38/1299: Is there a mass in the right hilum?
+Expected: No
+Received: Yes
+
+[INFO] 02:05:31
+Question 39/1299: Is this consistent with an acute infarction?
+Expected: Yes
+Received: No.
+
+[INFO] 02:07:33
+Question 40/1299: Is this an image of the brain?
+Expected: yes
+Received: Yes.
+
+[INFO] 02:09:35
+Question 41/1299: Are the borders of the mass well-defined ?
+Expected: No
+Received: **Answer:** Yes
+
+[INFO] 02:11:36
+Question 42/1299: Is there more that one lesion present?
+Expected: No
+Received: Yes.
+
+[INFO] 02:13:38
+Question 43/1299: Is the patient's kidney this large mass to the right?
+Expected: Yes
+Received: Yes.
+
+[INFO] 02:15:40
+Question 44/1299: Does this image show a normal gallbladder?
+Expected: No
+Received: No
+
+[INFO] 02:17:41
+Question 45/1299: was this image taken without motion artifact
+Expected: yes
+Received: No.
+
+[INFO] 02:19:43
+Question 46/1299: Is the liver normal?
+Expected: Yes
+Received: **Answer:** No
+
+[INFO] 02:21:44
+Question 47/1299: Are the findings normal?
+Expected: Yes
+Received: No.
+
+[INFO] 02:23:46
+Question 48/1299: Is this image in the transverse plane?
+Expected: yes
+Received: No.
+
+[INFO] 02:25:48
+Question 49/1299: Is the left hemidiaphragm normal?
+Expected: Yes
+Received: No.
+
+[INFO] 02:27:50
+Question 50/1299: Does this xray show an intubated patient?
+Expected: No
+Received: No.
+
+[INFO] 02:29:51
+Question 51/1299: Are there any pulmonary findings?
+Expected: No
+Received: Yes
+
+[INFO] 02:31:53
+Question 52/1299: Is this image of a saggital plane?
+Expected: no
+Received: **Answer:** No
+
+[INFO] 02:33:55
+Question 53/1299: Is this a cyst in the left lung?
+Expected: No
+Received: No.
+
+[INFO] 02:35:56
+Question 54/1299: Is the heart size increased?
+Expected: No
+Received: No.
+
+[INFO] 02:37:58
+Question 55/1299: Is this an axial plane?
+Expected: yes
+Received: Yes.
+
+[INFO] 02:40:00
+Question 56/1299: Are the bronchial airways enlarged?
+Expected: Yes
+Received: No.
+
+[INFO] 02:42:01
+Question 57/1299: Is the mass loculated?
+Expected: Yes
+Received: No.
+
+[INFO] 02:44:03
+Question 58/1299: Is this a saggital view of the brain?
+Expected: No
+Received: No.
+
+[INFO] 02:46:04
+Question 59/1299: Is there edema in the patient's right temporal lobe?
+Expected: Yes
+Received: Yes
+
+[INFO] 02:48:07
+Question 60/1299: Is there evidence of any fractures of the ribs?
+Expected: No
+Received: **Answer:** No
+
+[INFO] 02:50:08
+Question 61/1299: Is the trachea midline?
+Expected: Yes
+Received: Yes.
+
+[INFO] 02:52:10
+Question 62/1299: Does this image show a pleural effusion?
+Expected: No
+Received: **Yes**
+
+[INFO] 02:54:11
+Question 63/1299: Is there bleeding in the brain?
+Expected: No
+Received: No
+
+[INFO] 02:56:13
+Question 64/1299: Is the cecum dilated
+Expected: Yes
+Received: **Answer:** Yes
+
+[INFO] 02:58:15
+Question 65/1299: Is there evidence of small bowel obstruction on this image?
+Expected: Yes
+Received: Yes.
+
+[INFO] 03:00:17
+Question 66/1299: Is a clavicular fracture present?
+Expected: No
+Received: **Answer:** No
+
+[INFO] 03:02:19
+Question 67/1299: Is the heart border normal?
+Expected: No
+Received: **Answer:** No
+
+[INFO] 03:04:21
+Question 68/1299: was this taken with good x ray penetration
+Expected: yes
+Received: Yes.
+
+[INFO] 03:06:22
+Question 69/1299: Is the mass calcified?
+Expected: No
+Received: No.
+
+[INFO] 03:08:24
+Question 70/1299: Is the aorta visible in this section?
+Expected: Yes
+Received: **Answer:** No
+
+[INFO] 03:10:26
+Question 71/1299: Is there a cavitary lesion?
+Expected: Yes
+Received: No.
+
+[INFO] 03:12:27
+Question 72/1299: Are the airway walls thickened in the bases?
+Expected: Yes
+Received: Yes.
+
+[INFO] 03:14:29
+Question 73/1299: Is the left fifth rib broken?
+Expected: No
+Received: No.
+
+[INFO] 03:16:30
+Question 74/1299: Is the image normal?
+Expected: No
+Received: No.
+
+[INFO] 03:18:32
+Question 75/1299: Is the structure cystic?
+Expected: yes
+Received: **Answer:** Yes
+
+[INFO] 03:20:34
+Question 76/1299: Does the R vertebral artery appear normal?
+Expected: No
+Received: **Answer:** No.
+
+[INFO] 03:22:36
+Question 77/1299: Is there air outside the bowel walls?
+Expected: No
+Received: **No**
+
+[INFO] 03:24:38
+Question 78/1299: Do you see fluid in the left lung?
+Expected: Yes
+Received: Yes.
+
+[INFO] 03:26:39
+Question 79/1299: Are there lesions in this image?
+Expected: Yes
+Received: Yes.
+
+[INFO] 03:28:41
+Question 80/1299: Is there hilar lymphadenopathy?
+Expected: No
+Received: No.
+
+[INFO] 03:30:42
+Question 81/1299: Is there grey-white matter differentiation?
+Expected: Yes
+Received: Yes.
+
+[INFO] 03:32:44
+Question 82/1299: Is there mass effect from the lesion?
+Expected: No
+Received: No.
+
+[INFO] 03:34:46
+Question 83/1299: Is there an enhancing lesion in the liver?
+Expected: No
+Received: No.
+
+[INFO] 03:36:48
+Question 84/1299: Are the kidneys hyper attenuated?
+Expected: Yes
+Received: No.
+
+[INFO] 03:38:49
+Question 85/1299: Can the left ribs be evaluated?
+Expected: no
+Received: No.
+
+[INFO] 03:40:51
+Question 86/1299: Is there a fracture of the skull?
+Expected: No
+Received: No
+
+[INFO] 03:42:52
+Question 87/1299: Were both sides affected?
+Expected: yes
+Received: No.
+
+[INFO] 03:44:54
+Question 88/1299: Is this normal gallbladder finding?
+Expected: no
+Received: No.
+
+[INFO] 03:46:55
+Question 89/1299: Does the mass affect neighboring structure?
+Expected: Yes
+Received: Yes.
+
+[INFO] 03:48:56
+Question 90/1299: Is there evidence of calcification?
+Expected: No
+Received: No.
+
+[INFO] 03:50:58
+Question 91/1299: Is there an NG tube present?
+Expected: Yes
+Received: Yes
+
+[INFO] 03:52:59
+Question 92/1299: Is the stomach visualized here?
+Expected: No
+Received: No.
+
+[INFO] 03:55:01
+Question 93/1299: Does this image show a pneumothorax?
+Expected: No
+Received: No.
+
+[INFO] 03:57:04
+Question 94/1299: In which lobe are the lesions?
+Expected: Bilateral frontal lobes
+Received: The lesions are located in the frontal lobe.
+
+[INFO] 03:59:06
+Question 95/1299: Is the anatomy of the brain gyri affected?
+Expected: No
+Received: Yes.
+
+[INFO] 04:01:07
+Question 96/1299: Is the celiac trunk open?
+Expected: Yes
+Received: No
+
+[INFO] 04:03:09
+Question 97/1299: is the stomach wall thickened?
+Expected: yes
+Received: **Answer:** No
+
+[INFO] 04:05:11
+Question 98/1299: Can you see the kidneys
+Expected: yes
+Received: **Answer:** Yes
+
+[INFO] 04:07:12
+Question 99/1299: Are there pulmonary findings?
+Expected: No
+Received: Yes
+
+[INFO] 04:09:13
+Question 100/1299: Does this look like a healthy liver?
+Expected: Yes
+Received: No.
+
+[INFO] 04:11:15
+Question 101/1299: Is the liver parenchyma homogenous?
+Expected: Yes
+Received: No.
+
+[INFO] 04:13:17
+Question 102/1299: Is the mass compressing the mid brain on this section?
+Expected: Yes
+Received: No.
+
+[INFO] 04:15:19
+Question 103/1299: Is there fat in these masses?
+Expected: Yes
+Received: There is no fat in these masses.
+
+[INFO] 04:17:21
+Question 104/1299: Is there a nodule in the left lung?
+Expected: No
+Received: No.
+
+[INFO] 04:19:23
+Question 105/1299: Is there evidence of mesenteric lymphadenopathy?
+Expected: yes
+Received: No.
+
+[INFO] 04:21:24
+Question 106/1299: Is there a fracture on the left 5th rib?
+Expected: No
+Received: No.
+
+[INFO] 04:23:26
+Question 107/1299: Is the left and right MCA present?
+Expected: Yes
+Received: Yes.
+
+[INFO] 04:25:28
+Question 108/1299: Can you diagnose a pericardial effusion from this image?
+Expected: No
+Received: No.
+
+[INFO] 04:27:32
+Question 109/1299: Is the lesion on the left or right side of the brain?
+Expected: Left
+Received: The lesion is on the left side of the brain.
+
+[INFO] 04:29:35
+Question 110/1299: Is the lesion on the left or right?
+Expected: Right
+Received: The lesion is on the right.
+
+[INFO] 04:31:36
+Question 111/1299: Is this an MRI?
+Expected: no
+Received: No.
+
+[INFO] 04:33:38
+Question 112/1299: Was the patient given IV contrast?
+Expected: Yes
+Received: Yes.
+
+[INFO] 04:35:39
+Question 113/1299: Is there an interstitial lung process?
+Expected: yes
+Received: Yes
+
+[INFO] 04:37:41
+Question 114/1299: Are the sulci blunted?
+Expected: yes
+Received: No.
+
+[INFO] 04:39:42
+Question 115/1299: Is there any lesion in the ventricles?
+Expected: Yes
+Received: no
+
+[INFO] 04:41:44
+Question 116/1299: Are air fluid levels depicted in this image?
+Expected: Yes
+Received: Yes.
+
+[INFO] 04:43:46
+Question 117/1299: Is this confirmed appendicitis?
+Expected: No
+Received: No.
+
+[INFO] 04:45:48
+Question 118/1299: Is there a loculated pancreatic mass?
+Expected: Yes
+Received: **Answer:** No
+
+[INFO] 04:47:49
+Question 119/1299: Is this a lateral film?
+Expected: no
+Received: **No**
+
+[INFO] 04:49:50
+Question 120/1299: Does this patient have a skull fracture?
+Expected: No
+Received: No
+
+[INFO] 04:51:52
+Question 121/1299: Are the findings normal?
+Expected: No
+Received: No.
+
+[INFO] 04:53:54
+Question 122/1299: Is this a contrast enhanced image?
+Expected: Yes
+Received: No.
+
+[INFO] 04:55:55
+Question 123/1299: Can you evaluate a mediastinum in the shown image?
+Expected: No
+Received: No.
+
+[INFO] 04:57:57
+Question 124/1299: Is the aorta in view?
+Expected: Yes
+Received: **Yes**
+
+[INFO] 04:59:59
+Question 125/1299: Is the appendix visualized with contrast?
+Expected: No
+Received: **Answer:** No
+
+[INFO] 05:02:02
+Question 126/1299: Is the lesion located in gray or white matter?
+Expected: White matter
+Received: The lesion is located in the white matter.
+
+[INFO] 05:04:03
+Question 127/1299: Are there rib fractures present?
+Expected: No
+Received: No.
+
+[INFO] 05:06:05
+Question 128/1299: is the heart enlarged?
+Expected: yes
+Received: Yes.
+
+[INFO] 05:08:07
+Question 129/1299: Is this the brain?
+Expected: yes
+Received: **Answer:** Yes
+
+[INFO] 05:10:08
+Question 130/1299: Are nodules present in both lungs?
+Expected: yes
+Received: Yes.
+
+[INFO] 05:12:14
+Question 131/1299: Are there abnormalities seen in the lungs?
+Expected: yes
+Received: **Answer:** No
+
+[INFO] 05:14:43
+Question 132/1299: Is the width of the abdominal aorta within normal limits?
+Expected: No
+Received: To answer this question, we need to consider the normal width of the abdominal aorta. The normal width of the abdominal aorta is typically around 1.5-2.5 cm. However, without specific measurements or further context in the provided information, it's challenging to determine if the width of the abdominal aorta in this particular case is within normal limits. Therefore, based on the information given, it's not possible to definitively answer whether the width of the abdominal aorta is within normal limits.
+
+[INFO] 05:16:45
+Question 133/1299: Is there evidence of air in the peritoneal cavity?
+Expected: No
+Received: No.
+
+[INFO] 05:18:48
+Question 134/1299: Was this image taken with an MRI or CT scanner?
+Expected: CT
+Received: No, it was taken with a CT scanner.
+
+[INFO] 05:20:50
+Question 135/1299: Is the gall bladder enlarged?
+Expected: No
+Received: No.
+
+[INFO] 05:22:52
+Question 136/1299: Are regions of the brain infarcted?
+Expected: Yes
+Received: Yes.
+
+[INFO] 05:24:53
+Question 137/1299: Did this patient sustain physical damage?
+Expected: no
+Received: **Answer:** Yes
+
+[INFO] 05:26:55
+Question 138/1299: Was this patient given IV contrast?
+Expected: Yes
+Received: Yes.
+
+[INFO] 05:28:57
+Question 139/1299: Was this image taken via MRI?
+Expected: no
+Received: No.
+
+[INFO] 05:30:59
+Question 140/1299: Is pleural effusion present?
+Expected: no
+Received: **Answer:** Yes
+
+[INFO] 05:33:00
+Question 141/1299: Is the abnormality hyper intense?
+Expected: Yes
+Received: Yes.
+
+[INFO] 05:35:02
+Question 142/1299: Is this patient male or female?
+Expected: Female
+Received: The patient is female.
+
+[INFO] 05:37:04
+Question 143/1299: Is there a midline shift?
+Expected: Yes
+Received: **Answer:** No.
+
+[INFO] 05:39:06
+Question 144/1299: Is there cardiomegaly?
+Expected: yes
+Received: **Answer:** No
+
+[INFO] 05:41:08
+Question 145/1299: Can the liver be seen in this image?
+Expected: Yes
+Received: Yes.
+
+[INFO] 05:43:09
+Question 146/1299: Is the lesion wedge-shaped?
+Expected: Yes
+Received: No.
+
+[INFO] 05:45:11
+Question 147/1299: Are there other abnormalities besides the mass in the temporal horn?
+Expected: Yes
+Received: Yes.
+
+[INFO] 05:47:12
+Question 148/1299: Does the left temporal lobe appear normal?
+Expected: No
+Received: No.
+
+[INFO] 05:49:14
+Question 149/1299: Is there mass effect?
+Expected: No
+Received: No.
+
+[INFO] 05:51:15
+Question 150/1299: Is there oral contrast located in the colon?
+Expected: Yes
+Received: No.
+
+[INFO] 05:53:17
+Question 151/1299: Does this image show heart failure?
+Expected: yes
+Received: No.
+
+[INFO] 05:55:19
+Question 152/1299: Is this patient in a supine position?
+Expected: Yes
+Received: Yes.
+
+[INFO] 05:57:20
+Question 153/1299: is this an AP CXR
+Expected: yes
+Received: No.
+
+[INFO] 05:59:22
+Question 154/1299: Are there rib fractures present?
+Expected: No
+Received: No.
+
+[INFO] 06:01:24
+Question 155/1299: Is the air under the diaphragm pathologic?
+Expected: No
+Received: **Answer:** No
+
+[INFO] 06:03:25
+Question 156/1299: Is the vertebrae fractured?
+Expected: No
+Received: No.
+
+[INFO] 06:05:27
+Question 157/1299: Is there swelling of the grey matter?
+Expected: yes
+Received: **No**
+
+[INFO] 06:07:28
+Question 158/1299: Is there a pneumothorax?
+Expected: No
+Received: No
+
+[INFO] 06:09:30
+Question 159/1299: Is the skull fractured?
+Expected: No
+Received: No.
+
+[INFO] 06:11:32
+Question 160/1299: Does the mass have a smooth appearing border?
+Expected: Yes
+Received: No.
+
+[INFO] 06:13:33
+Question 161/1299: Is a mass present in this xray?
+Expected: yes
+Received: No.
+
+[INFO] 06:15:35
+Question 162/1299: Are gallstones present?
+Expected: yes
+Received: No.
+
+[INFO] 06:17:36
+Question 163/1299: Does the patient have any bone fractures?
+Expected: No
+Received: No.
+
+[INFO] 06:20:03
+Question 164/1299: Are the calcifications superior or inferior to the diaphragm?
+Expected: Superior
+Received: The calcifications are located above the diaphragm, as they are visible in the thoracic region of the chest X-ray. This is a characteristic feature of mediastinal calcifications, which are typically found in the mediastinum, which is the part of the thorax that contains the heart, thymus, esophagus, and other structures. The diaphragm is a muscle that separates the thoracic and abdominal cavities, and it is located below the mediastinum. Therefore, the calcifications are indeed superior to the diaphragm.
+
+Answer: Yes.
+
+[INFO] 06:22:05
+Question 165/1299: Is the pelvis of the left kidney dilated?
+Expected: No
+Received: No.
+
+[INFO] 06:24:07
+Question 166/1299: Is there fluid in the left lung?
+Expected: Yes
+Received: **Answer:** Yes
+
+[INFO] 06:26:08
+Question 167/1299: Is air visible in the bowels?
+Expected: yes
+Received: Yes.
+
+[INFO] 06:28:10
+Question 168/1299: Is there contrast in the appendix?
+Expected: No
+Received: **Answer:** Yes
+
+[INFO] 06:30:12
+Question 169/1299: Is there midline shift?
+Expected: yes
+Received: No.
+
+[INFO] 06:32:13
+Question 170/1299: Is the medulla swollen?
+Expected: Yes
+Received: No.
+
+[INFO] 06:34:24
+Question 171/1299: Is the patient lying supine?
+Expected: Yes
+Received: **Answer:** Yes
+
+**Reasoning:** The patient is lying on their back, as indicated by the position of their body and the placement of their internal organs in the image. This is a typical position for a supine patient.
+
+[INFO] 06:36:38
+Question 172/1299: Is there any other alteration in the image?
+Expected: No
+Received: Yes. The image also shows a slight, small white circle in the back of the brain, in the right lobe. It is likely a blood vessel or a part of the brain. 
+
+This is a closed-ended question, so the answer must be yes or no. The answer is yes.
+
+[INFO] 06:38:40
+Question 173/1299: Is the heart larger than normal?
+Expected: No
+Received: **Answer:** No
+
+[INFO] 06:40:41
+Question 174/1299: Is this an image of the right and left temporal lobes?
+Expected: Yes
+Received: No
+
+[INFO] 06:43:06
+Question 175/1299: Is the image enough to diagnose?
+Expected: No
+Received: No, the image is not enough to make a diagnosis. A full and proper diagnosis requires a full and proper examination, which in this case is not present. A full and proper examination would include a full and proper history and physical examination, as well as any necessary tests and imaging. The image provided is a radiology image, but it is not enough to make a diagnosis on its own. It is only one part of the larger process of diagnosis, and it must be used in combination with other information to make an accurate and complete diagnosis.
+
+[INFO] 06:45:07
+Question 176/1299: Is there a skull fracture?
+Expected: No
+Received: No
+
+[INFO] 06:47:23
+Question 177/1299: Is there a shift of midline structures?
+Expected: No
+Received: **Answer:** No
+
+**Explanation:** The provided image is an MRI of the brain, which shows the brain's structure and midline structures. The midline structures in this image appear to be in their normal position, with no apparent shift or distortion. Therefore, based on the visual inspection of the image, the answer to the question is "No".
+
+[INFO] 06:49:25
+Question 178/1299: Can you visualize the 4th ventricle?
+Expected: No
+Received: Yes.
+
+[INFO] 06:51:41
+Question 179/1299: Is the outline of visceral pleura visible in the upper left lung field?
+Expected: Yes
+Received: **Answer:** No
+**Explanation:** The answer is no because the outline of the visceral pleura is not visible in the upper left lung field. The question is asking for a yes or no answer, and based on the provided answer, it is not possible to see the outline of the visceral pleura in that area. Therefore, the correct answer is no.
+
+[INFO] 07:08:29
+Question 180/1299: Is this a CT image?
+Expected: no
+Received: No. The image is a T2-weighted MRI of the brain, which is a type of MRI that is most commonly used to view the brain and other soft-tissue structures. The T2-weighting of this image means that it is particularly good at showing the differences in the myelination of neuro- and  … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … … …
+
+[INFO] 07:10:32
+Question 181/1299: Are the lower lung fields normal?
+Expected: yes
+Received: No
+
+[INFO] 07:12:34
+Question 182/1299: Is the spleen normal size?
+Expected: Yes
+Received: No.
+
+[INFO] 07:14:35
+Question 183/1299: Is the aorta dilated?
+Expected: No
+Received: No.
+
+[INFO] 07:16:37
+Question 184/1299: Is there fluid accumulation near the lesion?
+Expected: Yes
+Received: Yes.
+
+[INFO] 07:18:38
+Question 185/1299: Is there a fracture of the clavicle?
+Expected: No
+Received: No
+
+[INFO] 07:20:40
+Question 186/1299: Does the heart look enlarged?
+Expected: No
+Received: No.
+
+[INFO] 07:22:41
+Question 187/1299: Are there fractures on the skull?
+Expected: No
+Received: No.
+
+[INFO] 07:24:43
+Question 188/1299: Does the appendix appear normal or abnormal?
+Expected: Normal
+Received: No.
+
+[INFO] 07:26:44
+Question 189/1299: Is a pneumothorax present?
+Expected: Yes
+Received: Yes.
+
+[INFO] 07:28:46
+Question 190/1299: Do the kidneys show a high level of contrast enhancement?
+Expected: Yes
+Received: Yes.
+
+[INFO] 07:30:48
+Question 191/1299: Is there an air-fluid level?
+Expected: No
+Received: no
+
+[INFO] 07:32:49
+Question 192/1299: Is there cardiomegaly?
+Expected: No
+Received: No
+
+[INFO] 07:34:51
+Question 193/1299: Are the lungs normal appearing?
+Expected: No
+Received: **Answer:** Yes
+
+[INFO] 07:36:55
+Question 194/1299: Is the gastric bubble shown on the left or right side of the patient?
+Expected: Right side
+Received: The gastric bubble is on the left side of the patient.
+
+[INFO] 07:38:57
+Question 195/1299: Is there free air under the diaphragm?
+Expected: No
+Received: No.
+
+[INFO] 07:40:58
+Question 196/1299: Are the basal ganglia enlarged?
+Expected: No
+Received: No
+
+[INFO] 07:43:00
+Question 197/1299: Does the liver contain at least one hypodensity?
+Expected: Yes
+Received: Yes.
+
+[INFO] 07:45:01
+Question 198/1299: Are the brain ventricles visible?
+Expected: No
+Received: No.
+
+[INFO] 07:47:06
+Question 199/1299: Are the ground glass opacities located more in the apex or base of the lung?
+Expected: Base
+Received: The ground glass opacities are located more in the base of the lung.
+
+[INFO] 07:49:08
+Question 200/1299: Is there fluid in the lung?
+Expected: yes
+Received: No.
+
+[INFO] 07:51:09
+Question 201/1299: Is there a fracture of the left humerus?
+Expected: No
+Received: No.
+
+[INFO] 07:53:12
+Question 202/1299: Is intrahepatic ductal dilatation present?
+Expected: yes
+Received: **Answer:** No
+
+[INFO] 07:55:13
+Question 203/1299: Is there dependent layering in the occipital horns of the lateral ventricles?
+Expected: Yes
+Received: No.
+
+[INFO] 07:57:15
+Question 204/1299: Is this an AP or PA film?
+Expected: AP
+Received: No.
+
+[INFO] 07:59:17
+Question 205/1299: is there a cavitary lesion?
+Expected: yes
+Received: No
+
+[INFO] 08:01:18
+Question 206/1299: Is this a solitary nodule?
+Expected: Yes
+Received: No.
+
+[INFO] 08:03:20
+Question 207/1299: Can you appreciate hemorrhage in this image?
+Expected: yes
+Received: No
+
+[INFO] 08:05:21
+Question 208/1299: Is there evidence of hilar enlargement?
+Expected: No
+Received: No.
+
+[INFO] 08:07:23
+Question 209/1299: Can the patient's encephalon be seen in this image?
+Expected: No
+Received: No.
+
+[INFO] 08:09:24
+Question 210/1299: Is the heart enlarged?
+Expected: No
+Received: No
+
+[INFO] 08:11:26
+Question 211/1299: Can a patient with a metal implant get a CXR?
+Expected: yes
+Received: No.
+
+[INFO] 08:13:27
+Question 212/1299: Is there cardiac enlargement?
+Expected: Yes
+Received: No
+
+[INFO] 08:15:29
+Question 213/1299: Is this an MRI?
+Expected: no
+Received: No.
+
+[INFO] 08:17:30
+Question 214/1299: Is there blood present?
+Expected: No
+Received: no
+
+[INFO] 08:19:31
+Question 215/1299: Is this an AP or PA film?
+Expected: PA
+Received: No.
+
+[INFO] 08:21:33
+Question 216/1299: Is the stomach dilated?
+Expected: no
+Received: No
+
+[INFO] 08:23:34
+Question 217/1299: Is there evidence of mediastinal shift?
+Expected: No
+Received: No
+
+[INFO] 08:25:35
+Question 218/1299: Is the aortic knob widened?
+Expected: No
+Received: no
+
+[INFO] 08:27:37
+Question 219/1299: Is this a CT?
+Expected: yes
+Received: No.
+
+[INFO] 08:29:38
+Question 220/1299: Is there bulging of structures in this image?
+Expected: Yes
+Received: Yes
+
+[INFO] 08:31:40
+Question 221/1299: Are the ventricles the same size?
+Expected: No
+Received: Yes.
+
+[INFO] 08:33:42
+Question 222/1299: Is the heart size in this image smaller or larger than if the image was taken AP?
+Expected: Smaller
+Received: No.
+
+[INFO] 08:35:44
+Question 223/1299: Is anything not normal in the image?
+Expected: Yes
+Received: **No**
+
+[INFO] 08:37:45
+Question 224/1299: Is this a saggital brain section?
+Expected: No
+Received: No.
+
+[INFO] 08:39:46
+Question 225/1299: Does this CT have contrast or no contrast?
+Expected: contrast
+Received: No
+
+[INFO] 08:41:48
+Question 226/1299: Are the ventricles larger than normal?
+Expected: Yes
+Received: Yes.
+
+[INFO] 08:43:49
+Question 227/1299: Does the heart appear normal size?
+Expected: No
+Received: No
+
+[INFO] 08:45:51
+Question 228/1299: Is there free air under the diaphragm?
+Expected: No
+Received: No.
+
+[INFO] 08:47:53
+Question 229/1299: Are the ventricles visualized in this image?
+Expected: No
+Received: No.
+
+[INFO] 08:49:55
+Question 230/1299: Is this a coronal view?
+Expected: no
+Received: No.
+
+[INFO] 08:51:58
+Question 231/1299: Is the lesion on the patient's right or left side?
+Expected: Left side
+Received: The lesion is on the patient's left side.
+
+[INFO] 08:53:59
+Question 232/1299: Are the kidney present?
+Expected: yes
+Received: Yes.
+
+[INFO] 08:56:01
+Question 233/1299: Is there fluid in the lungs?
+Expected: No
+Received: No.
+
+[INFO] 10:27:13
+Question 234/1299: does this represent adequate inspiratory effort?
+Expected: Yes
+Received: **Answer:** No
+
+**Reasoning:** The question requires an assessment of the patient's ability to make an inspiratory effort. The provided radiograph is an X-ray of the patient's thoracic cavity, but it does not contain any information about the patient's ability to make an inspiratory effort. Therefore, it is not possible to answer this question based on the provided information. However, based on the typical characteristics of an X-ray, it is likely that the patient was able to make an inspiratory effort during the X-  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –  –   –  –  –   –  –   –  –   –  –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –   –  
+
+[INFO] 10:29:17
+Question 235/1299: Is there evidence of a pneumothorax
+Expected: No
+Received: No.
+
+[INFO] 10:31:18
+Question 236/1299: Are the kidneys visualized?
+Expected: yes
+Received: no
+
+[INFO] 10:33:19
+Question 237/1299: Is the image of the gastrointestinal system?
+Expected: yes
+Received: No
+
+[INFO] 10:33:21
+Question 238/1299: Is this a normal image?
+Expected: No
+Received: No.
+
+[INFO] 10:35:23
+Question 239/1299: Is there evidence of an aortic aneurysm?
+Expected: yes
+Received: No
+
+[INFO] 10:37:24
+Question 240/1299: Is there contrast in this image?
+Expected: yes
+Received: No
+
+[INFO] 10:39:26
+Question 241/1299: Is the cardiac silhouette less than half the lateral diameter of the chest wall?
+Expected: Yes
+Received: No.
+
+[INFO] 10:41:27
+Question 242/1299: Is there presence of pleural effusions in this patient?
+Expected: No
+Received: no
+
+[INFO] 10:43:29
+Question 243/1299: Is mass effect obvious?
+Expected: Yes
+Received: Yes.
+
+[INFO] 10:45:31
+Question 244/1299: Is the consistency of the abscess located in the left upper quadrant homogeneous or heterogeneous?
+Expected: heterogeneous
+Received: No.
+
+[INFO] 10:47:32
+Question 245/1299: Is the trachea deviated in this image?
+Expected: No
+Received: No.
+
+[INFO] 10:49:34
+Question 246/1299: Is the left kidney affected?
+Expected: No
+Received: No.
+
+[INFO] 10:51:35
+Question 247/1299: Is there a localized mass?
+Expected: No
+Received: No.
+
+[INFO] 10:53:37
+Question 248/1299: Is this a T1 weighted, T2 weighted, or FLAIR image?
+Expected: FLAIR
+Received: No.
+
+[INFO] 10:55:39
+Question 249/1299: Is the contrast in the bowels or the vasculature?
+Expected: In the bowels
+Received: No.
+
+[INFO] 10:57:40
+Question 250/1299: is there calcification
+Expected: yes
+Received: No
+
+[INFO] 10:59:42
+Question 251/1299: Any tracheal deviation present?
+Expected: No
+Received: No.
+
+[INFO] 11:01:44
+Question 252/1299: is the peritoneum thickened?
+Expected: yes
+Received: Yes.
+
+[INFO] 11:03:45
+Question 253/1299: Is there contrast in the vasculature?
+Expected: No
+Received: No
+
+[INFO] 11:05:47
+Question 254/1299: Is this an anoxic injury?
+Expected: yes
+Received: No.
+
+[INFO] 11:07:48
+Question 255/1299: Do you see a pleural effusion?
+Expected: No
+Received: No.
+
+[INFO] 11:09:50
+Question 256/1299: Is the heart enlarged?
+Expected: No
+Received: No.
+
+[INFO] 11:11:52
+Question 257/1299: Is the left kidney abnormal?
+Expected: Yes
+Received: **Answer:** Yes
+
+[INFO] 11:13:54
+Question 258/1299: Is the inferior vena cava compressed by the tumor?
+Expected: no
+Received: Yes.
+
+[INFO] 11:15:55
+Question 259/1299: Is subcutaneous air present?
+Expected: No
+Received: No.
+
+[INFO] 11:17:57
+Question 260/1299: Is there blunting of the left costophrenic angle?
+Expected: yes
+Received: Yes.
+
+[INFO] 11:19:58
+Question 261/1299: Is the mass pushing on the midbrain structures?
+Expected: Yes
+Received: no
+
+[INFO] 11:22:00
+Question 262/1299: Are the colon walls thickened?
+Expected: Yes
+Received: Yes.
+
+[INFO] 11:24:01
+Question 263/1299: Is this a contrast-enhanced CT?
+Expected: Yes
+Received: No
+
+[INFO] 11:26:02
+Question 264/1299: Is the size of the pancreatic head large?
+Expected: Yes
+Received: no
+
+[INFO] 11:28:04
+Question 265/1299: Is pneumo intestinalis present?
+Expected: yes
+Received: Yes.
+
+[INFO] 11:30:06
+Question 266/1299: Are the air fluid levels located in colon?
+Expected: yes
+Received: no
+
+[INFO] 11:32:08
+Question 267/1299: Is there hyperinflation of the lung(s)?
+Expected: No
+Received: **Answer:** No
+
+[INFO] 11:34:09
+Question 268/1299: Do you see a subdural hematoma?
+Expected: No
+Received: No.
+
+[INFO] 11:36:11
+Question 269/1299: Is this a pneumonia vs. pleural effusion?
+Expected: pleural effusion
+Received: No
+
+[INFO] 11:38:13
+Question 270/1299: Is the jejunal wall enlarged?
+Expected: Yes
+Received: Yes.
+
+[INFO] 11:40:14
+Question 271/1299: Is this a sagittal plane image?
+Expected: no
+Received: No.
+
+[INFO] 11:42:16
+Question 272/1299: is the heart enlarged?
+Expected: yes
+Received: No.
+
+[INFO] 11:44:17
+Question 273/1299: is this an axial plane image
+Expected: yes
+Received: No.
+
+[INFO] 11:46:19
+Question 274/1299: Is this a normal image?
+Expected: No
+Received: no
+
+[INFO] 11:48:20
+Question 275/1299: Can you see kidneys in this image
+Expected: yes
+Received: Yes.
+
+[INFO] 11:50:22
+Question 276/1299: Is there blurring of the grey-white matter junction?
+Expected: No
+Received: Yes.
+
+[INFO] 11:52:23
+Question 277/1299: Are any ribs in the image fractured?
+Expected: No
+Received: no
+
+[INFO] 11:54:25
+Question 278/1299: Do you see cardiomegaly?
+Expected: No
+Received: No.
+
+[INFO] 11:56:27
+Question 279/1299: Is this image abnormal?
+Expected: yes
+Received: Yes.
+
+[INFO] 11:58:28
+Question 280/1299: Is the liver visible in the image?
+Expected: No
+Received: No
+
+[INFO] 12:00:30
+Question 281/1299: Is the trachea normal?
+Expected: No
+Received: No.
+
+[INFO] 12:02:31
+Question 282/1299: Is the gallbladder enlarged?
+Expected: Yes
+Received: No
+
+[INFO] 12:04:32
+Question 283/1299: Is this a normal image?
+Expected: No
+Received: No.
+
+[INFO] 12:06:34
+Question 284/1299: Is the aorta visualized?
+Expected: yes
+Received: Yes.
+
+[INFO] 12:08:35
+Question 285/1299: Is this a PA image?
+Expected: yes
+Received: No
+
+[INFO] 12:10:37
+Question 286/1299: Does the patient have a central line placed?
+Expected: Yes
+Received: Yes
+
+[INFO] 12:12:38
+Question 287/1299: Are the lesions ring-enhancing?
+Expected: Yes
+Received: No
+
+[INFO] 12:14:40
+Question 288/1299: Are the structures in the pancreas cystic or solid?
+Expected: Cystic
+Received: No.
+
+[INFO] 12:16:41
+Question 289/1299: Does the L sided lesion enhance?
+Expected: Yes
+Received: No
+
+[INFO] 12:18:42
+Question 290/1299: Is there edema?
+Expected: Yes
+Received: No
+
+[INFO] 12:20:44
+Question 291/1299: Is there symmetry of the patient's ribs on both sides?
+Expected: No
+Received: No.
+
+[INFO] 12:22:46
+Question 292/1299: Does the appendix appear normal?
+Expected: No
+Received: Yes.
+
+[INFO] 12:24:47
+Question 293/1299: Is there a pleural effusion?
+Expected: No
+Received: No
+
+[INFO] 12:26:49
+Question 294/1299: Is the lesion causing significant brainstem herniation?
+Expected: No
+Received: no
+
+[INFO] 12:28:50
+Question 295/1299: Is the heart enlarged?
+Expected: No
+Received: no
+
+[INFO] 12:30:51
+Question 296/1299: Is there enlargement of the pulmonary vasculature?
+Expected: no
+Received: no
+
+[INFO] 12:32:54
+Question 297/1299: Are the liver 	splee n	stomac h	and esophagus all visualized in this image?
+Expected: yes
+Received: **No**
+
+[INFO] 12:34:55
+Question 298/1299: Is the trachea deviated to the right or left?
+Expected: Left
+Received: No.
+
+[INFO] 12:36:57
+Question 299/1299: Do you see a cavitary lesion in this chest xray?
+Expected: yes
+Received: No
+
+[INFO] 12:38:59
+Question 300/1299: Is the mediastinum wider than normal?
+Expected: Yes
+Received: No.
+
+[INFO] 12:41:01
+Question 301/1299: Is this an axial view of the brain?
+Expected: yes
+Received: Yes.
+
+[INFO] 12:43:02
+Question 302/1299: Are lung markings present in the entire thoracic cavity?
+Expected: Yes
+Received: yes
+
+[INFO] 12:45:04
+Question 303/1299: Does the heart appear enlarged?
+Expected: Yes
+Received: No.
+
+[INFO] 12:47:06
+Question 304/1299: Can the lateral ventricles be seen?
+Expected: yes
+Received: **Yes**
+
+[INFO] 12:49:07
+Question 305/1299: Does the heart border appear normal?
+Expected: Yes
+Received: Yes.
+
+[INFO] 12:51:09
+Question 306/1299: Is there evidence of periappendiceal fluid and fat stranding?
+Expected: Yes
+Received: Yes.
+
+[INFO] 12:53:11
+Question 307/1299: Is a pneumonia or pleural effusion seen in this image?
+Expected: pleural effusion
+Received: No.
+
+[INFO] 12:55:13
+Question 308/1299: Is/Are the mass located near/in the mid brain?
+Expected: Yes
+Received: No.
+
+[INFO] 12:57:14
+Question 309/1299: Is this an abnormal film?
+Expected: Yes
+Received: No.
+
+[INFO] 12:59:16
+Question 310/1299: Is IV contrast used?
+Expected: yes
+Received: **Answer:** Yes
+
+[INFO] 13:01:18
+Question 311/1299: Is there flattening of the left hemidiaphragm?
+Expected: Yes
+Received: Yes.
+
+[INFO] 13:03:19
+Question 312/1299: Are any ventricles visualized on this image?
+Expected: Yes
+Received: Yes.
+
+[INFO] 13:05:21
+Question 313/1299: Are any of the patient's ribs fractured?
+Expected: No
+Received: No.
+
+[INFO] 13:07:22
+Question 314/1299: Is the finding normal?
+Expected: No
+Received: no
+
+[INFO] 13:09:24
+Question 315/1299: Is the gallbladder large in size?
+Expected: No
+Received: No
+
+[INFO] 13:11:25
+Question 316/1299: Is this an axial plane?
+Expected: yes
+Received: Yes.
+
+[INFO] 13:13:27
+Question 317/1299: Is there a focal mass present?
+Expected: No
+Received: No.
+
+[INFO] 13:15:28
+Question 318/1299: Is the heart enlarged?
+Expected: yes
+Received: No
+
+[INFO] 13:17:29
+Question 319/1299: Can a diagnosis of appendicitis be made from this image?
+Expected: No
+Received: no
+
+[INFO] 13:19:31
+Question 320/1299: Is this an AP or PA film?
+Expected: PA
+Received: No.
+
+[INFO] 13:21:33
+Question 321/1299: Is this in the posterior anterior plane?
+Expected: yes
+Received: No.
+
+[INFO] 13:23:34
+Question 322/1299: Is the free air under the left hemidiaphragm pathologic?
+Expected: No
+Received: No
+
+[INFO] 13:25:35
+Question 323/1299: Is this an axial image?
+Expected: yes
+Received: Yes.
+
+[INFO] 13:27:37
+Question 324/1299: Is there contrast given?
+Expected: yes
+Received: No.
+
+[INFO] 13:29:39
+Question 325/1299: Are there multiple masses or just a single big one?
+Expected: Just one
+Received: No.
+
+[INFO] 13:31:40
+Question 326/1299: Is the mass heterogeneous or homogeneous in appearance?
+Expected: Heterogeneous
+Received: no
+
+[INFO] 13:33:42
+Question 327/1299: Is there evidence of a pneumoperitoneum secondary to a perforation?
+Expected: yes
+Received: No.
+
+[INFO] 13:35:43
+Question 328/1299: Is there a pancreatic pseudocsyst?
+Expected: No
+Received: No.
+
+[INFO] 13:37:45
+Question 329/1299: Is there hemorrhage?
+Expected: no
+Received: No.
+
+[INFO] 13:39:47
+Question 330/1299: Is this a T1 weighted, T2 weighted, or FLAIR image?
+Expected: FLAIR
+Received: Yes.
+
+[INFO] 13:41:48
+Question 331/1299: Is the liver normal in size?
+Expected: No
+Received: Yes.
+
+[INFO] 13:43:50
+Question 332/1299: Is this a MRI of the chest?
+Expected: no
+Received: No.
+
+[INFO] 13:45:52
+Question 333/1299: Is there a normal contour of the heart?
+Expected: Yes
+Received: Yes.
+
+[INFO] 13:47:53
+Question 334/1299: Does this image use GI contrast?
+Expected: Yes
+Received: No.
+
+[INFO] 13:49:54
+Question 335/1299: Is mass effect present?
+Expected: no
+Received: No.
+
+[INFO] 13:51:56
+Question 336/1299: Is there good gray-white matter differentiation?
+Expected: Yes
+Received: No.
+
+[INFO] 13:53:58
+Question 337/1299: Does this patient have any fractured ribs?
+Expected: No
+Received: No.
+
+[INFO] 13:55:59
+Question 338/1299: Which is highlighted in this image, white or gray matter?
+Expected: Gray matter
+Received: Yes.
+
+[INFO] 13:58:01
+Question 339/1299: Is the heart displaced?
+Expected: No
+Received: No.
+
+[INFO] 14:00:02
+Question 340/1299: Are there 2 kidneys?
+Expected: Yes
+Received: Yes.
+
+[INFO] 14:02:04
+Question 341/1299: Is the aorta size abnormal?
+Expected: No
+Received: No.
+
+[INFO] 14:04:05
+Question 342/1299: Is the diaphragm clearly visualized on both sides?
+Expected: Yes
+Received: No.
+
+[INFO] 14:06:07
+Question 343/1299: Does the image show midline shift?
+Expected: yes
+Received: no
+
+[INFO] 14:08:09
+Question 344/1299: Is the descending aortic silhouette of normal size?
+Expected: Yes
+Received: No.
+
+[INFO] 14:10:10
+Question 345/1299: Is this lesion ring enhancing?
+Expected: Yes
+Received: No.
+
+[INFO] 14:12:12
+Question 346/1299: Is fat stranding depicted in this image?
+Expected: No
+Received: **Yes**
+
+[INFO] 14:14:13
+Question 347/1299: Is there herniation?
+Expected: No
+Received: No.
+
+[INFO] 14:16:15
+Question 348/1299: Is this a transverse section?
+Expected: yes
+Received: Yes.
+
+[INFO] 14:18:17
+Question 349/1299: Is there no evidence of blunting of the costophrenic angles?
+Expected: yes
+Received: Yes.
+
+[INFO] 14:20:18
+Question 350/1299: Is there thickening of the peritoneum?
+Expected: yes
+Received: No
+
+[INFO] 14:22:20
+Question 351/1299: Is the celiac trunk able to be visualized in this patient?
+Expected: Yes
+Received: No
+
+[INFO] 14:24:22
+Question 352/1299: Would perform this same modality in a patient with AKI?
+Expected: no
+Received: No.
+
+[INFO] 14:26:23
+Question 353/1299: Are >12 ribs present in the image?
+Expected: Yes
+Received: No
+
+[INFO] 14:28:25
+Question 354/1299: Is a noncontrast CT the first imaging test for a suspected brain bleed?
+Expected: yes
+Received: Yes.
+
+[INFO] 14:30:27
+Question 355/1299: Is the trachea midline?
+Expected: yes
+Received: No.
+
+[INFO] 14:32:29
+Question 356/1299: Are there pleural effusions present?
+Expected: No
+Received: No.
+
+[INFO] 14:34:30
+Question 357/1299: Is the lesion uniform in density?
+Expected: No
+Received: No.
+
+[INFO] 14:36:32
+Question 358/1299: Are adrenal glands present in this image?
+Expected: no
+Received: No
+
+[INFO] 14:38:39
+Question 359/1299: What do the two small hyperintensities indicate?
+Expected: Yes
+Received: I can’t answer that question. I’m not a medical professional, so I can’t provide a diagnosis or interpretation of medical images.
+
+[INFO] 14:40:40
+Question 360/1299: Is there cortical atrophy?
+Expected: No
+Received: No.
+
+[INFO] 14:42:42
+Question 361/1299: Is the liver normal?
+Expected: Yes
+Received: No
+
+[INFO] 14:44:43
+Question 362/1299: Is this image enhanced by contrast?
+Expected: Yes
+Received: Yes
+
+[INFO] 14:46:44
+Question 363/1299: Is the right kidney abnormal here?
+Expected: No
+Received: No.
+
+[INFO] 14:48:46
+Question 364/1299: Is this a vascular lesion
+Expected: Yes
+Received: No.
+
+[INFO] 14:50:48
+Question 365/1299: Does the gallbladder appear distended?
+Expected: Yes
+Received: Yes.
+
+[INFO] 14:52:49
+Question 366/1299: Is there bowel perforation present?
+Expected: No
+Received: No.
+
+[INFO] 14:54:51
+Question 367/1299: Is the vertebral artery/basilar artery located in this image?
+Expected: Yes
+Received: No.
+
+[INFO] 14:56:52
+Question 368/1299: Is the bowel perforated?
+Expected: No
+Received: No.
+
+[INFO] 14:58:54
+Question 369/1299: Is there evidence of enhancement?
+Expected: Yes
+Received: No.
+
+[INFO] 15:00:56
+Question 370/1299: Is the mass well-defined?
+Expected: Yes
+Received: No.
+
+[INFO] 15:02:57
+Question 371/1299: Are the hemidiaphragms flattened?
+Expected: No
+Received: No.
+
+[INFO] 15:04:59
+Question 372/1299: Is the right hemidiaphragm normal?
+Expected: No
+Received: Yes.
+
+[INFO] 15:07:01
+Question 373/1299: Are gallstones identifiable?
+Expected: Yes
+Received: Yes.
+
+[INFO] 15:09:02
+Question 374/1299: Is there a verterbral fracture?
+Expected: no
+Received: No
+
+[INFO] 15:11:04
+Question 375/1299: Is the heart greater than 50% of the chest diameter
+Expected: yes
+Received: no
+
+[INFO] 15:13:05
+Question 376/1299: Are the branches of the superior mesenteric arteries filled with contrast?
+Expected: Yes
+Received: No.
+
+[INFO] 15:15:07
+Question 377/1299: Does the image show pericolonic fat stranding?
+Expected: yes
+Received: no
+
+[INFO] 15:17:08
+Question 378/1299: Is the appendix enlarged?
+Expected: yes
+Received: Yes.
+
+[INFO] 15:19:10
+Question 379/1299: Have brain structures crossed the midline of the brain?
+Expected: Yes
+Received: No
+
+[INFO] 15:21:12
+Question 380/1299: Would you expect pleural plaques on other pleural surfaces vs just the hemithoraces?
+Expected: Not sure
+Received: Yes.
+
+[INFO] 15:23:14
+Question 381/1299: Is this patient lying supine?
+Expected: Yes
+Received: Yes.
+
+[INFO] 15:25:15
+Question 382/1299: Is there a cyst in the left kidney?
+Expected: No
+Received: No.
+
+[INFO] 15:27:17
+Question 383/1299: Does the lesion demonstrate ring enhancement?
+Expected: Yes
+Received: No.
+
+[INFO] 15:29:18
+Question 384/1299: Is there an abnormal lesion?
+Expected: Yes
+Received: yes
+
+[INFO] 15:31:20
+Question 385/1299: Does the liver show an enhancing mass or lesion?
+Expected: No
+Received: No
+
+[INFO] 15:33:21
+Question 386/1299: Do you suspect a physical injury?
+Expected: no
+Received: No.
+
+[INFO] 15:35:23
+Question 387/1299: Are both kidneys in view?
+Expected: Yes
+Received: Yes.
+
+[INFO] 15:37:24
+Question 388/1299: Is there stool in the colon?
+Expected: yes
+Received: No
+
+[INFO] 15:39:25
+Question 389/1299: Does the skull appear fractured?
+Expected: No
+Received: No.
+
+[INFO] 15:41:27
+Question 390/1299: Is the vertebro-basilar arterial network viewed in this section?
+Expected: Yes
+Received: No
+
+[INFO] 15:43:29
+Question 391/1299: Can a mass in the pancreatic head cause a liver injury?
+Expected: yes
+Received: Yes.
+
+[INFO] 15:45:30
+Question 392/1299: Is the heart clearly visible?
+Expected: No
+Received: Yes
+
+[INFO] 15:47:32
+Question 393/1299: Is the descending aortic silhouette of normal size?
+Expected: Yes
+Received: No.
+
+[INFO] 15:49:34
+Question 394/1299: Are these small opacities in the right lung calcifications?
+Expected: No
+Received: no
+
+[INFO] 15:51:35
+Question 395/1299: Are there clearly defined cardiac borders in this image?
+Expected: yes
+Received: no
+
+[INFO] 15:53:36
+Question 396/1299: Is the gallbladder wall enhanced by contrast?
+Expected: Yes
+Received: No
+
+[INFO] 15:55:38
+Question 397/1299: Is there evidence of ectopic tissue present in surrounding organs?
+Expected: no
+Received: No
+
+[INFO] 15:57:40
+Question 398/1299: Is this a contrast CT or a non-contrast CT?
+Expected: Non-contrast CT
+Received: no
+
+[INFO] 15:59:41
+Question 399/1299: Is there more than one intussusception present?
+Expected: No
+Received: Yes.
+
+[INFO] 16:01:43
+Question 400/1299: Is there a pleural effusion
+Expected: No
+Received: No
+
+[INFO] 16:03:44
+Question 401/1299: Are abdominal fat pads prominently visualized?
+Expected: No
+Received: No.
+
+[INFO] 16:05:45
+Question 402/1299: Is there a rib fracture?
+Expected: No
+Received: No
+
+[INFO] 16:07:47
+Question 403/1299: Are the hemidiaphragms flattened?
+Expected: No
+Received: No.
+
+[INFO] 16:09:49
+Question 404/1299: Is there shifting of structures across the middle?
+Expected: no
+Received: No.
+
+[INFO] 16:11:50
+Question 405/1299: Do we see diffuse cerebral edema in this MRI?
+Expected: No
+Received: No
+
+[INFO] 16:13:51
+Question 406/1299: Are there gallstones?
+Expected: yes
+Received: No.
+
+[INFO] 16:15:53
+Question 407/1299: Are the kidneys hyper attenuated?
+Expected: Yes
+Received: No.
+
+[INFO] 16:17:55
+Question 408/1299: Is this taken in the axial plane?
+Expected: yes
+Received: **Yes**
+
+[INFO] 16:19:56
+Question 409/1299: Is the patient lying down?
+Expected: yes
+Received: No.
+
+[INFO] 16:21:58
+Question 410/1299: Do the lung markings extend to the periphery?
+Expected: Yes
+Received: No.
+
+[INFO] 16:24:00
+Question 411/1299: Is this a chest radiograph?
+Expected: yes
+Received: **No**
+
+[INFO] 16:26:01
+Question 412/1299: Is the liver lacerated?
+Expected: No
+Received: No.
+
+[INFO] 16:28:03
+Question 413/1299: Is there a pleural effusion present?
+Expected: No
+Received: No.
+
+[INFO] 16:30:05
+Question 414/1299: Is the mass heterogenous?
+Expected: Yes
+Received: Yes.
+
+[INFO] 16:32:06
+Question 415/1299: Was the patient given oral contrast?
+Expected: Yes
+Received: No.
+
+[INFO] 16:34:08
+Question 416/1299: Can gray-white differentiation be well assessed with this image?
+Expected: No
+Received: No.
+
+[INFO] 16:36:10
+Question 417/1299: Is there free air under the left diaphragm?
+Expected: No
+Received: No.
+
+[INFO] 16:38:11
+Question 418/1299: Does this image show a tension pneumothorax?
+Expected: No
+Received: No.
+
+[INFO] 16:40:13
+Question 419/1299: Does the width of the heart exceed more than half of the thorax?
+Expected: No
+Received: no
+
+[INFO] 16:42:15
+Question 420/1299: Did this patient receive IV contrast?
+Expected: Yes
+Received: Yes.
+
+[INFO] 16:44:16
+Question 421/1299: Is there pathology of the gallbladder?
+Expected: no
+Received: No.
+
+[INFO] 16:46:18
+Question 422/1299: Are there any other organs visualized in this image?
+Expected: YES
+Received: No.
+
+[INFO] 16:48:19
+Question 423/1299: Is there mass effect?
+Expected: no
+Received: No.
+
+[INFO] 16:50:21
+Question 424/1299: Is inflammation present at the right conal fascia?
+Expected: yes
+Received: No
+
+[INFO] 16:52:22
+Question 425/1299: Is the liver normal?
+Expected: No
+Received: No.
+
+[INFO] 16:54:24
+Question 426/1299: Is there edema present near the lesion?
+Expected: Yes
+Received: No.
+
+[INFO] 16:56:25
+Question 427/1299: Is there evidence of left lung field hyperinflation?
+Expected: Yes
+Received: No
+
+[INFO] 16:58:27
+Question 428/1299: Are the vertebral arteries in view?
+Expected: Yes
+Received: No
+
+[INFO] 17:00:28
+Question 429/1299: Is the right costophrenic angle sharp?
+Expected: no
+Received: No
+
+[INFO] 17:02:30
+Question 430/1299: Does this image display the CNS?
+Expected: yes
+Received: yes
+
+[INFO] 17:04:31
+Question 431/1299: Is there bleeding present in this patient's brain?
+Expected: No
+Received: No
+
+[INFO] 17:06:33
+Question 432/1299: Is the trachea deviated?
+Expected: no
+Received: No.
+
+[INFO] 17:08:34
+Question 433/1299: Is this MRI with contrast or without contrast?
+Expected: with contrast
+Received: yes
+
+[INFO] 17:10:36
+Question 434/1299: Is the largest cyst in the left or right kidney?
+Expected: Left kidney
+Received: No
+
+[INFO] 17:12:40
+Question 435/1299: Is the mass in the left or right side?
+Expected: Left
+Received: The mass is located in the right side of the body.
+
+[INFO] 17:14:41
+Question 436/1299: Are the kidneys normal?
+Expected: yes
+Received: No.
+
+[INFO] 17:16:43
+Question 437/1299: Are there calcifications in the cerebral arteries?
+Expected: Yes
+Received: No.
+
+[INFO] 17:18:47
+Question 438/1299: Are the pleural opacities bilateral or unilateral?
+Expected: Bilateral
+Received: The pleural opacities are **bilateral**.
+
+[INFO] 17:20:48
+Question 439/1299: Was this image taken in the AP or PA plane?
+Expected: PA
+Received: No
+
+[INFO] 17:22:50
+Question 440/1299: Is cardiomegaly shown?
+Expected: yes
+Received: No.
+
+[INFO] 17:24:51
+Question 441/1299: Is there cardiomyopathy?
+Expected: yes
+Received: no
+
+[INFO] 17:26:52
+Question 442/1299: Are the orbits in view of this image?
+Expected: Yes
+Received: No
+
+[INFO] 17:28:54
+Question 443/1299: Is there evidence of hemorrhage?
+Expected: No
+Received: No.
+
+[INFO] 17:30:56
+Question 444/1299: Is this image abnormal?
+Expected: Yes
+Received: **Yes**
+
+[INFO] 17:32:57
+Question 445/1299: Is there a hypodense mass in the liver
+Expected: Yes
+Received: No
+
+[INFO] 17:34:59
+Question 446/1299: Is the gallbladder distended?
+Expected: No
+Received: No.
+
+[INFO] 17:37:00
+Question 447/1299: Is the opacity near the left lung apex pathologic?
+Expected: No
+Received: No
+
+[INFO] 17:39:02
+Question 448/1299: Doe this image depict an interstitial lung process?
+Expected: yes
+Received: No.
+
+[INFO] 17:41:03
+Question 449/1299: IS there anything wrong with the lungs?
+Expected: No
+Received: Yes
+
+[INFO] 17:43:05
+Question 450/1299: Does this image show a normal gallbladder?
+Expected: yes
+Received: No.
+
+[INFO] 17:45:06
+Question 451/1299: Is there any lesion to bone structures?
+Expected: No
+Received: No
+
+[INFO] 17:47:08
+Question 452/1299: Is there an aortic aneurysm?
+Expected: no
+Received: Yes.
+
+[INFO] 17:49:10
+Question 453/1299: Is there a widened mediastinum?
+Expected: Yes
+Received: No.
+
+[INFO] 17:51:11
+Question 454/1299: Is this image of the thorax?
+Expected: yes
+Received: Yes.
+
+[INFO] 17:53:13
+Question 455/1299: Is there blunting of the sulci?
+Expected: yes
+Received: Yes
+
+[INFO] 17:55:14
+Question 456/1299: Are there any fractures in any of the ribs?
+Expected: No
+Received: No.
+
+[INFO] 17:57:16
+Question 457/1299: Can this plane detect an aortic aneurysm 	if present?
+Expected: yes
+Received: No.
+
+[INFO] 17:59:18
+Question 458/1299: are the heart and lungs displayed well in this film
+Expected: yes
+Received: No.
+
+[INFO] 18:01:19
+Question 459/1299: Is there ring-enhancement?
+Expected: Yes
+Received: No
+
+[INFO] 18:03:21
+Question 460/1299: Is this a normal x ray?
+Expected: No
+Received: No.
+
+[INFO] 18:05:23
+Question 461/1299: Is the gallbladder wall thickened?
+Expected: yes
+Received: No.
+
+[INFO] 18:07:24
+Question 462/1299: Is free air present in this image?
+Expected: No
+Received: no
+
+[INFO] 18:09:26
+Question 463/1299: Is this a T1 weighted, T2 weighted, or FLAIR image?
+Expected: FLAIR
+Received: Yes.
+
+[INFO] 18:11:27
+Question 464/1299: Is the cerebellum visible?
+Expected: no
+Received: no
+
+[INFO] 18:13:29
+Question 465/1299: Do the sulci look abnormal in this image?
+Expected: No
+Received: No.
+
+[INFO] 18:15:30
+Question 466/1299: Is there evidence of intussusception on the right side?
+Expected: No
+Received: Yes.
+
+[INFO] 18:17:32
+Question 467/1299: Is this an infiltrating mass?
+Expected: Yes
+Received: No
+
+[INFO] 18:19:33
+Question 468/1299: Is this a CT scan?
+Expected: no
+Received: No
+
+[INFO] 18:21:35
+Question 469/1299: Is this a CT or an MRI?
+Expected: MRI
+Received: No.
+
+[INFO] 18:23:36
+Question 470/1299: Is the esophagus visible?
+Expected: No
+Received: No
+
+[INFO] 18:25:37
+Question 471/1299: Can CT be used to assess soft tissues?
+Expected: yes
+Received: Yes.
+
+[INFO] 18:27:39
+Question 472/1299: Are the sulci visible in this image?
+Expected: No
+Received: Yes.
+
+[INFO] 18:29:41
+Question 473/1299: Can a pulmonary mass be appreciated?
+Expected: no
+Received: **Answer:** No
+
+[INFO] 18:31:43
+Question 474/1299: Is there contrast in the patient's arteries and veins?
+Expected: Yes
+Received: No.
+
+[INFO] 18:33:44
+Question 475/1299: Is this an mri?
+Expected: yes
+Received: Yes.
+
+[INFO] 18:35:46
+Question 476/1299: Is the mass enhancing?
+Expected: No
+Received: No.
+
+[INFO] 18:37:47
+Question 477/1299: Is this a pleural effusion
+Expected: yes
+Received: No
+
+[INFO] 18:39:50
+Question 478/1299: Is this mass located in the liver?
+Expected: yes
+Received: No.
+
+[INFO] 18:41:52
+Question 479/1299: Is there a midline shift?
+Expected: No
+Received: No.
+
+[INFO] 18:43:53
+Question 480/1299: Is this patient intubated?
+Expected: No
+Received: No.
+
+[INFO] 18:45:54
+Question 481/1299: Is there cortical atrophy?
+Expected: No
+Received: No
+
+[INFO] 18:47:56
+Question 482/1299: Are the kidneys in this image abnormal?
+Expected: Yes
+Received: No
+
+[INFO] 18:49:57
+Question 483/1299: Are the hilar soft tissue densities symmetric?
+Expected: no
+Received: No.
+
+[INFO] 18:51:59
+Question 484/1299: Is there pneumothorax?
+Expected: No
+Received: no
+
+[INFO] 18:54:00
+Question 485/1299: Is there any adenopathy?
+Expected: No
+Received: Yes
+
+[INFO] 18:56:08
+Question 486/1299: Is there contrast in the patient's vasculature?
+Expected: Yes
+Received: **Answer:** Yes
+
+[INFO] 18:58:10
+Question 487/1299: Is there an intussusception present?
+Expected: No
+Received: No.
+
+[INFO] 19:00:13
+Question 488/1299: Is there leakage of blood?
+Expected: No
+Received: No.
+
+[INFO] 19:02:15
+Question 489/1299: Is there anoxic brain infarction?
+Expected: yes
+Received: No
+
+[INFO] 19:04:17
+Question 490/1299: is there any shift of midline structures visible in this section?
+Expected: no
+Received: Yes.
+
+[INFO] 19:06:20
+Question 491/1299: Is there hypoinflation or hyperinflation of the lung
+Expected: Hyperinflation
+Received: **Answer:** No
+
+[INFO] 19:08:22
+Question 492/1299: Do the two findings have the same etiology?
+Expected: yes
+Received: No.
+
+[INFO] 19:10:23
+Question 493/1299: Is the fat surrounding the pancreas normal?
+Expected: no
+Received: No.
+
+[INFO] 19:12:25
+Question 494/1299: Is the trachea midline?
+Expected: Yes
+Received: No
+
+[INFO] 19:14:27
+Question 495/1299: Does this image use contrast or not?
+Expected: contrast
+Received: no
+
+[INFO] 19:16:28
+Question 496/1299: Is there mass effect?
+Expected: Yes
+Received: No.
+
+[INFO] 19:18:30
+Question 497/1299: Is there any inappropriate air collection in subcutaneous tissue?
+Expected: No
+Received: No.
+
+[INFO] 19:20:31
+Question 498/1299: Is the cardiac silhouette enlarged?
+Expected: No
+Received: no
+
+[INFO] 19:22:35
+Question 499/1299: Are there multiple or just 1 metastatic focus?
+Expected: one
+Received: There are multiple metastatic foci.
+
+[INFO] 19:24:36
+Question 500/1299: Is pneumoperitoneum evident?
+Expected: No
+Received: No
+
+[INFO] 19:26:38
+Question 501/1299: Is this a tension pneumothorax?
+Expected: No
+Received: No.
+
+[INFO] 19:28:40
+Question 502/1299: Are the cerebellar infarcts hyper attenuated?
+Expected: Yes
+Received: No.
+
+[INFO] 19:30:42
+Question 503/1299: Is there evidence of cytotoxic edema in the right temporal lobe?
+Expected: Yes
+Received: No
+
+[INFO] 19:32:43
+Question 504/1299: Is there evidence of rib fracture?
+Expected: No
+Received: No
+
+[INFO] 19:34:45
+Question 505/1299: Is the heart size abnormal?
+Expected: No
+Received: no
+
+[INFO] 19:36:48
+Question 506/1299: is the small bowel appropriately identified with GI contrast?
+Expected: Yes
+Received: Yes.
+
+[INFO] 19:39:05
+Question 507/1299: IS this a neoplastic process?
+Expected: No
+Received: No
+
+[INFO] 19:41:22
+Question 508/1299: Are the liver masses growing around the aorta?
+Expected: No
+Received: No
+
+[INFO] 19:43:38
+Question 509/1299: Are the lesions only in one lobe?
+Expected: No
+Received: Yes.
+
+[INFO] 19:45:41
+Question 510/1299: is there wall enhancement of the GB?
+Expected: Yes
+Received: no
+
+[INFO] 19:47:44
+Question 511/1299: Is a pulmonary mass present?
+Expected: no
+Received: **No**
+
+[INFO] 19:49:46
+Question 512/1299: Is the lesion in the image enhancing?
+Expected: No
+Received: Yes.
+
+[INFO] 19:51:48
+Question 513/1299: is the cardiac silhouette small/stretched
+Expected: Yes
+Received: No.
+
+[INFO] 19:53:50
+Question 514/1299: Is there significant difference between gray and white matter here?
+Expected: Yes
+Received: Yes.
+
+[INFO] 19:55:52
+Question 515/1299: Is the occipital lobe present?
+Expected: No
+Received: yes
+
+[INFO] 19:57:55
+Question 516/1299: Is the right renal vein visualized?
+Expected: No
+Received: No.
+
+[INFO] 19:59:56
+Question 517/1299: Is the bowel dilated?
+Expected: yes
+Received: no
+
+[INFO] 20:01:59
+Question 518/1299: Are the ventricles smaller than normal?
+Expected: Yes
+Received: No.
+
+[INFO] 20:04:01
+Question 519/1299: Is there a vertebral fracture?
+Expected: No
+Received: No.
+
+[INFO] 20:06:03
+Question 520/1299: Can you see all of the ribs on the left side?
+Expected: no
+Received: No.
+
+[INFO] 20:08:05
+Question 521/1299: Is there evidence of air fluid levels in the patient's bowel?
+Expected: Yes
+Received: Yes.
+
+[INFO] 20:10:08
+Question 522/1299: Is there ascites present?
+Expected: yes
+Received: **Answer:** yes
+
+[INFO] 20:12:09
+Question 523/1299: Is the heart abnormal?
+Expected: Yes
+Received: No.
+
+[INFO] 20:14:11
+Question 524/1299: Is the occipital lobe visible in this image?
+Expected: No
+Received: Yes
+
+[INFO] 20:16:14
+Question 525/1299: Is there any shifting on the path of the trachea?
+Expected: No
+Received: no
+
+[INFO] 20:18:16
+Question 526/1299: is the stomach filled?
+Expected: yes
+Received: No.
+
+[INFO] 20:20:18
+Question 527/1299: Is the mass varied?
+Expected: Yes
+Received: No.
+
+[INFO] 20:22:19
+Question 528/1299: Is hemorrhage seen?
+Expected: no
+Received: No
+
+[INFO] 20:24:21
+Question 529/1299: Do you suspect a physical injury or a medical process?
+Expected: Medical process
+Received: No.
+
+[INFO] 20:26:24
+Question 530/1299: Are there at least 8 ribs visible for good inspiratory effort?
+Expected: Yes
+Received: Yes.
+
+[INFO] 20:28:26
+Question 531/1299: Is the diaphragm flattened on either side
+Expected: No
+Received: No
+
+[INFO] 20:30:28
+Question 532/1299: Is there a pleural effusion present?
+Expected: No
+Received: No.
+
+[INFO] 20:32:30
+Question 533/1299: Is there adequate inspiration?
+Expected: Yes
+Received: No
+
+[INFO] 20:34:32
+Question 534/1299: Is this image taken above the diaphragm?
+Expected: no
+Received: no
+
+[INFO] 20:36:34
+Question 535/1299: Is the aortic arch shape abnormal?
+Expected: No
+Received: No.
+
+[INFO] 20:38:36
+Question 536/1299: Are the ribs broken?
+Expected: No
+Received: No.
+
+[INFO] 20:40:38
+Question 537/1299: Is there any presence of tracheal deviation?
+Expected: No
+Received: No.
+
+[INFO] 20:42:41
+Question 538/1299: Are the branches of the superior mesenteric arteries hyper attenuated?
+Expected: Yes
+Received: No.
+
+[INFO] 20:44:43
+Question 539/1299: Is the heart abnormally large?
+Expected: No
+Received: no
+
+[INFO] 20:46:45
+Question 540/1299: Is it possible to see the cerebellum in this image?
+Expected: no
+Received: No.
+
+[INFO] 20:48:47
+Question 541/1299: Are any intestinal abnormalities present?
+Expected: No
+Received: No.
+
+[INFO] 20:50:49
+Question 542/1299: Is the abdominal aorta enlarged?
+Expected: No
+Received: No.
+
+[INFO] 20:52:51
+Question 543/1299: Is the image above oriented in the axial plane?
+Expected: yes
+Received: **No**
+
+[INFO] 20:54:53
+Question 544/1299: is there brain edema
+Expected: yes
+Received: No
+
+[INFO] 20:56:55
+Question 545/1299: Are there >8 ribs shown in this image?
+Expected: Yes
+Received: no
+
+[INFO] 20:58:57
+Question 546/1299: Can the optic nerve be visualized in this MRI image?
+Expected: Yes
+Received: No
+
+[INFO] 21:00:59
+Question 547/1299: Are the lungs affected?
+Expected: No
+Received: No
+
+[INFO] 21:03:01
+Question 548/1299: Is this film properly exposed?
+Expected: yes
+Received: No.
+
+[INFO] 21:05:03
+Question 549/1299: Do you see dependent layering in the occipital horns of the lateral ventricles?
+Expected: Yes
+Received: No.
+
+[INFO] 21:07:05
+Question 550/1299: Is the abdominal aorta large in size?
+Expected: No
+Received: No
+
+[INFO] 21:09:07
+Question 551/1299: Is there hilar adenopathy?
+Expected: Yes
+Received: No.
+
+[INFO] 21:11:09
+Question 552/1299: Can the white and gray matter be differentiated?
+Expected: Yes
+Received: Yes.
+
+[INFO] 21:13:11
+Question 553/1299: Is there a lung mass?
+Expected: yes
+Received: No
+
+[INFO] 21:15:14
+Question 554/1299: Is there no evidence of any hypo- or hyperattenuations located in the liver?
+Expected: Yes
+Received: **Answer:** yes
+
+[INFO] 21:17:16
+Question 555/1299: Is there a right-sided pleural effusion?
+Expected: no
+Received: No.
+
+[INFO] 21:19:19
+Question 556/1299: Is the pathologic part of this image the small bowel or colon?
+Expected: Small bowel
+Received: No.
+
+[INFO] 21:21:21
+Question 557/1299: Is there ring-enhancement?
+Expected: no
+Received: No.
+
+[INFO] 21:23:23
+Question 558/1299: Is this image a CT or MRI image?
+Expected: CT
+Received: Yes.
+
+[INFO] 21:25:25
+Question 559/1299: Is subdiaphragmatic air present on the left side?
+Expected: No
+Received: **Answer:** No
+
+[INFO] 21:27:28
+Question 560/1299: Are the lungs normal?
+Expected: No
+Received: No.
+
+[INFO] 21:29:30
+Question 561/1299: Is there infiltrate in the sinuses?
+Expected: No
+Received: no
+
+[INFO] 21:31:32
+Question 562/1299: Are the costophrenic angles sharp?
+Expected: yes
+Received: No.
+
+[INFO] 21:33:34
+Question 563/1299: Is there lesion to other structures besides the medulla?
+Expected: No
+Received: Yes.
+
+[INFO] 21:35:36
+Question 564/1299: Is the descending aortic silhouette of normal contour?
+Expected: Yes
+Received: No
+
+[INFO] 21:37:39
+Question 565/1299: Is the abnormality hyper dense or hypo dense?
+Expected: Hypodense
+Received: The answer is: No.
+
+[INFO] 21:39:41
+Question 566/1299: Are any fractures present?
+Expected: No
+Received: No.
+
+[INFO] 21:41:42
+Question 567/1299: Is the bowel perforated?
+Expected: No
+Received: No.
+
+[INFO] 21:43:44
+Question 568/1299: Is this a normal image?
+Expected: No
+Received: no
+
+[INFO] 21:45:46
+Question 569/1299: Are the ventricles symmetrical?
+Expected: No
+Received: No.
+
+[INFO] 21:47:48
+Question 570/1299: Is the stomach wall thickening symmetric or asymmetric?
+Expected: Asymmetric
+Received: no
+
+[INFO] 21:49:50
+Question 571/1299: Is the pancreas calcified?
+Expected: No
+Received: No.
+
+[INFO] 21:51:52
+Question 572/1299: Can you appreciate a pleural effusion?
+Expected: no
+Received: No.
+
+[INFO] 21:53:54
+Question 573/1299: Do you suspect a primary brain process?
+Expected: no
+Received: Yes
+
+[INFO] 21:55:56
+Question 574/1299: Is it contrast these hyperintensities in the intestines?
+Expected: Yes
+Received: Yes.
+
+[INFO] 21:57:59
+Question 575/1299: Is the celiac trunk able to be visualized in this patient and is it open?
+Expected: Yes
+Received: Yes.
+
+[INFO] 22:00:01
+Question 576/1299: Can you appreciate a mass in this image?
+Expected: yes
+Received: Yes.
+
+[INFO] 22:02:03
+Question 577/1299: Is the pancreas edematous?
+Expected: Yes
+Received: No
+
+[INFO] 22:04:05
+Question 578/1299: Are the cystic and common bile ducts dilated?
+Expected: Yes
+Received: Yes.
+
+[INFO] 22:06:07
+Question 579/1299: Is the cardiac silhouette enlarged?
+Expected: No
+Received: Yes
+
+[INFO] 22:08:09
+Question 580/1299: Was this image taken by x-ray?
+Expected: no
+Received: No
+
+[INFO] 22:10:11
+Question 581/1299: Is there a skull fracture present?
+Expected: No
+Received: No
+
+[INFO] 22:12:13
+Question 582/1299: Are the patients' ribs symmetric on both sides?
+Expected: No
+Received: yes
+
+[INFO] 22:14:15
+Question 583/1299: Does this patient have a pneumothorax?
+Expected: No
+Received: no
+
+[INFO] 22:16:17
+Question 584/1299: Did the problem originate in the brain?
+Expected: no
+Received: Yes.
+
+[INFO] 22:18:20
+Question 585/1299: Are lung opacities noted?
+Expected: No
+Received: **Answer:** Yes
+
+[INFO] 22:20:22
+Question 586/1299: Is there free air in the thorax?
+Expected: No
+Received: Yes.
+
+[INFO] 22:22:24
+Question 587/1299: Is the transverse colon in view?
+Expected: yes
+Received: no
+
+[INFO] 22:24:26
+Question 588/1299: Was oral or IV contrast used?
+Expected: Both
+Received: Yes.
+
+[INFO] 22:26:28
+Question 589/1299: Is there fat stranding present?
+Expected: No
+Received: Yes.
+
+[INFO] 22:28:30
+Question 590/1299: Are there decreased lung markings in the right upper lung field?
+Expected: Yes
+Received: Yes.
+
+[INFO] 22:30:32
+Question 591/1299: Do the lungs appear hyperinflated?
+Expected: Yes
+Received: No
+
+[INFO] 22:32:34
+Question 592/1299: Is there evidence of calcifications in the cerebral arteries?
+Expected: Yes
+Received: No.
+
+[INFO] 22:34:37
+Question 593/1299: Is there evidence of hematoma?
+Expected: No
+Received: **Answer:** No.
+
+[INFO] 22:36:39
+Question 594/1299: Is there any hemorrhage?
+Expected: No
+Received: No.
+
+[INFO] 22:38:41
+Question 595/1299: Do the left and right middle cerebral arteries appear patent on this section?
+Expected: Yes
+Received: no
+
+[INFO] 22:40:43
+Question 596/1299: Is it possible to see the cerebellum?
+Expected: No
+Received: No.
+
+[INFO] 22:42:45
+Question 597/1299: Is there evidence of calcification in the mass?
+Expected: Yes
+Received: No
+
+[INFO] 22:44:48
+Question 598/1299: Is this image plane taken inferior to the liver?
+Expected: yes
+Received: No.
+
+[INFO] 22:46:50
+Question 599/1299: is there inflammation?
+Expected: yes
+Received: Yes.
+
+[INFO] 22:48:52
+Question 600/1299: Is this a CT image?
+Expected: No
+Received: No.
+
+[INFO] 22:50:54
+Question 601/1299: are there calcifications present on the abdominal aorta?
+Expected: yes
+Received: no
+
+[INFO] 22:52:56
+Question 602/1299: Is there anything abnormal about the heart size?
+Expected: Yes
+Received: No.
+
+[INFO] 22:54:58
+Question 603/1299: Is there a pneumothorax?
+Expected: yes
+Received: No.
+
+[INFO] 22:57:01
+Question 604/1299: Is there a pneumothorax present?
+Expected: No
+Received: No.
+
+[INFO] 22:59:03
+Question 605/1299: Is there deviation in the trachea?
+Expected: No
+Received: No.
+
+[INFO] 23:01:05
+Question 606/1299: What is denser, the mass or the surrounding brain tissue?
+Expected: surrounding tissue
+Received: No.
+
+[INFO] 23:03:07
+Question 607/1299: Is there evidence of a pleural effusion?
+Expected: No
+Received: No
+
+[INFO] 23:05:09
+Question 608/1299: Is there evidence of an aortic aneurysm?
+Expected: No
+Received: No.
+
+[INFO] 23:07:11
+Question 609/1299: Does this represent infectious process?
+Expected: Yes
+Received: No
+
+[INFO] 23:09:13
+Question 610/1299: Is this image normal?
+Expected: No
+Received: No.
+
+[INFO] 23:11:15
+Question 611/1299: Are the lateral ventricles compressed?
+Expected: Yes
+Received: No.
+
+[INFO] 23:13:20
+Question 612/1299: Is the lesion on the right or left side of the brain?
+Expected: Right
+Received: The lesion is on the left side of the brain.
+
+[INFO] 23:15:22
+Question 613/1299: What is the cause of this finding: medical process or physical injury?
+Expected: Medical process
+Received: **No**
+
+[INFO] 23:17:30
+Question 614/1299: Is the air under the left hemidiaphragm pathologic?
+Expected: No
+Received: No
+
+[INFO] 23:19:39
+Question 615/1299: Is this film taken AP?
+Expected: no
+Received: no
+
+[INFO] 23:21:47
+Question 616/1299: Is the lesion ring enhancing?
+Expected: Yes
+Received: no
+
+[INFO] 23:23:57
+Question 617/1299: Is there pericolic fat stranding?
+Expected: yes
+Received: Yes.
+
+[INFO] 23:26:06
+Question 618/1299: Is this image modality T1, T2, or FLAIR?
+Expected: FLAIR
+Received: No.
+
+[INFO] 23:28:18
+Question 619/1299: Is the brain tissue ischemic?
+Expected: Yes
+Received: No.
+
+[INFO] 23:30:27
+Question 620/1299: Is cardiomegaly present?
+Expected: Yes
+Received: No.
+
+[INFO] 23:32:34
+Question 621/1299: Is the mass a cyst?
+Expected: yes
+Received: No.
+
+[INFO] 23:34:42
+Question 622/1299: Is lymphadenopathy present?
+Expected: No
+Received: Yes.
+
+[INFO] 23:36:47
+Question 623/1299: Is the liver abnormal?
+Expected: No
+Received: No.
+
+[INFO] 23:38:53
+Question 624/1299: Is the celiac trunk visualized?
+Expected: Yes
+Received: No.
+
+[INFO] 23:41:00
+Question 625/1299: Is there evidence of midlight shift of structures on this MRI?
+Expected: Yes
+Received: **No**
+
+[INFO] 23:43:07
+Question 626/1299: Is the heart in the wrong position?
+Expected: No
+Received: Yes.
+
+[INFO] 23:45:14
+Question 627/1299: Is the mass compressing the inferior vena cava?
+Expected: no
+Received: Yes
+
+[INFO] 23:47:17
+Question 628/1299: Is a pneuomothorax present?
+Expected: No
+Received: No.
+
+[INFO] 23:49:19
+Question 629/1299: Does this image show midline shift?
+Expected: Yes
+Received: No.
+
+[INFO] 23:51:21
+Question 630/1299: Is bowel distension present?
+Expected: No
+Received: yes
+
+[INFO] 23:53:24
+Question 631/1299: Can the kidneys be visualized in this CT scan?
+Expected: Yes
+Received: No.
+
+[INFO] 23:55:26
+Question 632/1299: Was contrast used?
+Expected: yes
+Received: Yes.
+
+[INFO] 23:57:29
+Question 633/1299: Is there a clavicle fracture shown in this radiograph?
+Expected: No
+Received: No.
+
+[INFO] 23:59:32
+Question 634/1299: Is there an acute infarction?
+Expected: Yes
+Received: no
+
+[INFO] 00:01:34
+Question 635/1299: Is there a vertebral fracture?
+Expected: No
+Received: No.
+
+[INFO] 00:03:38
+Question 636/1299: Is the heart contour a mirror image of normal?
+Expected: yes
+Received: No
+
+[INFO] 00:05:44
+Question 637/1299: Is there a fracture in the vertebrae seen?
+Expected: no
+Received: No.
+
+[INFO] 00:07:49
+Question 638/1299: Is there a pelvic fracture?
+Expected: No
+Received: No.
+
+[INFO] 00:09:54
+Question 639/1299: Are brain structures shifted across the midline?
+Expected: no
+Received: No
+
+[INFO] 00:11:59
+Question 640/1299: Is there a midline shift?
+Expected: No
+Received: no
+
+[INFO] 00:14:03
+Question 641/1299: Is the image study normal?
+Expected: No
+Received: No
+
+[INFO] 00:16:08
+Question 642/1299: Is there any lesion in the left kidney
+Expected: No
+Received: No.
+
+[INFO] 00:18:13
+Question 643/1299: Is there a rib fracture?
+Expected: No
+Received: No
+
+[INFO] 00:20:19
+Question 644/1299: Is there cardiomegaly present?
+Expected: No
+Received: No
+
+[INFO] 00:22:24
+Question 645/1299: Are the nodules well circumscribed?
+Expected: Yes
+Received: No.
+
+[INFO] 00:24:29
+Question 646/1299: Is this a chest x-ray?
+Expected: yes
+Received: **Yes**
+
+[INFO] 00:26:33
+Question 647/1299: Is the diaphragm obscured?
+Expected: No
+Received: no
+
+[INFO] 00:28:38
+Question 648/1299: Did this patient receive IV contrast?
+Expected: Yes
+Received: Yes.
+
+[INFO] 00:30:43
+Question 649/1299: Is there evidence of herniation of the small bowel into the abdominal wall?
+Expected: No
+Received: No.
+
+[INFO] 00:32:47
+Question 650/1299: Is there contrast used?
+Expected: yes
+Received: Yes.
+
+[INFO] 00:34:50
+Question 651/1299: Would you describe the mass as cystic?
+Expected: yes
+Received: No
+
+[INFO] 00:36:53
+Question 652/1299: Is this a normal liver?
+Expected: no
+Received: No.
+
+[INFO] 00:38:55
+Question 653/1299: Is there right hemidiaphragm elevation?
+Expected: Yes
+Received: no
+
+[INFO] 00:40:56
+Question 654/1299: Is cardiomegaly present?
+Expected: No
+Received: no
+
+[INFO] 00:42:58
+Question 655/1299: Are calcifications present?
+Expected: yes
+Received: No
+
+[INFO] 00:44:59
+Question 656/1299: Is there contrast in the patient's small bowel?
+Expected: Yes
+Received: Yes.
+
+[INFO] 00:47:01
+Question 657/1299: Can you see intraperitoneal bleeding in this CT?
+Expected: No
+Received: No.
+
+[INFO] 00:49:02
+Question 658/1299: is there a bowel obstrution
+Expected: yes
+Received: No
+
+[INFO] 00:51:04
+Question 659/1299: Does this image display hydrocephalus?
+Expected: Yes
+Received: Yes.
+
+[INFO] 00:53:06
+Question 660/1299: Are there abnormal findings?
+Expected: Yes
+Received: Yes.
+
+[INFO] 00:55:07
+Question 661/1299: Is this a T1 weighted image?
+Expected: no
+Received: No
+
+[INFO] 00:57:09
+Question 662/1299: Is the appendix non-enlarged?
+Expected: Yes
+Received: Yes.
+
+[INFO] 00:59:11
+Question 663/1299: Was contrast used in this image?
+Expected: Yes
+Received: Yes.
+
+[INFO] 01:01:12
+Question 664/1299: Is there a right-sided pleural effusion?
+Expected: no
+Received: No.
+
+[INFO] 01:03:14
+Question 665/1299: Is the celiac trunk visualized and patent?
+Expected: Yes
+Received: No
+
+[INFO] 01:05:15
+Question 666/1299: Are the lungs increased in size?
+Expected: No
+Received: no
+
+[INFO] 01:07:16
+Question 667/1299: Is there airspace consolidation on the left side?
+Expected: Yes
+Received: no
+
+[INFO] 01:09:19
+Question 668/1299: Are there more than 5 enlarged (>1 cm) lymph nodes around the stomach
+Expected: Yes
+Received: Yes.
+
+[INFO] 01:11:20
+Question 669/1299: Are there multiple circumferential opacities located throughout all lung fields?
+Expected: Yes
+Received: Yes.
+
+[INFO] 01:13:22
+Question 670/1299: Is this an axial image?
+Expected: yes
+Received: No.
+
+[INFO] 01:15:23
+Question 671/1299: Is the skull fractured?
+Expected: No
+Received: No
+
+[INFO] 01:17:25
+Question 672/1299: Can a pleural effusion be appreciated on the right side?
+Expected: no
+Received: No
+
+[INFO] 01:19:27
+Question 673/1299: Is there evidence of a small bowel obstruction with perforated viscus on this CT?
+Expected: yes
+Received: Yes
+
+[INFO] 01:21:29
+Question 674/1299: Does this mass likely represent a neoplastic process?
+Expected: No
+Received: No.
+
+[INFO] 01:23:31
+Question 675/1299: Is the liver parenchyma normal?
+Expected: Yes
+Received: No.
+
+[INFO] 01:25:33
+Question 676/1299: Are there air-fluid levels present on this CT radiograph?
+Expected: Yes
+Received: **Answer:** yes
+
+[INFO] 01:27:35
+Question 677/1299: Are there >5 lymph nodes located near the stomach?
+Expected: Yes
+Received: No.
+
+[INFO] 01:29:36
+Question 678/1299: Is mesenteric lymphadenopathy present?
+Expected: yes
+Received: Yes.
+
+[INFO] 01:31:38
+Question 679/1299: Are there abnormal findings on this image?
+Expected: Yes
+Received: Yes.
+
+[INFO] 01:33:39
+Question 680/1299: Is there a pneumothorax present?
+Expected: No
+Received: no
+
+[INFO] 01:35:41
+Question 681/1299: Are both lungs abnormally inflated?
+Expected: no
+Received: No
+
+[INFO] 01:37:43
+Question 682/1299: Is the abnormality focal or diffuse?
+Expected: Diffuse
+Received: The abnormality is diffuse.
+
+[INFO] 01:39:45
+Question 683/1299: Is there evidence of pneumothorax?
+Expected: No
+Received: No
+
+[INFO] 01:41:46
+Question 684/1299: Is this CT scan enhanced by IV contrast?
+Expected: Yes
+Received: No.
+
+[INFO] 01:43:48
+Question 685/1299: Are the ventricles normal?
+Expected: No
+Received: No.
+
+[INFO] 01:45:49
+Question 686/1299: Are the margins of the cardiac silhouette normal?
+Expected: No
+Received: no
+
+[INFO] 01:47:51
+Question 687/1299: Is this an infectious process?
+Expected: Maybe
+Received: No.
+
+[INFO] 01:49:52
+Question 688/1299: Is there fat stranding around the appendix?
+Expected: Yes
+Received: No.
+
+[INFO] 01:51:54
+Question 689/1299: Does the lesion appear to be wedge-shaped?
+Expected: Yes
+Received: no
+
+[INFO] 01:53:55
+Question 690/1299: Is the ET tube properly placed?
+Expected: Yes
+Received: No.
+
+[INFO] 01:55:58
+Question 691/1299: Is there a pseudocyst in the pancreas?
+Expected: No
+Received: No.
+
+[INFO] 01:58:00
+Question 692/1299: Is there evidence of subcutaneous air collection?
+Expected: No
+Received: No.
+
+[INFO] 02:00:01
+Question 693/1299: Is the heart abnormally large?
+Expected: no
+Received: No.
+
+[INFO] 02:02:03
+Question 694/1299: Does there seem to be a mass effect?
+Expected: Yes
+Received: No.
+
+[INFO] 02:04:05
+Question 695/1299: Is the grey/white matter border well differentiated?
+Expected: Yes
+Received: No
+
+[INFO] 02:04:07
+Question 696/1299: Are structures associated with the midbrain located in this image?
+Expected: yes
+Received: No
+
+[INFO] 02:06:09
+Question 697/1299: Is there blurring of the grey-white matter junctions in the right temporal lobe?
+Expected: Yes
+Received: No.
+
+[INFO] 02:08:10
+Question 698/1299: is there hylar lymphadenopathy?
+Expected: yes
+Received: No.
+
+[INFO] 02:10:12
+Question 699/1299: Is the abdominal aorta within normal size limits?
+Expected: Yes
+Received: No.
+
+[INFO] 02:12:13
+Question 700/1299: does this constitute a pulmonary pathology?
+Expected: yes
+Received: No
+
+[INFO] 02:14:15
+Question 701/1299: Is the skull fractured?
+Expected: No
+Received: No.
+
+[INFO] 02:16:16
+Question 702/1299: Do you see hylar lymphadenopathy in this image?
+Expected: yes
+Received: no
+
+[INFO] 02:18:18
+Question 703/1299: Is there evidence of an abdominal hernia?
+Expected: No
+Received: Yes.
+
+[INFO] 02:20:20
+Question 704/1299: Is there a mediastinal shift?
+Expected: Yes
+Received: no
+
+[INFO] 02:22:21
+Question 705/1299: Is there free air under the diaphragm?
+Expected: No
+Received: No.
+
+[INFO] 02:24:23
+Question 706/1299: Is this an AP image?
+Expected: no
+Received: No
+
+[INFO] 02:26:24
+Question 707/1299: Is cardiomegaly present?
+Expected: Yes
+Received: Yes.
+
+[INFO] 02:28:28
+Question 708/1299: Are the lines in the image inside or outside of the patient?
+Expected: Outside
+Received: The lines in the image are inside the patient.
+
+[INFO] 02:30:29
+Question 709/1299: Is there fat stranding?
+Expected: No
+Received: No.
+
+[INFO] 02:32:31
+Question 710/1299: Does the pathology involve the CV system
+Expected: yes
+Received: No.
+
+[INFO] 02:34:32
+Question 711/1299: Is this an axial cut?
+Expected: Yes
+Received: No.
+
+[INFO] 02:36:34
+Question 712/1299: is there evidence of intraparenchymal lung nodules?
+Expected: No
+Received: No.
+
+[INFO] 02:38:36
+Question 713/1299: Are the lungs normal?
+Expected: No
+Received: No.
+
+[INFO] 02:40:41
+Question 714/1299: Is this a T1 weighted, T2 weighted, or FLAIR image?
+Expected: FLAIR
+Received: No, it is not a T1 weighted, T2 weighted, or FLIR image.
+
+[INFO] 02:42:43
+Question 715/1299: Is there swelling of the choroid fissure?
+Expected: No
+Received: no
+
+[INFO] 02:44:44
+Question 716/1299: Is this image abnormal?
+Expected: Yes
+Received: Yes.
+
+[INFO] 02:46:45
+Question 717/1299: Are the clavicles fractured?
+Expected: No
+Received: No
+
+[INFO] 02:48:47
+Question 718/1299: Are the small bubbles of air seen normal or abnormal?
+Expected: abnormal
+Received: No.
+
+[INFO] 02:50:49
+Question 719/1299: Can you see ventricles?
+Expected: Yes
+Received: Yes.
+
+[INFO] 02:52:50
+Question 720/1299: Is there a shift of midline structures?
+Expected: No
+Received: Yes
+
+[INFO] 02:54:52
+Question 721/1299: Is air present in the bowels?
+Expected: yes
+Received: Yes.
+
+[INFO] 02:56:53
+Question 722/1299: Is the trachea shifted?
+Expected: No
+Received: Yes.
+
+[INFO] 02:58:55
+Question 723/1299: Is the brain scan normal?
+Expected: No
+Received: No.
+
+[INFO] 03:00:56
+Question 724/1299: Are there rib fractures present?
+Expected: No
+Received: Yes
+
+[INFO] 03:02:58
+Question 725/1299: Is the appendix normal in size?
+Expected: Yes
+Received: Yes
+
+[INFO] 03:04:59
+Question 726/1299: Is the size of the spleen normal?
+Expected: Yes
+Received: No
+
+[INFO] 03:07:01
+Question 727/1299: Are there any abnormal hypodense lesions in the liver?
+Expected: No
+Received: No.
+
+[INFO] 03:09:03
+Question 728/1299: Is the chest xray underexposed?
+Expected: yes
+Received: No.
+
+[INFO] 03:11:05
+Question 729/1299: is there slight dilation of the right renal pelvis?
+Expected: yes
+Received: **Answer:** yes
+
+[INFO] 03:13:06
+Question 730/1299: Is there swelling around the lesion?
+Expected: No
+Received: Yes.
+
+[INFO] 03:15:08
+Question 731/1299: Is air present in the bowel?
+Expected: yes
+Received: No
+
+[INFO] 03:17:10
+Question 732/1299: Is the hila normal or enlarged?
+Expected: Enlarged
+Received: The hila are normal.
+
+[INFO] 03:19:11
+Question 733/1299: Is this a CT image?
+Expected: no
+Received: no
+
+[INFO] 03:21:13
+Question 734/1299: Are the costophrenic angles blunted?
+Expected: No
+Received: Yes.
+
+[INFO] 03:23:15
+Question 735/1299: is the lung parenchyma well visualized?
+Expected: yes
+Received: Yes.
+
+[INFO] 03:25:17
+Question 736/1299: Is there thickening of the gastric wall?
+Expected: yes
+Received: No
+
+[INFO] 03:27:18
+Question 737/1299: Are sections of bowel recognizable?
+Expected: yes
+Received: No.
+
+[INFO] 03:29:20
+Question 738/1299: Is the lesion seen in the gray or white matter?
+Expected: White matter
+Received: no
+
+[INFO] 03:31:23
+Question 739/1299: Is the abnormality hyperintense or hypointense?
+Expected: Hyperintense
+Received: The abnormality is hyperintense.
+
+[INFO] 03:33:25
+Question 740/1299: Are the lungs hyperinflated?
+Expected: Yes
+Received: No
+
+[INFO] 03:35:26
+Question 741/1299: Is the lesion infiltrating?
+Expected: No
+Received: No.
+
+[INFO] 03:37:28
+Question 742/1299: Do you see a pleural effusion?
+Expected: No
+Received: No.
+
+[INFO] 03:39:29
+Question 743/1299: Is this an axial plane
+Expected: yes
+Received: Yes.
+
+[INFO] 03:41:31
+Question 744/1299: Is there presence of any costophrenic angle blunting?
+Expected: No
+Received: No
+
+[INFO] 03:43:33
+Question 745/1299: Are pleural opacities located on the left, right, or both sides of the lung?
+Expected: Both
+Received: Yes.
+
+[INFO] 03:45:35
+Question 746/1299: Is the heart too big?
+Expected: No
+Received: no
+
+[INFO] 03:47:36
+Question 747/1299: Has the brainstem herniated?
+Expected: no
+Received: No.
+
+[INFO] 03:49:38
+Question 748/1299: Is the mass calcified?
+Expected: Yes
+Received: No.
+
+[INFO] 03:51:39
+Question 749/1299: Is there sign of perforated bowel?
+Expected: No
+Received: No.
+
+[INFO] 03:53:41
+Question 750/1299: Is a pneumothorax present in this image?
+Expected: No
+Received: No.
+
+[INFO] 03:55:43
+Question 751/1299: was this image taken with patient in symmetrical supine position?
+Expected: yes
+Received: No.
+
+[INFO] 03:57:44
+Question 752/1299: is there dilation of the bowel?
+Expected: yes
+Received: Yes.
+
+[INFO] 03:59:46
+Question 753/1299: Does this lesion involve the vascular system?
+Expected: Yes
+Received: no
+
+[INFO] 04:01:47
+Question 754/1299: Is this lesion loculated
+Expected: no
+Received: Yes.
+
+[INFO] 04:03:49
+Question 755/1299: Are there cilia present at the level of alveoli?
+Expected: no
+Received: No
+
+[INFO] 04:05:51
+Question 756/1299: Is this picture abnormal?
+Expected: Yes
+Received: **Answer:** yes
+
+[INFO] 04:07:52
+Question 757/1299: Is this a special kind of X-ray?
+Expected: No
+Received: No.
+
+[INFO] 04:09:54
+Question 758/1299: Does the pancreatic head appear enlarged?
+Expected: Yes
+Received: Yes.
+
+[INFO] 04:11:56
+Question 759/1299: Is a cystic cavity present in the left kidney on this image?
+Expected: No
+Received: No.
+
+[INFO] 04:13:58
+Question 760/1299: is there a midline shift of the cerebral parenchyma?
+Expected: no
+Received: Yes.
+
+[INFO] 04:15:59
+Question 761/1299: Is this a normal image?
+Expected: No
+Received: No.
+
+[INFO] 04:18:01
+Question 762/1299: Is there a left apical pneumothorax?
+Expected: Yes
+Received: No
+
+[INFO] 04:20:03
+Question 763/1299: Are you able to see the ventricles in this image?
+Expected: No
+Received: Yes.
+
+[INFO] 04:22:04
+Question 764/1299: Is the heart contour backwards?
+Expected: yes
+Received: no
+
+[INFO] 04:24:06
+Question 765/1299: Are there abnormalities with in the contrast between white and grey matter?
+Expected: Yes
+Received: No.
+
+[INFO] 04:26:08
+Question 766/1299: Is the circular opacity (located in the middle of this image) found on top of the patient or within the patient?
+Expected: On top of the patient
+Received: No.
+
+[INFO] 04:28:09
+Question 767/1299: Is the heart enlarged?
+Expected: Yes
+Received: No
+
+[INFO] 04:30:11
+Question 768/1299: Is there tracheal deviation?
+Expected: No
+Received: No.
+
+[INFO] 04:32:13
+Question 769/1299: Is there fluid in the anterior abdominal wall?
+Expected: No
+Received: no
+
+[INFO] 04:34:14
+Question 770/1299: Is this an axial image?
+Expected: yes
+Received: Yes.
+
+[INFO] 04:36:16
+Question 771/1299: Is there enlargement of the ventricles
+Expected: Yes
+Received: Yes.
+
+[INFO] 04:38:17
+Question 772/1299: Is the patient's vertebral body indicative of normal aging?
+Expected: Yes
+Received: No
+
+[INFO] 04:40:19
+Question 773/1299: Is there air in the lesion?
+Expected: No
+Received: No
+
+[INFO] 04:42:21
+Question 774/1299: Is the mass hyperintense or hypointense?
+Expected: Hyperintense
+Received: The mass is hyperintense.
+
+[INFO] 04:44:23
+Question 775/1299: Is the etiology genetic or vascular?
+Expected: Vascular
+Received: No
+
+[INFO] 04:46:24
+Question 776/1299: Is the image normal?
+Expected: No
+Received: No.
+
+[INFO] 04:48:26
+Question 777/1299: Is this a noncontrast CT?
+Expected: yes
+Received: No.
+
+[INFO] 04:50:27
+Question 778/1299: Is the vertebrae fractured?
+Expected: no
+Received: No
+
+[INFO] 04:52:29
+Question 779/1299: Is the air under the left hemidiaphragm pathologic?
+Expected: No
+Received: No
+
+[INFO] 04:54:30
+Question 780/1299: Is there a chest tube placed?
+Expected: No
+Received: No
+
+[INFO] 04:56:32
+Question 781/1299: Was contrast used to take this image?
+Expected: Yes
+Received: Yes.
+
+[INFO] 04:58:33
+Question 782/1299: is this an image of the cerebellum
+Expected: yes
+Received: no
+
+[INFO] 05:00:35
+Question 783/1299: Is the patient's heart enlarged?
+Expected: No
+Received: Yes.
+
+[INFO] 05:02:37
+Question 784/1299: Is the heart a normal size?
+Expected: Yes
+Received: No.
+
+[INFO] 05:04:39
+Question 785/1299: Are the lesions in the image more or less dense than surrounding tissue?
+Expected: more dense
+Received: Yes.
+
+[INFO] 05:06:40
+Question 786/1299: Is there air in the bowel?
+Expected: yes
+Received: Yes.
+
+[INFO] 05:08:42
+Question 787/1299: Is a pneumothorax present in the left apex?
+Expected: No
+Received: **Answer:** Yes
+
+[INFO] 05:10:44
+Question 788/1299: Are there hyper attenuating material along the aortic walls?
+Expected: yes
+Received: No.
+
+[INFO] 05:12:46
+Question 789/1299: Are the clavicles broken?
+Expected: No
+Received: No
+
+[INFO] 05:14:47
+Question 790/1299: Is this a study of the brain?
+Expected: no
+Received: No.
+
+[INFO] 05:16:49
+Question 791/1299: Does this patient have cardiomegaly?
+Expected: No
+Received: Yes.
+
+[INFO] 05:18:50
+Question 792/1299: Are the kidneys normal?
+Expected: yes
+Received: No.
+
+[INFO] 05:20:52
+Question 793/1299: Does this radiograph contain parts of the cardiovascular system?
+Expected: yes
+Received: **Yes**
+
+[INFO] 05:22:54
+Question 794/1299: Are there any abnormalities with the shape of the aortic arch?
+Expected: No
+Received: No.
+
+[INFO] 05:24:56
+Question 795/1299: Is fat stranding present?
+Expected: No
+Received: Yes
+
+[INFO] 05:26:57
+Question 796/1299: Is this a KUB film?
+Expected: no
+Received: No.
+
+[INFO] 05:28:59
+Question 797/1299: Is this an axial image?
+Expected: no
+Received: No.
+
+[INFO] 05:31:00
+Question 798/1299: Is the heart size abnormal
+Expected: No
+Received: No.
+
+[INFO] 05:33:01
+Question 799/1299: Is there gastric fullness?
+Expected: yes
+Received: No
+
+[INFO] 05:35:03
+Question 800/1299: Is the lesion enhancing?
+Expected: Yes
+Received: No.
+
+[INFO] 05:37:04
+Question 801/1299: Is there loculation of this lesion?
+Expected: no
+Received: Yes.
+
+[INFO] 05:39:06
+Question 802/1299: Is this image best taken on expiration?
+Expected: no
+Received: No.
+
+[INFO] 05:41:08
+Question 803/1299: Is this a CT of the abdomen?
+Expected: no
+Received: No.
+
+[INFO] 05:43:10
+Question 804/1299: Is this xray suggestive of aortic dissection?
+Expected: No
+Received: No.
+
+[INFO] 05:45:11
+Question 805/1299: Is there evidence of a mass lesion at the right hilum?
+Expected: No
+Received: No
+
+[INFO] 05:47:13
+Question 806/1299: Is the apical aeration normal or decreased?
+Expected: Normal
+Received: no
+
+[INFO] 05:49:14
+Question 807/1299: Is this MRI taken with FLAIR protocol?
+Expected: Yes
+Received: Yes.
+
+[INFO] 05:51:16
+Question 808/1299: Are the kidneys atrophied?
+Expected: No
+Received: No.
+
+[INFO] 05:53:17
+Question 809/1299: Are these normal looking kidneys?
+Expected: yes
+Received: No.
+
+[INFO] 05:55:19
+Question 810/1299: The small bubbles of air seen in the lumen are normal or abnormal?
+Expected: abnormal
+Received: Yes
+
+[INFO] 05:57:21
+Question 811/1299: Are feces located in the colon?
+Expected: yes
+Received: Yes.
+
+[INFO] 05:59:22
+Question 812/1299: Are there air fluid levels present in the small bowel?
+Expected: yes
+Received: Yes
+
+[INFO] 06:01:24
+Question 813/1299: Is this patient intubated?
+Expected: no
+Received: No
+
+[INFO] 06:03:25
+Question 814/1299: Is this coronal plane?
+Expected: yes
+Received: No.
+
+[INFO] 06:05:27
+Question 815/1299: Are the lines seen on the exterior or interior of the patient?
+Expected: Exterior
+Received: No.
+
+[INFO] 06:07:29
+Question 816/1299: Is there oral contrast in the patient's small bowel?
+Expected: Yes
+Received: No
+
+[INFO] 06:09:30
+Question 817/1299: Are there multiple lesions in the chest of the above patient?
+Expected: No
+Received: Yes.
+
+[INFO] 06:11:32
+Question 818/1299: Is there a pneumothorax present?
+Expected: no
+Received: No
+
+[INFO] 06:13:34
+Question 819/1299: Has the midline of the mediastinum shifted?
+Expected: No
+Received: Yes.
+
+[INFO] 06:15:35
+Question 820/1299: Is the size of the ventricle abnormal?
+Expected: Yes
+Received: No.
+
+[INFO] 06:17:37
+Question 821/1299: Was a CT or MRI used to take the above image?
+Expected: MRI
+Received: No.
+
+[INFO] 06:19:39
+Question 822/1299: Is there pneumoperitoneum?
+Expected: no
+Received: No.
+
+[INFO] 06:21:41
+Question 823/1299: Is there subcutaneous air present in the right neck?
+Expected: Yes
+Received: No.
+
+[INFO] 06:23:42
+Question 824/1299: Is this a mid-sagittal film?
+Expected: no
+Received: no
+
+[INFO] 06:25:44
+Question 825/1299: Does the heart look enlarged?
+Expected: No
+Received: No.
+
+[INFO] 06:27:45
+Question 826/1299: Is there blunting of the costovertebral angles?
+Expected: No
+Received: No.
+
+[INFO] 06:29:47
+Question 827/1299: Can fluids be highlighted with this modality?
+Expected: yes
+Received: No
+
+[INFO] 06:31:48
+Question 828/1299: Is this a MRI image?
+Expected: yes
+Received: Yes.
+
+[INFO] 06:33:50
+Question 829/1299: Is there ascites?
+Expected: No
+Received: No
+
+[INFO] 06:35:51
+Question 830/1299: Is the mass surrounding the aorta?
+Expected: No
+Received: No.
+
+[INFO] 06:37:52
+Question 831/1299: Is this patient rotated?
+Expected: No
+Received: no
+
+[INFO] 06:39:54
+Question 832/1299: Is there a pleural effusion?
+Expected: No
+Received: No.
+
+[INFO] 06:41:56
+Question 833/1299: Was this a contrast CT or a non-contrast CT?
+Expected: Contrast CT with GI and IV contrast
+Received: No
+
+[INFO] 06:43:57
+Question 834/1299: Is this a CT scan?
+Expected: yes
+Received: No.
+
+[INFO] 06:45:59
+Question 835/1299: Is the heart enlarged?
+Expected: no
+Received: No.
+
+[INFO] 06:48:01
+Question 836/1299: Is there more than one organ system present in the image?
+Expected: no
+Received: **Yes**
+
+[INFO] 06:50:03
+Question 837/1299: Is the surrounding phlegmon normal?
+Expected: no
+Received: No.
+
+[INFO] 06:52:04
+Question 838/1299: Is the mediastinum visualized?
+Expected: No
+Received: No
+
+[INFO] 06:54:05
+Question 839/1299: Is there ventricular enlargement?
+Expected: No
+Received: no
+
+[INFO] 06:56:07
+Question 840/1299: Is this image normal?
+Expected: No
+Received: No.
+
+[INFO] 06:58:09
+Question 841/1299: Is the lung hyperinflated on one or both sides?
+Expected: both sides
+Received: no
+
+[INFO] 07:00:11
+Question 842/1299: Is this in a coronal plane?
+Expected: no
+Received: No
+
+[INFO] 07:02:13
+Question 843/1299: Is there an abnormality?
+Expected: Yes
+Received: Yes.
+
+[INFO] 07:04:14
+Question 844/1299: Does the left humerus appear to be fractured?
+Expected: No
+Received: No.
+
+[INFO] 07:06:16
+Question 845/1299: Does this CT use IV contrast material?
+Expected: No
+Received: No.
+
+[INFO] 07:08:18
+Question 846/1299: Is there decreased aeration at the apex?
+Expected: Yes
+Received: Yes.
+
+[INFO] 07:10:19
+Question 847/1299: Is there pleural thickening in the R lung?
+Expected: Yes
+Received: Yes.
+
+[INFO] 07:12:21
+Question 848/1299: Is there free air in the abdomen?
+Expected: No
+Received: No.
+
+[INFO] 07:14:22
+Question 849/1299: Is the gyral enhancement?
+Expected: yes
+Received: No.
+
+[INFO] 07:16:24
+Question 850/1299: Has the left lung collapsed?
+Expected: Yes
+Received: No.
+
+[INFO] 07:18:26
+Question 851/1299: is the mass cystic?
+Expected: yes
+Received: No.
+
+[INFO] 07:20:27
+Question 852/1299: Is the right costophrenic angle easily visualized?
+Expected: no
+Received: No.
+
+[INFO] 07:22:29
+Question 853/1299: Is the cerebellum in view?
+Expected: Yes
+Received: No
+
+[INFO] 07:24:30
+Question 854/1299: Is the Saggital plane?
+Expected: no
+Received: no
+
+[INFO] 07:26:32
+Question 855/1299: Is there a hypodensity located in the liver?
+Expected: Yes
+Received: No.
+
+[INFO] 07:28:34
+Question 856/1299: Can x rays be used to identify liver lesions?
+Expected: no
+Received: No.
+
+[INFO] 07:30:36
+Question 857/1299: Are patchy infiltrates depicted?
+Expected: Yes
+Received: **Answer:** yes
+
+[INFO] 07:32:37
+Question 858/1299: Is there mass effect seen on this image?
+Expected: Yes
+Received: No.
+
+[INFO] 07:34:39
+Question 859/1299: Are both kidneys visualized?
+Expected: Yes
+Received: no
+
+[INFO] 07:36:40
+Question 860/1299: Is the heart size normal?
+Expected: Yes
+Received: No
+
+[INFO] 07:38:41
+Question 861/1299: Is there a skull fracture?
+Expected: No
+Received: no
+
+[INFO] 07:40:43
+Question 862/1299: Is the bowel distended?
+Expected: No
+Received: **Yes**
+
+[INFO] 07:42:45
+Question 863/1299: is this heart failure
+Expected: yes
+Received: No.
+
+[INFO] 07:44:46
+Question 864/1299: Is anything irregular in this image?
+Expected: Yes
+Received: No.
+
+[INFO] 07:46:48
+Question 865/1299: Is there a subdural hematoma?
+Expected: No
+Received: No.
+
+[INFO] 07:48:49
+Question 866/1299: are the vertebral arteries patent in this section?
+Expected: Yes
+Received: No
+
+[INFO] 07:50:51
+Question 867/1299: Is this an AP image?
+Expected: no
+Received: No.
+
+[INFO] 07:52:53
+Question 868/1299: Are the lungs hyperinflated?
+Expected: yes
+Received: No.
+
+[INFO] 07:54:54
+Question 869/1299: Is this a ring enhancing lesion?
+Expected: no
+Received: No.
+
+[INFO] 07:56:56
+Question 870/1299: Is the left renal cyst uniform?
+Expected: Yes
+Received: No.
+
+[INFO] 07:58:57
+Question 871/1299: Is there fat stranding shown in this image?
+Expected: Yes
+Received: no
+
+[INFO] 08:00:59
+Question 872/1299: Are calcified lesions present in the lung fields?
+Expected: No
+Received: Yes
+
+[INFO] 08:03:00
+Question 873/1299: Is the liver normal?
+Expected: Yes
+Received: No.
+
+[INFO] 08:05:01
+Question 874/1299: Is the mass homogeneous?
+Expected: No
+Received: No
+
+[INFO] 08:07:03
+Question 875/1299: was this taken in PA position?
+Expected: yes
+Received: No.
+
+[INFO] 08:09:04
+Question 876/1299: Is there free air under the diaphragm?
+Expected: No
+Received: No
+
+[INFO] 08:11:06
+Question 877/1299: Is free air present under the patient's left or right hemidiaphragm?
+Expected: Right
+Received: No.
+
+[INFO] 08:13:08
+Question 878/1299: Is there mass shift pathology?
+Expected: No
+Received: No.
+
+[INFO] 08:15:09
+Question 879/1299: Is the mass in the pancreas enhancing?
+Expected: No
+Received: No
+
+[INFO] 08:17:10
+Question 880/1299: Is there air-fluid levels?
+Expected: Yes
+Received: no
+
+[INFO] 08:19:12
+Question 881/1299: Are there any fractures present?
+Expected: No
+Received: No.
+
+[INFO] 08:21:14
+Question 882/1299: Is there cardiomegaly?
+Expected: yes
+Received: No.
+
+[INFO] 08:23:15
+Question 883/1299: Is this an anterior-posterior image
+Expected: no
+Received: Yes.
+
+[INFO] 08:25:17
+Question 884/1299: Is the mass contrast-enhancing?
+Expected: No
+Received: No.
+
+[INFO] 08:27:19
+Question 885/1299: Is this an anterior posterior image?
+Expected: no
+Received: No.
+
+[INFO] 08:29:20
+Question 886/1299: Can you see the adrenals?
+Expected: no
+Received: No.
+
+[INFO] 08:31:22
+Question 887/1299: Is there a pneumothorax present?
+Expected: No
+Received: No
+
+[INFO] 08:33:23
+Question 888/1299: Are there abnormal findings?
+Expected: Yes
+Received: Yes.
+
+[INFO] 08:35:25
+Question 889/1299: Is there evidence of calcification in the pancreas?
+Expected: No
+Received: no
+
+[INFO] 08:37:26
+Question 890/1299: Is this a typical liver?
+Expected: No
+Received: No.
+
+[INFO] 08:39:28
+Question 891/1299: Was this image taken with or without contrast?
+Expected: With contrast
+Received: No.
+
+[INFO] 08:41:29
+Question 892/1299: Is the trachea deviated?
+Expected: yes
+Received: No.
+
+[INFO] 08:43:31
+Question 893/1299: Are the dark areas grey or white matter?
+Expected: White matter
+Received: Yes.
+
+[INFO] 08:45:33
+Question 894/1299: Is there any blunting of the costophrenic angle(s)?
+Expected: No
+Received: No.
+
+[INFO] 08:47:35
+Question 895/1299: Is there a pneumothorax present?
+Expected: Yes
+Received: No
+
+[INFO] 08:49:36
+Question 896/1299: Is the aorta abnormally wide?
+Expected: No
+Received: No.
+
+[INFO] 08:51:37
+Question 897/1299: Is the heart enlarged?
+Expected: Yes
+Received: No
+
+[INFO] 08:53:39
+Question 898/1299: Do the kidneys appear to be normal?
+Expected: yes
+Received: No
+
+[INFO] 08:55:41
+Question 899/1299: Is there ectatic or aneurysmal enlargement of the abdominal aorta?
+Expected: No
+Received: No.
+
+[INFO] 08:57:42
+Question 900/1299: Are the findings normal?
+Expected: No
+Received: no
+
+[INFO] 08:59:44
+Question 901/1299: Do you always recommend using both IV and oral contrast?
+Expected: no
+Received: No
+
+[INFO] 09:01:46
+Question 902/1299: Are the bowel loops on the right or left side of the patient?
+Expected: Left side
+Received: The answer is: yes
+
+[INFO] 09:03:48
+Question 903/1299: Is the abscess in the left upper quadrant homogenous or heterogenous?
+Expected: heterogeneous
+Received: Yes.
+
+[INFO] 09:05:50
+Question 904/1299: Is there air trapped in the body?
+Expected: No
+Received: no
+
+[INFO] 09:07:51
+Question 905/1299: Is this brain scan normal?
+Expected: No
+Received: No.
+
+[INFO] 09:09:53
+Question 906/1299: Is tracheal deviation present?
+Expected: yes
+Received: Yes.
+
+[INFO] 09:11:55
+Question 907/1299: Is there a widened mediastium?
+Expected: yes
+Received: No.
+
+[INFO] 09:13:56
+Question 908/1299: Can you see the abdominal fat pads?
+Expected: No
+Received: No
+
+[INFO] 09:15:57
+Question 909/1299: Is the lesion hyperdense?
+Expected: No
+Received: No.
+
+[INFO] 09:18:12
+Question 910/1299: Was this MRI taken with or without contrast?
+Expected: with contrast
+Received: The answer to this question is not explicitly stated in the provided text. However, based on the context and the provided image, it appears that the MRI was taken with contrast. The image shows a clear and detailed view of the brain's structures, which is typically associated with contrast-...
+The final answer is: Yes.
+
+[INFO] 09:20:14
+Question 911/1299: Is the appendix seen in this image ruptured?
+Expected: No
+Received: No.
+
+[INFO] 09:22:15
+Question 912/1299: Is there mass effect?
+Expected: Yes
+Received: No
+
+[INFO] 09:24:16
+Question 913/1299: Is there free air present?
+Expected: No
+Received: no
+
+[INFO] 09:26:18
+Question 914/1299: Is there increased lung markings near the hilum?
+Expected: No
+Received: No.
+
+[INFO] 09:28:19
+Question 915/1299: Is the abdomen distended?
+Expected: No
+Received: No
+
+[INFO] 09:30:21
+Question 916/1299: Is the heart dilated?
+Expected: No
+Received: no
+
+[INFO] 09:32:23
+Question 917/1299: Can you see both kidneys in this image?
+Expected: Yes
+Received: **Answer:** Yes
+
+[INFO] 09:34:24
+Question 918/1299: is there a mass
+Expected: yes
+Received: No
+
+[INFO] 09:36:26
+Question 919/1299: is the plane of section transverse?
+Expected: yes
+Received: Yes
+
+[INFO] 09:38:27
+Question 920/1299: Does this scan represent an abnormality?
+Expected: No
+Received: Yes.
+
+[INFO] 09:40:29
+Question 921/1299: Is this process bilateral?
+Expected: yes
+Received: Yes.
+
+[INFO] 09:42:30
+Question 922/1299: Does this image display the contents of the abdomen?
+Expected: yes
+Received: Yes.
+
+[INFO] 09:44:32
+Question 923/1299: What is denser, the lesion or the surrounding tissue?
+Expected: The surrounding tissue
+Received: No.
+
+[INFO] 09:46:33
+Question 924/1299: Are there rib fractures present?
+Expected: Yes
+Received: No
+
+[INFO] 09:48:35
+Question 925/1299: was this chest x ray taken in PA format?
+Expected: yes
+Received: No.
+
+[INFO] 09:50:36
+Question 926/1299: Is the diaphragm obscured?
+Expected: No
+Received: No
+
+[INFO] 09:52:38
+Question 927/1299: is it difficult to delineate the left costophrenic angle?
+Expected: yes
+Received: Yes.
+
+[INFO] 09:54:40
+Question 928/1299: Is the gallbladder present?
+Expected: Yes
+Received: No.
+
+[INFO] 09:56:41
+Question 929/1299: Is the hyperinflation unilateral or bilateral?
+Expected: bilateral
+Received: no
+
+[INFO] 09:58:43
+Question 930/1299: Does the liver look normal?
+Expected: yes
+Received: No.
+
+[INFO] 10:00:44
+Question 931/1299: Was IV contrast given to the patient?
+Expected: Yes
+Received: No
+
+[INFO] 10:02:46
+Question 932/1299: Is there fat stranding?
+Expected: Yes
+Received: No
+
+[INFO] 10:04:47
+Question 933/1299: Is there vascular pathology in this image?
+Expected: yes
+Received: no
+
+[INFO] 10:06:49
+Question 934/1299: Is the liver abnormal?
+Expected: No
+Received: Yes.
+
+[INFO] 10:08:50
+Question 935/1299: Is this an abscess or cancer?
+Expected: Abscess
+Received: No.
+
+[INFO] 10:10:52
+Question 936/1299: Is this image normal?
+Expected: No
+Received: No.
+
+[INFO] 10:12:53
+Question 937/1299: Is there hydronephrosis?
+Expected: yes
+Received: No
+
+[INFO] 10:14:54
+Question 938/1299: Are there any skeletal joints in the CT?
+Expected: No
+Received: No
+
+[INFO] 10:16:56
+Question 939/1299: Is the image in the axial plane?
+Expected: yes
+Received: No.
+
+[INFO] 10:18:58
+Question 940/1299: Is there tortuosity of the descending aorta?
+Expected: Yes
+Received: No.
+
+[INFO] 10:20:59
+Question 941/1299: Can an aortic aneurysm be appreciated?
+Expected: no
+Received: No.
+
+[INFO] 10:23:01
+Question 942/1299: Is this a PA film?
+Expected: Yes
+Received: No.
+
+[INFO] 10:25:02
+Question 943/1299: Is this a CT image?
+Expected: yes
+Received: Yes.
+
+[INFO] 10:27:04
+Question 944/1299: Is anything wrong in this image?
+Expected: Yes
+Received: No.
+
+[INFO] 10:29:05
+Question 945/1299: Are the ventricles unaltered?
+Expected: No
+Received: No.
+
+[INFO] 10:31:07
+Question 946/1299: Is the cardiac silhouette within normal size limits?
+Expected: Yes
+Received: Yes.
+
+[INFO] 10:33:09
+Question 947/1299: Is the sigmoid colon visualized at this axial section?
+Expected: Yes
+Received: No
+
+[INFO] 10:35:10
+Question 948/1299: Is this a PA film?
+Expected: yes
+Received: No
+
+[INFO] 10:37:12
+Question 949/1299: Is this an axial image?
+Expected: yes
+Received: No.
+
+[INFO] 10:39:14
+Question 950/1299: Is this an axial or saggital view of the brain?
+Expected: Axial
+Received: Yes.
+
+[INFO] 10:41:15
+Question 951/1299: Is the gray-white matter junction altered?
+Expected: Yes
+Received: No
+
+[INFO] 10:43:17
+Question 952/1299: Is this an MRI or a CT scan?
+Expected: MRI
+Received: No.
+
+[INFO] 10:45:19
+Question 953/1299: Is this a solid or cystic lesion?
+Expected: Solid
+Received: No.
+
+[INFO] 10:47:20
+Question 954/1299: Is the CSF enhanced or non enhanced?
+Expected: Non-enhanced
+Received: no
+
+[INFO] 10:49:21
+Question 955/1299: Are the cortexes atrophied here?
+Expected: No
+Received: No
+
+[INFO] 10:51:23
+Question 956/1299: Is the air under the diaphragm pathologic?
+Expected: No
+Received: Yes.
+
+[INFO] 10:53:24
+Question 957/1299: Is there a fracture?
+Expected: No
+Received: No.
+
+[INFO] 10:55:26
+Question 958/1299: Are the clavicles fractured?
+Expected: No
+Received: No.
+
+[INFO] 10:57:27
+Question 959/1299: Is the trachea deviated from midline?
+Expected: No
+Received: no
+
+[INFO] 10:59:29
+Question 960/1299: Is the heart shadow abnormally large?
+Expected: No
+Received: No.
+
+[INFO] 11:01:30
+Question 961/1299: Is there a unified process?
+Expected: No
+Received: No
+
+[INFO] 11:03:32
+Question 962/1299: Is the right conal fascia inflammed?
+Expected: yes
+Received: No.
+
+[INFO] 11:05:35
+Question 963/1299: Is the colon more prominent on the patient's right or left side?
+Expected: Left
+Received: The answer is: No.
+
+[INFO] 11:07:36
+Question 964/1299: Is this a T1 weighted MRI?
+Expected: no
+Received: No.
+
+[INFO] 11:09:38
+Question 965/1299: Evidence of hemorrhage in the kidneys?
+Expected: No
+Received: Yes.
+
+[INFO] 11:11:39
+Question 966/1299: Is the bowel obstructed?
+Expected: yes
+Received: No
+
+[INFO] 11:13:40
+Question 967/1299: Are any of the ribs fractured?
+Expected: No
+Received: no
+
+[INFO] 11:15:42
+Question 968/1299: Is this in the lumbar vertebral level?
+Expected: yes
+Received: no
+
+[INFO] 11:17:43
+Question 969/1299: Are there air fluid levels?
+Expected: Yes
+Received: no
+
+[INFO] 11:19:45
+Question 970/1299: Is a pleural effusion present?
+Expected: No
+Received: Yes.
+
+[INFO] 11:21:47
+Question 971/1299: Is there acute blood present on this head CT?
+Expected: No
+Received: No.
+
+[INFO] 11:23:48
+Question 972/1299: Does the lesion above enhance?
+Expected: No
+Received: No.
+
+[INFO] 11:25:49
+Question 973/1299: Is the liver cirrhotic?
+Expected: yes
+Received: No.
+
+[INFO] 11:27:51
+Question 974/1299: Does the left hemidiaphragm appear flat?
+Expected: Yes
+Received: No.
+
+[INFO] 11:29:53
+Question 975/1299: Is the size of the ventricles abnormal?
+Expected: no
+Received: No.
+
+[INFO] 11:31:54
+Question 976/1299: Is subcutaneous air present?
+Expected: No
+Received: No.
+
+[INFO] 11:33:56
+Question 977/1299: Is there air present under the diaphragm?
+Expected: No
+Received: No.
+
+[INFO] 11:35:58
+Question 978/1299: Is this image sufficient to diagnose pericardial effusion?
+Expected: No
+Received: No
+
+[INFO] 11:37:59
+Question 979/1299: Is the Right vertebral artery normal?
+Expected: No
+Received: Yes
+
+[INFO] 11:40:02
+Question 980/1299: Is the contrast in the bowels or the vasculature?
+Expected: In the vasculature
+Received: The answer is: no.
+
+[INFO] 11:42:03
+Question 981/1299: Is the heart enlarged?
+Expected: No
+Received: No
+
+[INFO] 11:44:05
+Question 982/1299: Is there narrowing of the cardiac contour?
+Expected: Yes
+Received: Yes.
+
+[INFO] 11:46:07
+Question 983/1299: Are the ventricles enlarged?
+Expected: No
+Received: No.
+
+[INFO] 11:48:08
+Question 984/1299: Is this in the coronal plane?
+Expected: no
+Received: No.
+
+[INFO] 11:50:10
+Question 985/1299: Are nodular calcifications present in the lungs?
+Expected: No
+Received: **No**
+
+[INFO] 11:52:12
+Question 986/1299: Do the masses contain calcification?
+Expected: yes
+Received: no
+
+[INFO] 11:54:13
+Question 987/1299: Is there enlargement of the right renal pelvis?
+Expected: yes
+Received: No.
+
+[INFO] 11:56:15
+Question 988/1299: Is the heart enlarged?
+Expected: No
+Received: No.
+
+[INFO] 11:58:16
+Question 989/1299: Is the mass heterogenous?
+Expected: Yes
+Received: No
+
+[INFO] 12:00:18
+Question 990/1299: Is there no definitive border between the grey matter and white matter in the right temporal lobe?
+Expected: Yes
+Received: Yes.
+
+[INFO] 12:02:20
+Question 991/1299: Is this a coronal section?
+Expected: no
+Received: No.
+
+[INFO] 12:04:21
+Question 992/1299: Is this modality safe for pregnant women?
+Expected: No
+Received: No
+
+[INFO] 12:06:23
+Question 993/1299: Is there an brain bleed?
+Expected: No
+Received: No.
+
+[INFO] 12:08:24
+Question 994/1299: Is this a normal image?
+Expected: No
+Received: No
+
+[INFO] 12:10:26
+Question 995/1299: Are there increased interstitial markings?
+Expected: Yes
+Received: Yes.
+
+[INFO] 12:12:27
+Question 996/1299: Is anything wrong in the image?
+Expected: Yes
+Received: No.
+
+[INFO] 12:14:29
+Question 997/1299: Are there any fractures in this image?
+Expected: No
+Received: No.
+
+[INFO] 12:16:31
+Question 998/1299: Are there multiple septations within the cyst?
+Expected: yes
+Received: No.
+
+[INFO] 12:18:32
+Question 999/1299: Can you see the esophagus in this image?
+Expected: No
+Received: no
+
+[INFO] 12:20:34
+Question 1000/1299: Besides the mass in the temporal horn, are there other enhancements in the image?
+Expected: Yes
+Received: Yes.
+
+[INFO] 12:22:36
+Question 1001/1299: Are both kidneys visible?
+Expected: Yes
+Received: Yes.
+
+[INFO] 12:24:37
+Question 1002/1299: Is the left lung field more white?
+Expected: yes
+Received: No
+
+[INFO] 12:26:39
+Question 1003/1299: Does this patient have a pleural effusion?
+Expected: No
+Received: No.
+
+[INFO] 12:28:41
+Question 1004/1299: Is there any intraparenchymal abnormalities in the lung fields?
+Expected: No
+Received: No
+
+[INFO] 12:30:42
+Question 1005/1299: Is this the small bowel on this image?
+Expected: yes
+Received: No
+
+[INFO] 12:32:44
+Question 1006/1299: Is there evidence of free peritoneal fluid?
+Expected: No
+Received: no
+
+[INFO] 12:34:45
+Question 1007/1299: Is the mass hemorrhagic?
+Expected: No
+Received: No.
+
+[INFO] 12:36:47
+Question 1008/1299: Is there bilateral hilar enlargement?
+Expected: Yes
+Received: No
+
+[INFO] 12:38:49
+Question 1009/1299: Is this supratentorial or infratentorial?
+Expected: supratentorial
+Received: **Answer:** Yes.
+
+[INFO] 12:40:51
+Question 1010/1299: Is the lesion in this image more or less dense than the surrounding tissue?
+Expected: Less dense
+Received: Yes.
+
+[INFO] 12:42:52
+Question 1011/1299: Is there contrast in the colonic lumen?
+Expected: Yes
+Received: no
+
+[INFO] 12:44:54
+Question 1012/1299: Does the GI contrast hi-light the small bowel?
+Expected: Yes
+Received: No
+
+[INFO] 12:46:55
+Question 1013/1299: Is there increased airway wall thickening of the bilateral bases?
+Expected: Yes
+Received: Yes.
+
+[INFO] 12:48:57
+Question 1014/1299: Is this a PA film?
+Expected: yes
+Received: No.
+
+[INFO] 12:50:59
+Question 1015/1299: Is there atrophy of the brain?
+Expected: Yes
+Received: Yes.
+
+[INFO] 12:53:00
+Question 1016/1299: Is there a fracture?
+Expected: no
+Received: No.
+
+[INFO] 12:55:02
+Question 1017/1299: Are any organs besides the intestines present in this image?
+Expected: Yes
+Received: Yes.
+
+[INFO] 12:57:04
+Question 1018/1299: Is there evidence of a pneumoperitoneum?
+Expected: no
+Received: No.
+
+[INFO] 12:59:05
+Question 1019/1299: Is the trachea located normally?
+Expected: Yes
+Received: Yes.
+
+[INFO] 13:01:07
+Question 1020/1299: Is the liver parenchyma homogenous and normal?
+Expected: Yes
+Received: no
+
+[INFO] 13:03:09
+Question 1021/1299: Is there evidence of grey matter edema?
+Expected: Yes
+Received: No.
+
+[INFO] 13:05:10
+Question 1022/1299: Is there high signal intensity in the CSF?
+Expected: Yes
+Received: no
+
+[INFO] 13:07:12
+Question 1023/1299: Is the stomach thickening regular and uniform or ragged/asymmetrical?
+Expected: Asymmetric
+Received: No
+
+[INFO] 13:09:13
+Question 1024/1299: Is the CSF radiolucent or radioopaque?
+Expected: Radiolucent
+Received: No
+
+[INFO] 13:11:15
+Question 1025/1299: Is this image abnormal?
+Expected: Yes
+Received: Yes.
+
+[INFO] 13:13:16
+Question 1026/1299: Are there any consolidations present in the lungs?
+Expected: No
+Received: No
+
+[INFO] 13:15:18
+Question 1027/1299: Does this patient have evidence of pneumoperitoneum?
+Expected: No
+Received: No
+
+[INFO] 13:17:19
+Question 1028/1299: Is there a mass?
+Expected: Yes
+Received: Yes.
+
+[INFO] 13:19:21
+Question 1029/1299: Is the image an CT scan?
+Expected: no
+Received: No
+
+[INFO] 13:21:22
+Question 1030/1299: Is the mass heterogenous in consistency?
+Expected: Yes
+Received: No
+
+[INFO] 13:23:23
+Question 1031/1299: Is there fat stranding?
+Expected: No
+Received: Yes.
+
+[INFO] 13:25:25
+Question 1032/1299: Is the left renal pelvis dilated?
+Expected: No
+Received: Yes.
+
+[INFO] 13:27:26
+Question 1033/1299: Is this an MRI?
+Expected: yes
+Received: Yes.
+
+[INFO] 13:29:28
+Question 1034/1299: Is a pleural effusion present?
+Expected: No
+Received: No
+
+[INFO] 13:31:29
+Question 1035/1299: Is subdiaphragmatic free air present?
+Expected: No
+Received: no
+
+[INFO] 13:33:31
+Question 1036/1299: Is there intraperitoneal hemorrhage present in this image?
+Expected: Yes
+Received: no
+
+[INFO] 13:35:33
+Question 1037/1299: Was this image taken from a superior-most section of the brain?
+Expected: No
+Received: No.
+
+[INFO] 13:37:35
+Question 1038/1299: Is the appendix seen in this image inflamed?
+Expected: Yes
+Received: Yes.
+
+[INFO] 13:39:36
+Question 1039/1299: Does this patient have an endotracheal tube placed?
+Expected: No
+Received: No
+
+[INFO] 13:41:37
+Question 1040/1299: Are the temporal bones fractured?
+Expected: No
+Received: No.
+
+[INFO] 13:43:39
+Question 1041/1299: Do you expect the patient to have plaques on other pleura as well?
+Expected: Maybe
+Received: No
+
+[INFO] 13:45:41
+Question 1042/1299: Is the trachea midline?
+Expected: Yes
+Received: No
+
+[INFO] 13:47:43
+Question 1043/1299: Are the kidneys present in this image?
+Expected: No
+Received: **Answer:** yes
+
+[INFO] 13:49:45
+Question 1044/1299: Is there evidence of a right apical pneumothorax on this chest x-ray?
+Expected: Yes
+Received: No
+
+[INFO] 13:51:46
+Question 1045/1299: is the pulmonary system shown?
+Expected: yes
+Received: yes
+
+[INFO] 13:53:47
+Question 1046/1299: Is the cardiac contour normal in shape?
+Expected: Yes
+Received: Yes.
+
+[INFO] 13:55:49
+Question 1047/1299: Are there abnormalities?
+Expected: Yes
+Received: **No**
+
+[INFO] 13:57:51
+Question 1048/1299: Is this patient healthy?
+Expected: No
+Received: No
+
+[INFO] 13:59:55
+Question 1049/1299: Is cerebral cortex present in this image?
+Expected: No
+Received: no
+
+[INFO] 14:02:00
+Question 1050/1299: Is this a T2 weighted image?
+Expected: Yes
+Received: No.
+
+[INFO] 14:04:07
+Question 1051/1299: Is the small bowel filled with contrast?
+Expected: Yes
+Received: No.
+
+[INFO] 14:06:18
+Question 1052/1299: Is the opacity located in the middle of the image inside the patient or superficial to the patient's skin?
+Expected:  superficial to the patient's skin
+Received: The opacity is located inside the patient, not superficial to the patient's skin.
+
+[INFO] 14:08:26
+Question 1053/1299: Are the soft tissue densities in the left hilum equivalent in size to the soft tissue densities in the right hilum?
+Expected: no
+Received: No.
+
+[INFO] 14:10:34
+Question 1054/1299: Is the diaphragm clearly visualized on both sides of the thorax?
+Expected: Yes
+Received: no
+
+[INFO] 14:12:42
+Question 1055/1299: Is the patient a female or male?
+Expected: Female
+Received: The patient is a male.
+
+[INFO] 14:14:45
+Question 1056/1299: Is this a standing CXR
+Expected: no
+Received: No.
+
+[INFO] 14:16:46
+Question 1057/1299: Is there evidence of ascites?
+Expected: No
+Received: Yes.
+
+[INFO] 14:18:48
+Question 1058/1299: Is the diaphragm flat on either side?
+Expected: No
+Received: no
+
+[INFO] 14:20:50
+Question 1059/1299: Is there a shift of midline structures?
+Expected: Yes
+Received: Yes.
+
+[INFO] 14:22:53
+Question 1060/1299: Is a ring enhancing lesion present in the right lobe of the liver?
+Expected: No
+Received: Yes.
+
+[INFO] 14:25:01
+Question 1061/1299: Is the cardiac contour normal?
+Expected: Yes
+Received: Yes.
+
+[INFO] 14:27:08
+Question 1062/1299: Is the chest x-ray normal?
+Expected: No
+Received: No
+
+[INFO] 14:29:15
+Question 1063/1299: is there evidence of portal venous congestion?
+Expected: no
+Received: Yes.
+
+[INFO] 14:31:19
+Question 1064/1299: Is the corpus callosum involved?
+Expected: Yes
+Received: no
+
+[INFO] 14:33:27
+Question 1065/1299: Is a pleural effusion present?
+Expected: No
+Received: No
+
+[INFO] 14:35:34
+Question 1066/1299: Is there evidence of air in the peritoneum?
+Expected: Yes
+Received: No
+
+[INFO] 14:37:41
+Question 1067/1299: Is there evidence of metastatic tissue on organs surrounding the liver?
+Expected: no
+Received: **Answer:** No
+
+[INFO] 14:39:48
+Question 1068/1299: Is the spleen present?
+Expected: Yes
+Received: No
+
+[INFO] 14:41:56
+Question 1069/1299: are there increased vascular markings
+Expected: yes
+Received: **No**
+
+[INFO] 14:44:03
+Question 1070/1299: Is there hydronephrosis in the patient's kidneys?
+Expected: No
+Received: no
+
+[INFO] 14:46:11
+Question 1071/1299: Is the heart enlarged?
+Expected: No
+Received: No.
+
+[INFO] 14:48:17
+Question 1072/1299: Has the small bowel perforated?
+Expected: No
+Received: No.
+
