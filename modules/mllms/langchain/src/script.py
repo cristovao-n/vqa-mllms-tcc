@@ -33,7 +33,7 @@ def get_time():
 
 def process_sample(sample, sample_dir):
     for index, question in enumerate(sample):
-        output_path = f"../../../answers/{DATASET}/{MODEL}/{sample_dir}/answers.jsonl"
+        output_path = f"../../../answers/{DATASET}/{sample_dir}/{MODEL}/answers.jsonl"
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
         with open(
