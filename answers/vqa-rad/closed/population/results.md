@@ -2,11 +2,13 @@
 
 ## GPT-4o
 
-closed-ended questions in sample: 1299  
-rows discarded: 119 (expected answer or model answer is not yes/no)  
-valid rows: 1180  
-yes: 585  
+```
+closed-ended questions in sample: 1299
+rows discarded: 119 (expected answer or model answer is not yes/no)
+valid rows: 1180
+yes: 585
 no: 595
+```
 
 ### Confusion Matrix
 
@@ -30,8 +32,6 @@ weighted avg       0.71      0.71      0.71      1180
 
 ### F1 Score by Question Type
 
-TODO: Get the amount of questions by type
-
 ```
    question_type  f1_score  count
 5          ORGAN  0.967742     17
@@ -50,11 +50,13 @@ TODO: Get the amount of questions by type
 
 ## Qwen 2.5 VL 7b
 
-closed-ended questions in sample: 1299  
-rows discarded: 106 (expected answer or model answer is not yes/no)  
-valid rows: 1193  
-yes: 587  
+```
+closed-ended questions in sample: 1299
+rows discarded: 106 (expected answer or model answer is not yes/no)
+valid rows: 1193
+yes: 587
 no: 606
+```
 
 ### Confusion Matrix
 
@@ -96,11 +98,13 @@ weighted avg       0.76      0.71      0.69      1193
 
 ## Llama 3.2 Vision 11b
 
-closed-ended questions in sample: 1299  
-rows discarded: 226 (expected answer or model answer is not yes/no)  
-valid rows: 1073  
-yes: 528  
+```
+closed-ended questions in sample: 1299
+rows discarded: 226 (expected answer or model answer is not yes/no)
+valid rows: 1073
+yes: 528
 no: 545
+```
 
 ### Confusion Matrix
 
