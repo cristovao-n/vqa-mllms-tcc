@@ -1,5 +1,9 @@
 # Quantitative Analysis
 
+-   GPT-4o has a balanced recall for both yes/no classes
+-   Qwen 2.5 VL has a high precision for "yes" (0.87) but low recall (0.48), which suggests it's over-cautious in saying “yes”. It says "no" too often and achieves a high no recall, which shows it is biased
+-   LLaMA 3.2 is even more biased: recall for "no" is high (0.85), but recall for "yes" is only 0.35, and it has lower precisions than Qwen 2.5 VL
+
 ## GPT-4o
 
 ```
