@@ -14,10 +14,11 @@ no: 595
 
 ### Classification Report
 
+TODO: Add raw text  
 ![alt text](assets/gpt-4o-classification-report.png)
 
 ### F1 Score by Question Type
-
+TODO: Get the amount of questions by type  
 ```
    question_type  f1_score
 5          ORGAN  0.967742
