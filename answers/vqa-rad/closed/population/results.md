@@ -147,3 +147,17 @@ weighted avg       0.63      0.60      0.58      1073
 1         ATTRIB  0.294118     43
 10          PRSE  0.000000      1
 ```
+
+# Terms
+
+![question-types](assets/question-types.png)
+
+MODALITYPLANEORGAN (Organ System)4.3
+ABN (Abnormality)
+PRES (Object/Condition Presence)
+POS (Positional Reasoning)
+COLOR
+SIZE
+ATTRIB (Attribute Other)
+COUNT (Counting)
+Other
