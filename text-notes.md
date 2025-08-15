@@ -19,7 +19,8 @@ Conclusão
 8 - Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V > https://arxiv.org/pdf/2310.19061  
 9 - The Epidemiology of Error in Radiology and Strategies for Error Reduction > https://pubs.rsna.org/doi/abs/10.1148/rg.2015150023  
 10 - The Rationale for Early Diagnosis of Cancer: The Example of Breast Cancer > https://www.tandfonline.com/doi/abs/10.1080/028418699431357  
-11 - A Comprehensive Survey on Visual Question Answering Datasets and Algorithms > https://arxiv.org/abs/2411.11150
+11 - A Comprehensive Survey on Visual Question Answering Datasets and Algorithms > https://arxiv.org/abs/2411.11150  
+12 - A Closer Look at Classification Evaluation Metrics and a Critical Reflection of Common Evaluation Practice > https://arxiv.org/abs/2404.16958
 
 ## Anotações
 
