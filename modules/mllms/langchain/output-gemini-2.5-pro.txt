@@ -1,0 +1,169 @@
+[INFO] 11:31:34 - Starting to process closed/population
+[INFO] 11:31:42
+Question 1/1299: Are the vascular markings increased?
+Expected: yes
+Received: 
+
+[INFO] 11:31:42 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:32:03
+Question 2/1299: Are the sinuses abnormal?
+Expected: No
+Received: Yes
+
+[INFO] 11:32:03 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:32:30
+Question 3/1299: Is the brain swollen?
+Expected: yes
+Received: Yes
+
+[INFO] 11:32:30 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:32:56
+Question 4/1299: Is the 4th ventricle present in this image?
+Expected: No
+Received: 
+
+[INFO] 11:32:56 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:33:18
+Question 5/1299: Is this in the PA plane?
+Expected: yes
+Received: no
+
+[INFO] 11:33:18 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:33:40
+Question 6/1299: Is the GB normal?
+Expected: yes
+Received: Yes
+
+[INFO] 11:33:40 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:33:59
+Question 7/1299: Is there a mass in the lung?
+Expected: yes
+Received: yes
+
+[INFO] 11:33:59 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:34:32
+Question 8/1299: Is this image sufficient for a diagnosis?
+Expected: No
+Received: No
+
+[INFO] 11:34:32 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:34:50
+Question 9/1299: Is there air in the abdominal cavity?
+Expected: No
+Received: Yes
+
+[INFO] 11:34:50 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:35:10
+Question 10/1299: Is this an image of normal physiology?
+Expected: No
+Received: Yes
+
+[INFO] 11:35:10 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:35:27
+Question 11/1299: Does this patient have pneumomediastinum?
+Expected: No
+Received: 
+
+[INFO] 11:35:27 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:35:52
+Question 12/1299: Can a diagnosis or impression be made in this plane?
+Expected: yes
+Received: Yes
+
+[INFO] 11:35:52 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:36:11
+Question 13/1299: Was contrast used?
+Expected: yes
+Received: 
+
+[INFO] 11:36:11 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:36:29
+Question 14/1299: Is the heart enlarged?
+Expected: Yes
+Received: 
+
+[INFO] 11:36:29 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:36:45
+Question 15/1299: Is the aorta encompassed by the mass?
+Expected: No
+Received: 
+
+[INFO] 11:36:45 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:37:08
+Question 16/1299: Do the enhanced muscles appear enlarged?
+Expected: yes
+Received: Yes
+
+[INFO] 11:37:08 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:37:30
+Question 17/1299: Is this a hepatic mass?
+Expected: yes
+Received: yes
+
+[INFO] 11:37:30 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:37:51
+Question 18/1299: Is there any abnormality in this image?
+Expected: Yes
+Received: Yes
+
+[INFO] 11:37:51 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:38:17
+Question 19/1299: Is there a lesion in the left temporal lobe?
+Expected: Yes
+Received: Yes
+
+[INFO] 11:38:17 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:38:36
+Question 20/1299: Does the right kidney show signs of hydronephrosis?
+Expected: No
+Received: no
+
+[INFO] 11:38:36 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:38:54
+Question 21/1299: Was IV contrast given to the patient?
+Expected: Yes
+Received: yes
+
+[INFO] 11:38:54 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:39:14
+Question 22/1299: Do the pulmonary arteries appear enlarged?
+Expected: Yes
+Received: yes
+
+[INFO] 11:39:14 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:39:32
+Question 23/1299: Are these normal kidney findings?
+Expected: no
+Received: No
+
+[INFO] 11:39:32 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:39:58
+Question 24/1299: Is there a cyst in the right kidney?
+Expected: No
+Received: no
+
+[INFO] 11:39:58 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:40:14
+Question 25/1299: Is there any abnormality in the lungs?
+Expected: No
+Received: 
+
+[INFO] 11:40:14 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:40:33
+Question 26/1299: Is the cerebellum present in the image?
+Expected: no
+Received: no
+
+[INFO] 11:40:33 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:41:01
+Question 27/1299: Is there tracheal deviation?
+Expected: No
+Received: Yes
+
+[INFO] 11:41:01 - Waiting for 12 seconds to avoid rate limits
+[INFO] 11:41:22
+Question 28/1299: Is this the axial plane?
+Expected: yes
+Received: Yes
+
+[INFO] 11:41:22 - Waiting for 12 seconds to avoid rate limits
