@@ -4,6 +4,7 @@ import os
 from dotenv import load_dotenv
 from langchain_ollama import ChatOllama
 from langchain.chat_models import init_chat_model
+from langchain_google_genai import ChatGoogleGenerativeAI
 import sys
 from datetime import datetime
 
@@ -19,7 +20,9 @@ def get_mllm(model):
     if model == "llama3.2-vision:11b":
         return ChatOllama(model=model)
     if model == "gpt-4o":
-        return init_chat_model(MODEL, model_provider="openai")
+        return init_chat_model(model, model_provider="openai")
+    if model == "gemini-2.5-pro":
+        return ChatGoogleGenerativeAI(model=model)
 
 mllm = get_mllm(MODEL)
 system_message = {
@@ -75,7 +78,11 @@ def process_sample(sample, sample_dir):
             # Append to JSONL
             with open(output_path, "a") as out_file:
                 out_file.write(json.dumps(question) + "\n")
-
+            # wait for 12 seconds
+            if MODEL == "gemini-2.5-pro":
+                print(f"[INFO] {get_time()} - Waiting for 12 seconds to avoid rate limits")
+                import time
+                time.sleep(12)
 samples_dir = ["closed/population"]
 
 for sample_dir in samples_dir:

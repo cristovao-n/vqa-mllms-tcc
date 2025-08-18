@@ -21,5 +21,7 @@ Installing dependencies in virtual environment
 #### Cloud
 
 Add `OPENAI_API_KEY` in your .env
+`gpt-4o`  
 
-`gpt-4o`
+Add `GOOGLE_API_KEY` in your .env  
+`gemini-2.5-pro`
