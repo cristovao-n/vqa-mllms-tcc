@@ -69,7 +69,7 @@ def process_sample(sample, sample_dir):
             response = mllm.invoke([system_message, user_message])
             model_answer = response.text()
             print(f"[INFO] {get_time()}")
-            print(f"Question {index + 1}/{len(sample)}: {question['question']}")
+            print(f"Question {question['qid']}/{len(sample)}: {question['question']}")
             print(f"Expected: {question['answer']}")
             print(f"Received: {model_answer}")
             print()
@@ -78,11 +78,11 @@ def process_sample(sample, sample_dir):
             # Append to JSONL
             with open(output_path, "a") as out_file:
                 out_file.write(json.dumps(question) + "\n")
-            # wait for 12 seconds
+            # wait for 864 seconds to respect 100 requests per day
             if MODEL == "gemini-2.5-pro":
-                print(f"[INFO] {get_time()} - Waiting for 12 seconds to avoid rate limits")
+                print(f"[INFO] {get_time()} - Waiting for 900 seconds (15 minutes) to respect 100 req/day")
                 import time
-                time.sleep(12)
+                time.sleep(900)
 samples_dir = ["closed/population"]
 
 for sample_dir in samples_dir:
