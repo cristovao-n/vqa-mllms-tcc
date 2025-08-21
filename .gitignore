@@ -3,4 +3,4 @@ node_modules
 datasets/path-vqa/train
 datasets/pmc-vqa/images_2/figures
 datasets/vqa-rad/images
-modules/langchain/.env
+modules/mllms/langchain/.env
