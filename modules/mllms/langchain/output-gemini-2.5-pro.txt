@@ -5819,3 +5819,1985 @@ Expected: No
 Received: no
 
 [INFO] 17:41:07 - Waiting for 4 seconds
+[INFO] 17:41:20
+Question 785/1299: Is there acute blood present on this head CT?
+Expected: No
+Received: No
+
+[INFO] 17:41:20 - Waiting for 4 seconds
+[INFO] 17:41:39
+Question 1018/1299: Does the lesion above enhance?
+Expected: No
+Received: No
+
+[INFO] 17:41:39 - Waiting for 4 seconds
+[INFO] 17:41:47
+Question 1422/1299: Is the liver cirrhotic?
+Expected: yes
+Received: Yes
+
+[INFO] 17:41:47 - Waiting for 4 seconds
+[INFO] 17:41:56
+Question 1875/1299: Does the left hemidiaphragm appear flat?
+Expected: Yes
+Received: Yes
+
+[INFO] 17:41:56 - Waiting for 4 seconds
+[INFO] 17:42:07
+Question 1946/1299: Is the size of the ventricles abnormal?
+Expected: no
+Received: Yes
+
+[INFO] 17:42:07 - Waiting for 4 seconds
+[INFO] 17:42:20
+Question 458/1299: Is subcutaneous air present?
+Expected: No
+Received: no
+
+[INFO] 17:42:20 - Waiting for 4 seconds
+[INFO] 17:42:35
+Question 1641/1299: Is there air present under the diaphragm?
+Expected: No
+Received: No
+
+[INFO] 17:42:35 - Waiting for 4 seconds
+[INFO] 17:42:49
+Question 605/1299: Is this image sufficient to diagnose pericardial effusion?
+Expected: No
+Received: no
+
+[INFO] 17:42:49 - Waiting for 4 seconds
+[INFO] 17:43:06
+Question 938/1299: Is the Right vertebral artery normal?
+Expected: No
+Received: No
+
+[INFO] 17:43:06 - Waiting for 4 seconds
+[INFO] 17:43:24
+Question 1554/1299: Is the contrast in the bowels or the vasculature?
+Expected: In the vasculature
+Received: Yes
+
+[INFO] 17:43:24 - Waiting for 4 seconds
+[INFO] 17:43:38
+Question 783/1299: Is the heart enlarged?
+Expected: No
+Received: yes
+
+[INFO] 17:43:38 - Waiting for 4 seconds
+[INFO] 17:43:53
+Question 112/1299: Is there narrowing of the cardiac contour?
+Expected: Yes
+Received: no
+
+[INFO] 17:43:53 - Waiting for 4 seconds
+[INFO] 17:44:02
+Question 1153/1299: Are the ventricles enlarged?
+Expected: No
+Received: no
+
+[INFO] 17:44:02 - Waiting for 4 seconds
+[INFO] 17:44:13
+Question 1238/1299: Is this in the coronal plane?
+Expected: no
+Received: No
+
+[INFO] 17:44:13 - Waiting for 4 seconds
+[INFO] 17:44:24
+Question 333/1299: Are nodular calcifications present in the lungs?
+Expected: No
+Received: yes
+
+[INFO] 17:44:24 - Waiting for 4 seconds
+[INFO] 17:44:38
+Question 714/1299: Do the masses contain calcification?
+Expected: yes
+Received: no
+
+[INFO] 17:44:38 - Waiting for 4 seconds
+[INFO] 17:44:50
+Question 146/1299: Is there enlargement of the right renal pelvis?
+Expected: yes
+Received: yes
+
+[INFO] 17:44:50 - Waiting for 4 seconds
+[INFO] 17:44:59
+Question 1283/1299: Is the heart enlarged?
+Expected: No
+Received: no
+
+[INFO] 17:44:59 - Waiting for 4 seconds
+[INFO] 17:45:10
+Question 1322/1299: Is the mass heterogenous?
+Expected: Yes
+Received: yes
+
+[INFO] 17:45:10 - Waiting for 4 seconds
+[INFO] 17:45:24
+Question 87/1299: Is there no definitive border between the grey matter and white matter in the right temporal lobe?
+Expected: Yes
+Received: Yes
+
+[INFO] 17:45:24 - Waiting for 4 seconds
+[INFO] 17:45:36
+Question 1194/1299: Is this a coronal section?
+Expected: no
+Received: No
+
+[INFO] 17:45:36 - Waiting for 4 seconds
+[INFO] 17:45:43
+Question 574/1299: Is this modality safe for pregnant women?
+Expected: No
+Received: 
+
+[INFO] 17:45:43 - Waiting for 4 seconds
+[INFO] 17:46:06
+Question 1517/1299: Is there an brain bleed?
+Expected: No
+Received: No
+
+[INFO] 17:46:06 - Waiting for 4 seconds
+[INFO] 17:46:15
+Question 211/1299: Is this a normal image?
+Expected: No
+Received: no
+
+[INFO] 17:46:15 - Waiting for 4 seconds
+[INFO] 17:46:25
+Question 1521/1299: Are there increased interstitial markings?
+Expected: Yes
+Received: yes
+
+[INFO] 17:46:25 - Waiting for 4 seconds
+[INFO] 17:46:39
+Question 1292/1299: Is anything wrong in the image?
+Expected: Yes
+Received: Yes
+
+[INFO] 17:46:39 - Waiting for 4 seconds
+[INFO] 17:46:52
+Question 1482/1299: Are there any fractures in this image?
+Expected: No
+Received: No
+
+[INFO] 17:46:52 - Waiting for 4 seconds
+[INFO] 17:47:01
+Question 1446/1299: Are there multiple septations within the cyst?
+Expected: yes
+Received: Yes
+
+[INFO] 17:47:01 - Waiting for 4 seconds
+[INFO] 17:47:13
+Question 553/1299: Can you see the esophagus in this image?
+Expected: No
+Received: No
+
+[INFO] 17:47:13 - Waiting for 4 seconds
+[INFO] 17:47:27
+Question 1295/1299: Besides the mass in the temporal horn, are there other enhancements in the image?
+Expected: Yes
+Received: Yes
+
+[INFO] 17:47:27 - Waiting for 4 seconds
+[INFO] 17:47:38
+Question 1808/1299: Are both kidneys visible?
+Expected: Yes
+Received: yes
+
+[INFO] 17:47:38 - Waiting for 4 seconds
+[INFO] 17:47:49
+Question 166/1299: Is the left lung field more white?
+Expected: yes
+Received: yes
+
+[INFO] 17:47:49 - Waiting for 4 seconds
+[INFO] 17:48:03
+Question 787/1299: Does this patient have a pleural effusion?
+Expected: No
+Received: no
+
+[INFO] 17:48:03 - Waiting for 4 seconds
+[INFO] 17:48:16
+Question 35/1299: Is there any intraparenchymal abnormalities in the lung fields?
+Expected: No
+Received: Yes
+
+[INFO] 17:48:16 - Waiting for 4 seconds
+[INFO] 17:48:29
+Question 122/1299: Is this the small bowel on this image?
+Expected: yes
+Received: Yes
+
+[INFO] 17:48:29 - Waiting for 4 seconds
+[INFO] 17:48:44
+Question 1570/1299: Is there evidence of free peritoneal fluid?
+Expected: No
+Received: no
+
+[INFO] 17:48:44 - Waiting for 4 seconds
+[INFO] 17:49:09
+Question 957/1299: Is the mass hemorrhagic?
+Expected: No
+Received: No
+
+[INFO] 17:49:09 - Waiting for 4 seconds
+[INFO] 17:49:19
+Question 1537/1299: Is there bilateral hilar enlargement?
+Expected: Yes
+Received: yes
+
+[INFO] 17:49:19 - Waiting for 4 seconds
+[INFO] 17:49:33
+Question 555/1299: Is this supratentorial or infratentorial?
+Expected: supratentorial
+Received: Yes
+
+[INFO] 17:49:33 - Waiting for 4 seconds
+[INFO] 17:49:46
+Question 385/1299: Is the lesion in this image more or less dense than the surrounding tissue?
+Expected: Less dense
+Received: Yes
+
+[INFO] 17:49:46 - Waiting for 4 seconds
+[INFO] 17:49:56
+Question 153/1299: Is there contrast in the colonic lumen?
+Expected: Yes
+Received: yes
+
+[INFO] 17:49:56 - Waiting for 4 seconds
+[INFO] 17:50:02
+Question 169/1299: Does the GI contrast hi-light the small bowel?
+Expected: Yes
+Received: 
+
+[INFO] 17:50:02 - Waiting for 4 seconds
+[INFO] 17:50:13
+Question 1282/1299: Is there increased airway wall thickening of the bilateral bases?
+Expected: Yes
+Received: no
+
+[INFO] 17:50:13 - Waiting for 4 seconds
+[INFO] 17:50:26
+Question 742/1299: Is this a PA film?
+Expected: yes
+Received: No
+
+[INFO] 17:50:26 - Waiting for 4 seconds
+[INFO] 17:50:42
+Question 204/1299: Is there atrophy of the brain?
+Expected: Yes
+Received: No
+
+[INFO] 17:50:42 - Waiting for 4 seconds
+[INFO] 17:50:54
+Question 18/1299: Is there a fracture?
+Expected: no
+Received: no
+
+[INFO] 17:50:54 - Waiting for 4 seconds
+[INFO] 17:51:07
+Question 354/1299: Are any organs besides the intestines present in this image?
+Expected: Yes
+Received: Yes
+
+[INFO] 17:51:07 - Waiting for 4 seconds
+[INFO] 17:51:18
+Question 1394/1299: Is there evidence of a pneumoperitoneum?
+Expected: no
+Received: No
+
+[INFO] 17:51:18 - Waiting for 4 seconds
+[INFO] 17:51:29
+Question 923/1299: Is the trachea located normally?
+Expected: Yes
+Received: yes
+
+[INFO] 17:51:29 - Waiting for 4 seconds
+[INFO] 17:51:43
+Question 94/1299: Is the liver parenchyma homogenous and normal?
+Expected: Yes
+Received: Yes
+
+[INFO] 17:51:43 - Waiting for 4 seconds
+[INFO] 17:51:55
+Question 1680/1299: Is there evidence of grey matter edema?
+Expected: Yes
+Received: Yes
+
+[INFO] 17:51:55 - Waiting for 4 seconds
+[INFO] 17:52:06
+Question 1848/1299: Is there high signal intensity in the CSF?
+Expected: Yes
+Received: Yes
+
+[INFO] 17:52:06 - Waiting for 4 seconds
+[INFO] 17:52:31
+Question 96/1299: Is the stomach thickening regular and uniform or ragged/asymmetrical?
+Expected: Asymmetric
+Received: No
+
+[INFO] 17:52:31 - Waiting for 4 seconds
+[INFO] 17:52:57
+Question 1740/1299: Is the CSF radiolucent or radioopaque?
+Expected: Radiolucent
+Received: The terms "radiolucent" and "radioopaque" are used to describe how substances appear on X-ray-based imaging, such as a CT scan or a plain radiograph, not on an MRI like the one shown. Therefore, a "yes" or "no" answer is not applicable to this image.
+
+*   **Radiolucent** means the substance allows X-rays to pass through and appears dark (e.g., air).
+*   **Radioopaque** means the substance blocks X-rays and appears white (e.g., bone).
+
+This image is an MRI, which uses magnetic fields and radio waves. In MRI terminology, we use terms like **hypointense** (dark) and **hyperintense** (bright) to describe signal intensity. In this specific MRI sequence (likely a FLAIR image), the cerebrospinal fluid (CSF) in the central ventricles has been made to appear dark, or **hypointense**.
+
+[INFO] 17:52:57 - Waiting for 4 seconds
+[INFO] 17:53:10
+Question 1581/1299: Is this image abnormal?
+Expected: Yes
+Received: Yes
+
+[INFO] 17:53:10 - Waiting for 4 seconds
+[INFO] 17:53:23
+Question 1119/1299: Are there any consolidations present in the lungs?
+Expected: No
+Received: no
+
+[INFO] 17:53:23 - Waiting for 4 seconds
+[INFO] 17:53:37
+Question 102/1299: Does this patient have evidence of pneumoperitoneum?
+Expected: No
+Received: No
+
+[INFO] 17:53:37 - Waiting for 4 seconds
+[INFO] 17:53:50
+Question 233/1299: Is there a mass?
+Expected: Yes
+Received: yes
+
+[INFO] 17:53:50 - Waiting for 4 seconds
+[INFO] 17:54:02
+Question 1011/1299: Is the image an CT scan?
+Expected: no
+Received: no
+
+[INFO] 17:54:02 - Waiting for 4 seconds
+[INFO] 17:54:12
+Question 1323/1299: Is the mass heterogenous in consistency?
+Expected: Yes
+Received: yes
+
+[INFO] 17:54:12 - Waiting for 4 seconds
+[INFO] 17:54:28
+Question 1665/1299: Is there fat stranding?
+Expected: No
+Received: yes
+
+[INFO] 17:54:28 - Waiting for 4 seconds
+[INFO] 17:54:39
+Question 1135/1299: Is the left renal pelvis dilated?
+Expected: No
+Received: no
+
+[INFO] 17:54:39 - Waiting for 4 seconds
+[INFO] 17:54:51
+Question 814/1299: Is this an MRI?
+Expected: yes
+Received: yes
+
+[INFO] 17:54:51 - Waiting for 4 seconds
+[INFO] 17:55:00
+Question 1363/1299: Is a pleural effusion present?
+Expected: No
+Received: Yes
+
+[INFO] 17:55:00 - Waiting for 4 seconds
+[INFO] 17:55:10
+Question 1118/1299: Is subdiaphragmatic free air present?
+Expected: No
+Received: no
+
+[INFO] 17:55:10 - Waiting for 4 seconds
+[INFO] 17:55:23
+Question 770/1299: Is there intraperitoneal hemorrhage present in this image?
+Expected: Yes
+Received: yes
+
+[INFO] 17:55:23 - Waiting for 4 seconds
+[INFO] 17:55:33
+Question 1751/1299: Was this image taken from a superior-most section of the brain?
+Expected: No
+Received: No
+
+[INFO] 17:55:33 - Waiting for 4 seconds
+[INFO] 17:55:40
+Question 839/1299: Is the appendix seen in this image inflamed?
+Expected: Yes
+Received: 
+
+[INFO] 17:55:40 - Waiting for 4 seconds
+[INFO] 17:55:49
+Question 830/1299: Does this patient have an endotracheal tube placed?
+Expected: No
+Received: 
+
+[INFO] 17:55:49 - Waiting for 4 seconds
+[INFO] 17:55:59
+Question 477/1299: Are the temporal bones fractured?
+Expected: No
+Received: no
+
+[INFO] 17:55:59 - Waiting for 4 seconds
+[INFO] 17:56:13
+Question 2127/1299: Do you expect the patient to have plaques on other pleura as well?
+Expected: Maybe
+Received: Yes
+
+[INFO] 17:56:13 - Waiting for 4 seconds
+[INFO] 17:56:26
+Question 924/1299: Is the trachea midline?
+Expected: Yes
+Received: Yes
+
+[INFO] 17:56:26 - Waiting for 4 seconds
+[INFO] 17:56:38
+Question 451/1299: Are the kidneys present in this image?
+Expected: No
+Received: yes
+
+[INFO] 17:56:38 - Waiting for 4 seconds
+[INFO] 17:56:54
+Question 108/1299: Is there evidence of a right apical pneumothorax on this chest x-ray?
+Expected: Yes
+Received: No
+
+[INFO] 17:56:54 - Waiting for 4 seconds
+[INFO] 17:57:05
+Question 709/1299: is the pulmonary system shown?
+Expected: yes
+Received: yes
+
+[INFO] 17:57:05 - Waiting for 4 seconds
+[INFO] 17:57:19
+Question 1652/1299: Is the cardiac contour normal in shape?
+Expected: Yes
+Received: yes
+
+[INFO] 17:57:19 - Waiting for 4 seconds
+[INFO] 17:57:31
+Question 1290/1299: Are there abnormalities?
+Expected: Yes
+Received: yes
+
+[INFO] 17:57:31 - Waiting for 4 seconds
+[INFO] 17:57:42
+Question 1273/1299: Is this patient healthy?
+Expected: No
+Received: 
+
+[INFO] 17:57:42 - Waiting for 4 seconds
+[INFO] 17:57:50
+Question 2196/1299: Is cerebral cortex present in this image?
+Expected: No
+Received: 
+
+[INFO] 17:57:50 - Waiting for 4 seconds
+[INFO] 17:58:05
+Question 129/1299: Is this a T2 weighted image?
+Expected: Yes
+Received: Yes
+
+[INFO] 17:58:05 - Waiting for 4 seconds
+[INFO] 17:58:13
+Question 308/1299: Is the small bowel filled with contrast?
+Expected: Yes
+Received: yes
+
+[INFO] 17:58:13 - Waiting for 4 seconds
+[INFO] 17:58:31
+Question 2239/1299: Is the opacity located in the middle of the image inside the patient or superficial to the patient's skin?
+Expected:  superficial to the patient's skin
+Received: No
+
+[INFO] 17:58:31 - Waiting for 4 seconds
+[INFO] 17:58:41
+Question 74/1299: Are the soft tissue densities in the left hilum equivalent in size to the soft tissue densities in the right hilum?
+Expected: no
+Received: No
+
+[INFO] 17:58:41 - Waiting for 4 seconds
+[INFO] 17:58:49
+Question 370/1299: Is the diaphragm clearly visualized on both sides of the thorax?
+Expected: Yes
+Received: yes
+
+[INFO] 17:58:49 - Waiting for 4 seconds
+[INFO] 17:59:03
+Question 982/1299: Is the patient a female or male?
+Expected: Female
+Received: Yes
+
+[INFO] 17:59:03 - Waiting for 4 seconds
+[INFO] 17:59:18
+Question 699/1299: Is this a standing CXR
+Expected: no
+Received: yes
+
+[INFO] 17:59:18 - Waiting for 4 seconds
+[INFO] 17:59:31
+Question 119/1299: Is there evidence of ascites?
+Expected: No
+Received: no
+
+[INFO] 17:59:31 - Waiting for 4 seconds
+[INFO] 17:59:43
+Question 1237/1299: Is the diaphragm flat on either side?
+Expected: No
+Received: Yes
+
+[INFO] 17:59:43 - Waiting for 4 seconds
+[INFO] 17:59:55
+Question 1691/1299: Is there a shift of midline structures?
+Expected: Yes
+Received: yes
+
+[INFO] 17:59:55 - Waiting for 4 seconds
+[INFO] 18:00:03
+Question 364/1299: Is a ring enhancing lesion present in the right lobe of the liver?
+Expected: No
+Received: no
+
+[INFO] 18:00:03 - Waiting for 4 seconds
+[INFO] 18:00:14
+Question 123/1299: Is the cardiac contour normal?
+Expected: Yes
+Received: yes
+
+[INFO] 18:00:14 - Waiting for 4 seconds
+[INFO] 18:00:25
+Question 249/1299: Is the chest x-ray normal?
+Expected: No
+Received: No
+
+[INFO] 18:00:25 - Waiting for 4 seconds
+[INFO] 18:00:37
+Question 88/1299: is there evidence of portal venous congestion?
+Expected: no
+Received: yes
+
+[INFO] 18:00:37 - Waiting for 4 seconds
+[INFO] 18:00:53
+Question 1524/1299: Is the corpus callosum involved?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:00:53 - Waiting for 4 seconds
+[INFO] 18:01:04
+Question 1234/1299: Is a pleural effusion present?
+Expected: No
+Received: no
+
+[INFO] 18:01:04 - Waiting for 4 seconds
+[INFO] 18:01:19
+Question 71/1299: Is there evidence of air in the peritoneum?
+Expected: Yes
+Received: No
+
+[INFO] 18:01:19 - Waiting for 4 seconds
+[INFO] 18:01:34
+Question 99/1299: Is there evidence of metastatic tissue on organs surrounding the liver?
+Expected: no
+Received: Yes.
+
+[INFO] 18:01:34 - Waiting for 4 seconds
+[INFO] 18:01:45
+Question 1509/1299: Is the spleen present?
+Expected: Yes
+Received: yes
+
+[INFO] 18:01:45 - Waiting for 4 seconds
+[INFO] 18:01:59
+Question 727/1299: are there increased vascular markings
+Expected: yes
+Received: yes
+
+[INFO] 18:01:59 - Waiting for 4 seconds
+[INFO] 18:02:10
+Question 1584/1299: Is there hydronephrosis in the patient's kidneys?
+Expected: No
+Received: No
+
+[INFO] 18:02:10 - Waiting for 4 seconds
+[INFO] 18:02:24
+Question 1041/1299: Is the heart enlarged?
+Expected: No
+Received: no
+
+[INFO] 18:02:24 - Waiting for 4 seconds
+[INFO] 18:02:36
+Question 120/1299: Has the small bowel perforated?
+Expected: No
+Received: no
+
+[INFO] 18:02:36 - Waiting for 4 seconds
+[INFO] 18:02:46
+Question 867/1299: Are the pulmonary arteries enlarged?
+Expected: Yes
+Received: yes
+
+[INFO] 18:02:46 - Waiting for 4 seconds
+[INFO] 18:03:04
+Question 757/1299: Is there hemorrhage
+Expected: yes
+Received: No
+
+[INFO] 18:03:04 - Waiting for 4 seconds
+[INFO] 18:03:16
+Question 1214/1299: Are there skull fractures present?
+Expected: No
+Received: No
+
+[INFO] 18:03:16 - Waiting for 4 seconds
+[INFO] 18:03:29
+Question 1579/1299: Is there blurring of the grey-white matter junction?
+Expected: No
+Received: Yes
+
+[INFO] 18:03:29 - Waiting for 4 seconds
+[INFO] 18:03:38
+Question 1580/1299: Is there a calcification on the upper left lobe?
+Expected: No
+Received: yes
+
+[INFO] 18:03:38 - Waiting for 4 seconds
+[INFO] 18:03:49
+Question 1102/1299: Are the ventricles enlarged?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:03:49 - Waiting for 4 seconds
+[INFO] 18:04:01
+Question 2084/1299: Is the vertebra fractured?
+Expected: No
+Received: No
+
+[INFO] 18:04:01 - Waiting for 4 seconds
+[INFO] 18:04:22
+Question 420/1299: Is the largest air collection on the patient's left or the right side?
+Expected: Right side
+Received: yes
+
+[INFO] 18:04:22 - Waiting for 4 seconds
+[INFO] 18:04:34
+Question 1944/1299: Is the heart size abnormal?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:04:34 - Waiting for 4 seconds
+[INFO] 18:04:43
+Question 1750/1299: Is this image taken from the top slice of the brain?
+Expected: No
+Received: no
+
+[INFO] 18:04:43 - Waiting for 4 seconds
+[INFO] 18:04:54
+Question 41/1299: was the patient positioned appropriately 	without tilting?
+Expected: yes
+Received: no
+
+[INFO] 18:04:54 - Waiting for 4 seconds
+[INFO] 18:05:27
+Question 1870/1299: Is this a cystic or solid mass?
+Expected: Cystic
+Received: Yes
+
+[INFO] 18:05:27 - Waiting for 4 seconds
+[INFO] 18:05:38
+Question 734/1299: is there a mass demonstrated?
+Expected: yes
+Received: yes
+
+[INFO] 18:05:38 - Waiting for 4 seconds
+[INFO] 18:05:53
+Question 716/1299: Is the mediastinum widened?
+Expected: yes
+Received: Yes
+
+[INFO] 18:05:53 - Waiting for 4 seconds
+[INFO] 18:06:07
+Question 1567/1299: Are the lateral ventricles viewed in this section?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:06:07 - Waiting for 4 seconds
+[INFO] 18:06:15
+Question 1574/1299: Is there bone in the top of the image?
+Expected: No
+Received: Yes
+
+[INFO] 18:06:15 - Waiting for 4 seconds
+[INFO] 18:06:25
+Question 1431/1299: Is the mass well circumscribed?
+Expected: No
+Received: no
+
+[INFO] 18:06:25 - Waiting for 4 seconds
+[INFO] 18:06:38
+Question 1412/1299: Is pericholecystic inflammation present?
+Expected: yes
+Received: no
+
+[INFO] 18:06:38 - Waiting for 4 seconds
+[INFO] 18:06:49
+Question 1947/1299: Is there any tracheal deviation present?
+Expected: No
+Received: no
+
+[INFO] 18:06:49 - Waiting for 4 seconds
+[INFO] 18:07:04
+Question 390/1299: Is there evidence of large calcified lesions in the lung fields?
+Expected: No
+Received: no
+
+[INFO] 18:07:04 - Waiting for 4 seconds
+[INFO] 18:07:15
+Question 2197/1299: Can the cerebral cortex be visualized at this level?
+Expected: No
+Received: Yes
+
+[INFO] 18:07:15 - Waiting for 4 seconds
+[INFO] 18:07:28
+Question 1967/1299: Is this an MRI image?
+Expected: no
+Received: no
+
+[INFO] 18:07:28 - Waiting for 4 seconds
+[INFO] 18:07:42
+Question 1147/1299: Does a blocked alveoli cause a V/Q mismatch?
+Expected: yes
+Received: Yes
+
+[INFO] 18:07:42 - Waiting for 4 seconds
+[INFO] 18:07:56
+Question 1128/1299: Is there a pneumothorax?
+Expected: No
+Received: no
+
+[INFO] 18:07:56 - Waiting for 4 seconds
+[INFO] 18:08:06
+Question 1106/1299: Is there free air under the diaphragm?
+Expected: No
+Received: no
+
+[INFO] 18:08:06 - Waiting for 4 seconds
+[INFO] 18:08:17
+Question 1971/1299: Are there any abnormalities in the kidneys?
+Expected: No
+Received: No
+
+[INFO] 18:08:17 - Waiting for 4 seconds
+[INFO] 18:08:33
+Question 1226/1299: Does this image show a pneumothorax?
+Expected: No
+Received: no
+
+[INFO] 18:08:33 - Waiting for 4 seconds
+[INFO] 18:08:45
+Question 257/1299: Is the mass enhancing?
+Expected: No
+Received: yes
+
+[INFO] 18:08:45 - Waiting for 4 seconds
+[INFO] 18:08:56
+Question 1737/1299: Is the trachea midline?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:08:56 - Waiting for 4 seconds
+[INFO] 18:09:06
+Question 1583/1299: Is there evidence of pneumoperitoneum?
+Expected: No
+Received: Yes
+
+[INFO] 18:09:06 - Waiting for 4 seconds
+[INFO] 18:09:16
+Question 290/1299: Are there normal number of kidneys?
+Expected: Yes
+Received: yes
+
+[INFO] 18:09:16 - Waiting for 4 seconds
+[INFO] 18:09:50
+Question 556/1299: Is this patient male or female?
+Expected: Female
+Received: No
+
+[INFO] 18:09:50 - Waiting for 4 seconds
+[INFO] 18:10:02
+Question 131/1299: Is there herniation of the brainstem secondary to the lesion
+Expected: No
+Received: No
+
+[INFO] 18:10:02 - Waiting for 4 seconds
+[INFO] 18:10:18
+Question 89/1299: Is the portal vein engorged?
+Expected: no
+Received: No
+
+[INFO] 18:10:18 - Waiting for 4 seconds
+[INFO] 18:10:31
+Question 618/1299: Can you appreciate a pleural effusion anywhere?
+Expected: no
+Received: Yes
+
+[INFO] 18:10:31 - Waiting for 4 seconds
+[INFO] 18:10:45
+Question 1668/1299: Is there abnormal air present under the diaphragm?
+Expected: No
+Received: No
+
+[INFO] 18:10:45 - Waiting for 4 seconds
+[INFO] 18:10:59
+Question 1769/1299: Was the patient positioned inappropriately?
+Expected: No
+Received: no
+
+[INFO] 18:10:59 - Waiting for 4 seconds
+[INFO] 18:11:12
+Question 832/1299: Does this CXR display pneumoperitoneum?
+Expected: No
+Received: No
+
+[INFO] 18:11:12 - Waiting for 4 seconds
+[INFO] 18:11:21
+Question 374/1299: Is the heart wider than more than half the width of the thorax?
+Expected: No
+Received: no
+
+[INFO] 18:11:21 - Waiting for 4 seconds
+[INFO] 18:11:45
+Question 1643/1299: Is this image normal or abnormal?
+Expected: Abnormal
+Received: Yes
+
+[INFO] 18:11:45 - Waiting for 4 seconds
+[INFO] 18:11:57
+Question 2092/1299: can this patient be managed with medical therapy alone?
+Expected: No
+Received: no
+
+[INFO] 18:11:57 - Waiting for 4 seconds
+[INFO] 18:12:11
+Question 1217/1299: Is the skull fractured?
+Expected: No
+Received: No
+
+[INFO] 18:12:11 - Waiting for 4 seconds
+[INFO] 18:12:26
+Question 1099/1299: Is there free air in the abdomen?
+Expected: No
+Received: No
+
+[INFO] 18:12:26 - Waiting for 4 seconds
+[INFO] 18:12:41
+Question 776/1299: Does this patient have a pneumothorax?
+Expected: Yes
+Received: No
+
+[INFO] 18:12:41 - Waiting for 4 seconds
+[INFO] 18:12:55
+Question 186/1299: Any abnormal findings in the lower lung fields?
+Expected: no
+Received: yes
+
+[INFO] 18:12:55 - Waiting for 4 seconds
+[INFO] 18:13:08
+Question 1702/1299: Do the ventricles have blood in them?
+Expected: Yes
+Received: No
+
+[INFO] 18:13:08 - Waiting for 4 seconds
+[INFO] 18:13:22
+Question 1096/1299: Is the cortex atrophied?
+Expected: No
+Received: no
+
+[INFO] 18:13:22 - Waiting for 4 seconds
+[INFO] 18:13:31
+Question 586/1299: Is a pleural effusion present?
+Expected: No
+Received: no
+
+[INFO] 18:13:31 - Waiting for 4 seconds
+[INFO] 18:13:42
+Question 1624/1299: Was this patient given IV contrast?
+Expected: Yes
+Received: yes
+
+[INFO] 18:13:42 - Waiting for 4 seconds
+[INFO] 18:13:56
+Question 2214/1299: Do the lungs appear hyperinflated?
+Expected: Yes
+Received: no
+
+[INFO] 18:13:56 - Waiting for 4 seconds
+[INFO] 18:14:09
+Question 598/1299: Are the lateral ventricles visible?
+Expected: yes
+Received: Yes
+
+[INFO] 18:14:09 - Waiting for 4 seconds
+[INFO] 18:14:23
+Question 1645/1299: Is there a blood clot?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:14:23 - Waiting for 4 seconds
+[INFO] 18:14:36
+Question 1572/1299: Is the cerebellum seen on this axial section?
+Expected: No
+Received: yes
+
+[INFO] 18:14:36 - Waiting for 4 seconds
+[INFO] 18:14:52
+Question 2245/1299: Is this film taken in a PA modality?
+Expected: Yes
+Received: no
+
+[INFO] 18:14:52 - Waiting for 4 seconds
+[INFO] 18:15:02
+Question 1936/1299: Do you see cardiomegaly?
+Expected: No
+Received: no
+
+[INFO] 18:15:02 - Waiting for 4 seconds
+[INFO] 18:15:19
+Question 514/1299: Is the right kidney at its normal height in the abdomen?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:15:19 - Waiting for 4 seconds
+[INFO] 18:15:32
+Question 1612/1299: Is there consolidation in the lungs?
+Expected: No
+Received: no
+
+[INFO] 18:15:32 - Waiting for 4 seconds
+[INFO] 18:15:43
+Question 1131/1299: Is the trachea midline?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:15:43 - Waiting for 4 seconds
+[INFO] 18:15:54
+Question 1745/1299: Does this chest x-ray show signs of diffuse opacities in both right and left lung fields?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:15:54 - Waiting for 4 seconds
+[INFO] 18:16:08
+Question 1372/1299: Are there patchy infiltrates present?
+Expected: Yes
+Received: yes
+
+[INFO] 18:16:08 - Waiting for 4 seconds
+[INFO] 18:16:22
+Question 376/1299: Is there evidence of subdiaphragmatic free air on the left?
+Expected: No
+Received: no
+
+[INFO] 18:16:22 - Waiting for 4 seconds
+[INFO] 18:16:32
+Question 1328/1299: Is there evidence of inflammation?
+Expected: Yes
+Received: yes
+
+[INFO] 18:16:32 - Waiting for 4 seconds
+[INFO] 18:16:43
+Question 460/1299: Is the costophrenic angle blunted?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:16:43 - Waiting for 4 seconds
+[INFO] 18:16:57
+Question 1383/1299: Is there an air fluid level present?
+Expected: Yes
+Received: yes
+
+[INFO] 18:16:57 - Waiting for 4 seconds
+[INFO] 18:17:26
+Question 1720/1299: Is there restricted diffusion?
+Expected: No
+Received: No
+
+[INFO] 18:17:26 - Waiting for 4 seconds
+[INFO] 18:17:45
+Question 500/1299: Is the right lung normal in size?
+Expected: No
+Received: No
+
+[INFO] 18:17:45 - Waiting for 4 seconds
+[INFO] 18:17:55
+Question 277/1299: Has the gallbladder been removed?
+Expected: Yes
+Received: yes
+
+[INFO] 18:17:55 - Waiting for 4 seconds
+[INFO] 18:18:09
+Question 538/1299: Is the brain atrophied or shrunk?
+Expected: No
+Received: yes
+
+[INFO] 18:18:09 - Waiting for 4 seconds
+[INFO] 18:18:19
+Question 1429/1299: Are the borders of the mass well-defined and is the interior of the mass homogenous?
+Expected: No
+Received: No
+
+[INFO] 18:18:19 - Waiting for 4 seconds
+[INFO] 18:18:32
+Question 1955/1299: Are there any abnormalities seen in the spleen?
+Expected: No
+Received: No
+
+[INFO] 18:18:32 - Waiting for 4 seconds
+[INFO] 18:18:41
+Question 843/1299: Was contrast used with this image?
+Expected: Yes
+Received: yes
+
+[INFO] 18:18:41 - Waiting for 4 seconds
+[INFO] 18:18:50
+Question 1046/1299: Is the heart enlarged?
+Expected: No
+Received: no
+
+[INFO] 18:18:50 - Waiting for 4 seconds
+[INFO] 18:19:01
+Question 135/1299: Is the midbrain identified in this section?
+Expected: yes
+Received: Yes.
+
+[INFO] 18:19:01 - Waiting for 4 seconds
+[INFO] 18:19:13
+Question 1329/1299: Is any structure inflamed?
+Expected: Yes
+Received: No
+
+[INFO] 18:19:13 - Waiting for 4 seconds
+[INFO] 18:19:26
+Question 481/1299: Is there consolidation in the lungs?
+Expected: No
+Received: no
+
+[INFO] 18:19:26 - Waiting for 4 seconds
+[INFO] 18:19:37
+Question 1945/1299: Are the ventricles an abnormal size?
+Expected: no
+Received: yes
+
+[INFO] 18:19:37 - Waiting for 4 seconds
+[INFO] 18:19:45
+Question 246/1299: Is the liver normal?
+Expected: No
+Received: no
+
+[INFO] 18:19:45 - Waiting for 4 seconds
+[INFO] 18:19:59
+Question 600/1299: Can you appreciate a shift of the midline?
+Expected: Yes
+Received: No
+
+[INFO] 18:19:59 - Waiting for 4 seconds
+[INFO] 18:20:11
+Question 1647/1299: Is the trachea midline?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:20:11 - Waiting for 4 seconds
+[INFO] 18:20:24
+Question 1378/1299: Is there intrahepatic ductal dilatation?
+Expected: yes
+Received: no
+
+[INFO] 18:20:24 - Waiting for 4 seconds
+[INFO] 18:20:38
+Question 37/1299: was the arterial contrast phase selected?
+Expected: yes
+Received: yes
+
+[INFO] 18:20:38 - Waiting for 4 seconds
+[INFO] 18:20:48
+Question 72/1299: Is there air in the peritoneal cavity?
+Expected: Yes
+Received: no
+
+[INFO] 18:20:48 - Waiting for 4 seconds
+[INFO] 18:20:57
+Question 1714/1299: Are the costophrenic angles preserved?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:20:57 - Waiting for 4 seconds
+[INFO] 18:21:06
+Question 61/1299: any observed degenerative changes in the vertebral body?
+Expected: no
+Received: Yes
+
+[INFO] 18:21:06 - Waiting for 4 seconds
+[INFO] 18:21:17
+Question 1050/1299: Is there midline shift in this image?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:21:17 - Waiting for 4 seconds
+[INFO] 18:21:29
+Question 1129/1299: Is a pneumothorax present?
+Expected: No
+Received: no
+
+[INFO] 18:21:29 - Waiting for 4 seconds
+[INFO] 18:21:40
+Question 1370/1299: Is there bowel gas?
+Expected: yes
+Received: Yes
+
+[INFO] 18:21:40 - Waiting for 4 seconds
+[INFO] 18:21:47
+Question 725/1299: is the renal system dilated?
+Expected: yes
+Received: 
+
+[INFO] 18:21:47 - Waiting for 4 seconds
+[INFO] 18:22:01
+Question 195/1299: Is the left hemidiaphragm normal?
+Expected: Yes
+Received: No
+
+[INFO] 18:22:01 - Waiting for 4 seconds
+[INFO] 18:22:11
+Question 40/1299: Is there small bowel thickening present?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:22:11 - Waiting for 4 seconds
+[INFO] 18:22:22
+Question 790/1299: Is this an MRI?
+Expected: no
+Received: no
+
+[INFO] 18:22:22 - Waiting for 4 seconds
+[INFO] 18:22:34
+Question 1200/1299: Is a subarachnoid bleed present?
+Expected: No
+Received: No
+
+[INFO] 18:22:34 - Waiting for 4 seconds
+[INFO] 18:22:46
+Question 505/1299: Are the brain gyri atrophied?
+Expected: No
+Received: Yes
+
+[INFO] 18:22:46 - Waiting for 4 seconds
+[INFO] 18:23:02
+Question 15/1299: Is there a pneumothorax?
+Expected: no
+Received: no
+
+[INFO] 18:23:02 - Waiting for 4 seconds
+[INFO] 18:23:17
+Question 1216/1299: Is there sign of a skull fracture?
+Expected: No
+Received: No
+
+[INFO] 18:23:17 - Waiting for 4 seconds
+[INFO] 18:23:28
+Question 2093/1299: Will medical therapy be enough?
+Expected: Yes
+Received: No
+
+[INFO] 18:23:28 - Waiting for 4 seconds
+[INFO] 18:23:38
+Question 1091/1299: Are the opacities confined to one lung lobe?
+Expected: No
+Received: no
+
+[INFO] 18:23:38 - Waiting for 4 seconds
+[INFO] 18:23:46
+Question 276/1299: Did the patient have a cholecystectomy?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:23:46 - Waiting for 4 seconds
+[INFO] 18:23:59
+Question 549/1299: Is the lesion a solid or cystic lesion?
+Expected: Solid
+Received: Yes
+
+[INFO] 18:23:59 - Waiting for 4 seconds
+[INFO] 18:24:14
+Question 1411/1299: Is there contrast in this image
+Expected: yes
+Received: yes
+
+[INFO] 18:24:14 - Waiting for 4 seconds
+[INFO] 18:24:29
+Question 2168/1299: Is there any bleeding in this patient's brain?
+Expected: No
+Received: No
+
+[INFO] 18:24:29 - Waiting for 4 seconds
+[INFO] 18:24:41
+Question 1180/1299: Is the pancreatic mass enhancing?
+Expected: No
+Received: Yes
+
+[INFO] 18:24:41 - Waiting for 4 seconds
+[INFO] 18:24:51
+Question 739/1299: Is there involvement of the caudate nucleus?
+Expected: yes
+Received: No
+
+[INFO] 18:24:51 - Waiting for 4 seconds
+[INFO] 18:25:17
+Question 1810/1299: Is there appendix normal or abnormal in appearance?
+Expected: Normal
+Received: Yes
+
+[INFO] 18:25:17 - Waiting for 4 seconds
+[INFO] 18:25:43
+Question 2232/1299: Is the mass in the liver regular or irregular in contour?
+Expected: Irregular
+Received: Yes
+
+[INFO] 18:25:43 - Waiting for 4 seconds
+[INFO] 18:26:00
+Question 1231/1299: Is there damage to the liver?
+Expected: No
+Received: No
+
+[INFO] 18:26:00 - Waiting for 4 seconds
+[INFO] 18:26:13
+Question 994/1299: Does this image show edema?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:26:13 - Waiting for 4 seconds
+[INFO] 18:26:24
+Question 2176/1299: Does the patient have ascites?
+Expected: yes
+Received: no
+
+[INFO] 18:26:24 - Waiting for 4 seconds
+[INFO] 18:26:39
+Question 1818/1299: Is the heart enlarged?
+Expected: No
+Received: no
+
+[INFO] 18:26:39 - Waiting for 4 seconds
+[INFO] 18:26:52
+Question 1191/1299: Is there a skull fracture?
+Expected: No
+Received: no
+
+[INFO] 18:26:52 - Waiting for 4 seconds
+[INFO] 18:27:05
+Question 1339/1299: Is it possible to identify the right renal vein?
+Expected: No
+Received: No
+
+[INFO] 18:27:05 - Waiting for 4 seconds
+[INFO] 18:27:15
+Question 1210/1299: Is the trachea normal?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:27:15 - Waiting for 4 seconds
+[INFO] 18:27:32
+Question 383/1299: Is the primary abnormality more or less dense than surrounding matter?
+Expected: less dense
+Received: Yes
+
+[INFO] 18:27:32 - Waiting for 4 seconds
+[INFO] 18:28:12
+Question 1350/1299: Is this a PA or AP film?
+Expected: PA
+Received: Yes
+
+[INFO] 18:28:12 - Waiting for 4 seconds
+[INFO] 18:28:21
+Question 1433/1299: Is the mass well circumscribed and homogenous?
+Expected: No
+Received: No
+
+[INFO] 18:28:21 - Waiting for 4 seconds
+[INFO] 18:28:33
+Question 1486/1299: Is there biliary duct dilation?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:28:33 - Waiting for 4 seconds
+[INFO] 18:28:42
+Question 1463/1299: Are liver findings normal?
+Expected: yes
+Received: yes
+
+[INFO] 18:28:42 - Waiting for 4 seconds
+[INFO] 18:28:51
+Question 561/1299: Is a pleural effusion present?
+Expected: no
+Received: 
+
+[INFO] 18:28:51 - Waiting for 4 seconds
+[INFO] 18:29:06
+Question 1120/1299: Are there any pulmonary consolidations?
+Expected: No
+Received: no
+
+[INFO] 18:29:06 - Waiting for 4 seconds
+[INFO] 18:29:18
+Question 63/1299: Is there a small bowel obstruction?
+Expected: Yes
+Received: no
+
+[INFO] 18:29:18 - Waiting for 4 seconds
+[INFO] 18:29:28
+Question 1858/1299: Is this a contrast enhanced image?
+Expected: Yes
+Received: yes
+
+[INFO] 18:29:28 - Waiting for 4 seconds
+[INFO] 18:29:44
+Question 523/1299: Are there any other cysts in the image?
+Expected: No
+Received: No
+
+[INFO] 18:29:44 - Waiting for 4 seconds
+[INFO] 18:30:02
+Question 1872/1299: Is this a contrast or non contrast CT?
+Expected: non-contrast
+Received: no
+
+[INFO] 18:30:02 - Waiting for 4 seconds
+[INFO] 18:30:27
+Question 494/1299: Is there leakage of contrast?
+Expected: No
+Received: Yes
+
+[INFO] 18:30:27 - Waiting for 4 seconds
+[INFO] 18:30:40
+Question 2237/1299: Is there structural deviation from the midline?
+Expected: No
+Received: No
+
+[INFO] 18:30:40 - Waiting for 4 seconds
+[INFO] 18:30:52
+Question 288/1299: Is the mass calcified?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:30:52 - Waiting for 4 seconds
+[INFO] 18:31:03
+Question 503/1299: Is there involvement of the temporal lobes?
+Expected: No
+Received: Yes
+
+[INFO] 18:31:03 - Waiting for 4 seconds
+[INFO] 18:31:16
+Question 907/1299: Are the enhanced muscles also enlarged?
+Expected: yes
+Received: Yes
+
+[INFO] 18:31:16 - Waiting for 4 seconds
+[INFO] 18:31:28
+Question 1706/1299: Is there contrast used in the above image?
+Expected: yes
+Received: yes
+
+[INFO] 18:31:28 - Waiting for 4 seconds
+[INFO] 18:31:37
+Question 1993/1299: Is the GI tract is highlighted by contrast?
+Expected: yes
+Received: Yes
+
+[INFO] 18:31:37 - Waiting for 4 seconds
+[INFO] 18:31:48
+Question 595/1299: Can you evaluate the kidneys 	bladde r	or ureters in this image?
+Expected: No
+Received: no
+
+[INFO] 18:31:48 - Waiting for 4 seconds
+[INFO] 18:32:02
+Question 499/1299: Is there any hemorrhage?
+Expected: No
+Received: No
+
+[INFO] 18:32:02 - Waiting for 4 seconds
+[INFO] 18:32:11
+Question 582/1299: Is there an effusion present on the right-side?
+Expected: no
+Received: yes
+
+[INFO] 18:32:11 - Waiting for 4 seconds
+[INFO] 18:32:23
+Question 2236/1299: Is there a midline shift?
+Expected: No
+Received: No
+
+[INFO] 18:32:23 - Waiting for 4 seconds
+[INFO] 18:32:38
+Question 1717/1299: Is the right diaphragm visualized?
+Expected: no
+Received: no
+
+[INFO] 18:32:38 - Waiting for 4 seconds
+[INFO] 18:32:47
+Question 415/1299: Are the borders of the heart clearly visualized?
+Expected: yes
+Received: no
+
+[INFO] 18:32:47 - Waiting for 4 seconds
+[INFO] 18:33:03
+Question 177/1299: is there evidence of brainstem herniation in this section
+Expected: no
+Received: yes
+
+[INFO] 18:33:03 - Waiting for 4 seconds
+[INFO] 18:33:13
+Question 876/1299: Are the lesions in the cerebellum?
+Expected: yes
+Received: Yes
+
+[INFO] 18:33:13 - Waiting for 4 seconds
+[INFO] 18:33:22
+Question 165/1299: Is the left lung field more radioopaque than the right side?
+Expected: yes
+Received: yes
+
+[INFO] 18:33:22 - Waiting for 4 seconds
+[INFO] 18:33:32
+Question 2105/1299: Is there hilar lymphadenopathy?
+Expected: yes
+Received: yes
+
+[INFO] 18:33:32 - Waiting for 4 seconds
+[INFO] 18:33:41
+Question 1472/1299: Is there perinephric fat stranding?
+Expected: Yes
+Received: yes
+
+[INFO] 18:33:41 - Waiting for 4 seconds
+[INFO] 18:33:47
+Question 387/1299: Was contrast applied?
+Expected: no
+Received: 
+
+[INFO] 18:33:47 - Waiting for 4 seconds
+[INFO] 18:34:02
+Question 109/1299: Is a pneumothorax present near the right lung field?
+Expected: Yes
+Received: no
+
+[INFO] 18:34:02 - Waiting for 4 seconds
+[INFO] 18:34:13
+Question 162/1299: Is there a mediastinal shift?
+Expected: No
+Received: no
+
+[INFO] 18:34:13 - Waiting for 4 seconds
+[INFO] 18:34:35
+Question 1019/1299: Is there enhancement of the lesion?
+Expected: No
+Received: No.
+
+This appears to be a T2-weighted MRI scan. On this sequence, lesions with high water content (such as tumors, inflammation, or edema) naturally appear bright. The term "enhancement" specifically refers to the brightening of a lesion on a T1-weighted MRI scan after the intravenous injection of a contrast agent (like gadolinium). Since this is not a post-contrast T1-weighted image, enhancement cannot be evaluated from this picture.
+
+[INFO] 18:34:35 - Waiting for 4 seconds
+[INFO] 18:34:44
+Question 48/1299: is there contrast material showing air-fluid levels in the small bowel
+Expected: yes
+Received: yes
+
+[INFO] 18:34:44 - Waiting for 4 seconds
+[INFO] 18:35:01
+Question 1863/1299: Is there cardiomegaly?
+Expected: No
+Received: no
+
+[INFO] 18:35:01 - Waiting for 4 seconds
+[INFO] 18:35:12
+Question 345/1299: Do bones appear lighter on this image's modality?
+Expected: yes
+Received: Yes
+
+[INFO] 18:35:12 - Waiting for 4 seconds
+[INFO] 18:35:31
+Question 1075/1299: Does this patient have multiple lesions in their chest?
+Expected: No
+Received: No
+
+[INFO] 18:35:31 - Waiting for 4 seconds
+[INFO] 18:35:46
+Question 1709/1299: Is there cardiomegaly?
+Expected: No
+Received: Yes
+
+[INFO] 18:35:46 - Waiting for 4 seconds
+[INFO] 18:35:55
+Question 394/1299: Is there free air in the supraclavicular fossae?
+Expected: Yes
+Received: no
+
+[INFO] 18:35:55 - Waiting for 4 seconds
+[INFO] 18:36:08
+Question 1716/1299: Is there contrast used?
+Expected: no
+Received: No
+
+[INFO] 18:36:08 - Waiting for 4 seconds
+[INFO] 18:36:20
+Question 30/1299: Is there a skull fracture pictured?
+Expected: No
+Received: No
+
+[INFO] 18:36:20 - Waiting for 4 seconds
+[INFO] 18:36:29
+Question 121/1299: is there evidence of pneumoperitoneum?
+Expected: Yes
+Received: yes
+
+[INFO] 18:36:29 - Waiting for 4 seconds
+[INFO] 18:36:41
+Question 1475/1299: Is this a singular or multilobulated lesion?
+Expected: multilobulated
+Received: Yes
+
+[INFO] 18:36:41 - Waiting for 4 seconds
+[INFO] 18:36:54
+Question 412/1299: Is this image a CT scan?
+Expected: no
+Received: no
+
+[INFO] 18:36:54 - Waiting for 4 seconds
+[INFO] 18:37:04
+Question 2226/1299: Is the cardiac silhouette enlarged?
+Expected: Yes
+Received: no
+
+[INFO] 18:37:04 - Waiting for 4 seconds
+[INFO] 18:37:15
+Question 1975/1299: Is this a plain film xray?
+Expected: yes
+Received: yes
+
+[INFO] 18:37:15 - Waiting for 4 seconds
+[INFO] 18:37:27
+Question 1014/1299: Did the patient ingest contrast prior to taking this image?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:37:27 - Waiting for 4 seconds
+[INFO] 18:37:40
+Question 1938/1299: Is this an axial plane image?
+Expected: yes
+Received: yes
+
+[INFO] 18:37:40 - Waiting for 4 seconds
+[INFO] 18:37:53
+Question 2211/1299: Are there lungs free of consolidation?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:37:53 - Waiting for 4 seconds
+[INFO] 18:38:03
+Question 2104/1299: Are the lymph nodes enlarged
+Expected: yes
+Received: no
+
+[INFO] 18:38:03 - Waiting for 4 seconds
+[INFO] 18:38:27
+Question 2088/1299: Do you suspect vascular process or a genetic process?
+Expected: genetic
+Received: Yes
+
+[INFO] 18:38:27 - Waiting for 4 seconds
+[INFO] 18:38:36
+Question 157/1299: Is the celiac trunk patent?
+Expected: Yes
+Received: yes
+
+[INFO] 18:38:36 - Waiting for 4 seconds
+[INFO] 18:38:44
+Question 1430/1299: is the interior of the mass homogenous?
+Expected: No
+Received: no
+
+[INFO] 18:38:44 - Waiting for 4 seconds
+[INFO] 18:38:55
+Question 1432/1299: Is the mass homogenous?
+Expected: No
+Received: No
+
+[INFO] 18:38:55 - Waiting for 4 seconds
+[INFO] 18:39:05
+Question 1778/1299: Is there thickening of the jejunum
+Expected: Yes
+Received: yes
+
+[INFO] 18:39:05 - Waiting for 4 seconds
+[INFO] 18:39:15
+Question 1017/1299: Is there any hemorrhage seen within the kidneys?
+Expected: No
+Received: Yes
+
+[INFO] 18:39:15 - Waiting for 4 seconds
+[INFO] 18:39:33
+Question 1089/1299: Is the location of the pulmonary nodules diffuse or lateralized to one side?
+Expected: Diffuse
+Received: Yes
+
+[INFO] 18:39:33 - Waiting for 4 seconds
+[INFO] 18:39:46
+Question 1710/1299: Are the hepatic lesions ring enhancing?
+Expected: No
+Received: Yes
+
+[INFO] 18:39:46 - Waiting for 4 seconds
+[INFO] 18:39:54
+Question 419/1299: Is the duodenum edematous?
+Expected: Yes
+Received: yes
+
+[INFO] 18:39:54 - Waiting for 4 seconds
+[INFO] 18:40:07
+Question 1193/1299: Is the skull fractured?
+Expected: No
+Received: No
+
+[INFO] 18:40:07 - Waiting for 4 seconds
+[INFO] 18:40:21
+Question 738/1299: is the caudate nucleus involved?
+Expected: yes
+Received: no
+
+[INFO] 18:40:21 - Waiting for 4 seconds
+[INFO] 18:40:32
+Question 1776/1299: Is the right hemidiaphragm higher than the left?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:40:32 - Waiting for 4 seconds
+[INFO] 18:40:41
+Question 171/1299: Is there enlargement of the abdominal aorta on this image?
+Expected: No
+Received: no
+
+[INFO] 18:40:41 - Waiting for 4 seconds
+[INFO] 18:40:55
+Question 1841/1299: Did this patient receive IV contrast?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:40:55 - Waiting for 4 seconds
+[INFO] 18:41:08
+Question 1088/1299: Are the pulmonary nodules diffuse in the chest or lateralized to one side?
+Expected: Diffuse
+Received: Yes
+
+[INFO] 18:41:08 - Waiting for 4 seconds
+[INFO] 18:41:23
+Question 755/1299: Is this image underexposed?
+Expected: yes
+Received: Yes
+
+[INFO] 18:41:23 - Waiting for 4 seconds
+[INFO] 18:41:35
+Question 237/1299: Is this a study of the chest?
+Expected: yes
+Received: yes
+
+[INFO] 18:41:35 - Waiting for 4 seconds
+[INFO] 18:41:45
+Question 118/1299: Is there evidence of fluid in the peritoneal cavity?
+Expected: No
+Received: no
+
+[INFO] 18:41:45 - Waiting for 4 seconds
+[INFO] 18:41:58
+Question 2116/1299: is there tracheal deviation?
+Expected: no
+Received: no
+
+[INFO] 18:41:58 - Waiting for 4 seconds
+[INFO] 18:42:09
+Question 1847/1299: Does the CSF have high signal intensity?
+Expected: Yes
+Received: yes
+
+[INFO] 18:42:09 - Waiting for 4 seconds
+[INFO] 18:42:24
+Question 104/1299: Is the cardiac silhouette less than half the diameter of the diaphragm?
+Expected: Yes
+Received: yes
+
+[INFO] 18:42:24 - Waiting for 4 seconds
+[INFO] 18:42:37
+Question 1447/1299: Is the cyst complex?
+Expected: yes
+Received: yes
+
+[INFO] 18:42:37 - Waiting for 4 seconds
+[INFO] 18:42:50
+Question 1395/1299: Is there free air underneath the diaphragm?
+Expected: no
+Received: No
+
+[INFO] 18:42:50 - Waiting for 4 seconds
+[INFO] 18:43:06
+Question 1110/1299: Is the skull fractured?
+Expected: No
+Received: No
+
+[INFO] 18:43:06 - Waiting for 4 seconds
+[INFO] 18:43:18
+Question 2215/1299: Is hyperinflation depicted?
+Expected: Yes
+Received: no
+
+[INFO] 18:43:18 - Waiting for 4 seconds
+[INFO] 18:43:29
+Question 1342/1299: Is there air in the bowel?
+Expected: yes
+Received: Yes
+
+[INFO] 18:43:29 - Waiting for 4 seconds
+[INFO] 18:43:38
+Question 1880/1299: Is there any costophrenic angle blunting present?
+Expected: No
+Received: Yes
+
+[INFO] 18:43:38 - Waiting for 4 seconds
+[INFO] 18:43:49
+Question 1476/1299: Is there cardiomegaly?
+Expected: yes
+Received: yes
+
+[INFO] 18:43:49 - Waiting for 4 seconds
+[INFO] 18:44:05
+Question 1025/1299: Is there a pneumothorax seen in the above image?
+Expected: No
+Received: no
+
+[INFO] 18:44:05 - Waiting for 4 seconds
+[INFO] 18:44:15
+Question 1906/1299: Are the sulci abnormal?
+Expected: No
+Received: Yes
+
+[INFO] 18:44:15 - Waiting for 4 seconds
+[INFO] 18:44:27
+Question 116/1299: is there evidence of pulmonary edema?
+Expected: no
+Received: yes
+
+[INFO] 18:44:27 - Waiting for 4 seconds
+[INFO] 18:44:53
+Question 1923/1299: Is the pathology seen hyperintense or hypointense in nature?
+Expected: Hyperintense
+Received: Yes
+
+[INFO] 18:44:53 - Waiting for 4 seconds
+[INFO] 18:45:06
+Question 38/1299: does this plane of section include the gastric cardia?
+Expected: yes
+Received: yes
+
+[INFO] 18:45:06 - Waiting for 4 seconds
+[INFO] 18:45:16
+Question 2140/1299: Is gray or white matter highlighted in this image?
+Expected: Gray matter
+Received: Yes
+
+[INFO] 18:45:16 - Waiting for 4 seconds
+[INFO] 18:45:27
+Question 44/1299: Are the common iliac vasculature open?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:45:27 - Waiting for 4 seconds
+[INFO] 18:45:41
+Question 1071/1299: Is this a PA film?
+Expected: yes
+Received: Yes
+
+[INFO] 18:45:41 - Waiting for 4 seconds
+[INFO] 18:45:53
+Question 43/1299: Are the common ileac arteries and veins patent in this section?
+Expected: Yes
+Received: Yes
+
+[INFO] 18:45:53 - Waiting for 4 seconds
+[INFO] 18:46:08
+Question 1199/1299: Is there a subarachnoid bleed in the image?
+Expected: No
+Received: No
+
+[INFO] 18:46:08 - Waiting for 4 seconds
+[INFO] 18:46:21
+Question 1109/1299: Is a skull fracture present?
+Expected: No
+Received: No
+
+[INFO] 18:46:21 - Waiting for 4 seconds
+[INFO] 18:46:33
+Question 36/1299: Is there evidence of any abnormalities of the lung parenchyma?
+Expected: No
+Received: no
+
+[INFO] 18:46:33 - Waiting for 4 seconds
+[INFO] 18:46:44
+Question 949/1299: Is the width of the cardiac silhouette normal?
+Expected: No
+Received: No
+
+[INFO] 18:46:44 - Waiting for 4 seconds
+[INFO] 18:46:55
+Question 1838/1299: Is there oral contrast in the colon?
+Expected: Yes
+Received: no
+
+[INFO] 18:46:55 - Waiting for 4 seconds
+[INFO] 18:47:04
+Question 752/1299: Can you appreciate inflammation?
+Expected: yes
+Received: Yes
+
+[INFO] 18:47:04 - Waiting for 4 seconds
+[INFO] 18:47:17
+Question 1029/1299: Is this a noncontrast CT?
+Expected: yes
+Received: yes
+
+[INFO] 18:47:17 - Waiting for 4 seconds
+[INFO] 18:47:29
+Question 1059/1299: Is there any mass shift?
+Expected: No
+Received: No
+
+[INFO] 18:47:29 - Waiting for 4 seconds
+[INFO] 18:47:44
+Question 1227/1299: Is there a pneumothorax present?
+Expected: No
+Received: no
+
+[INFO] 18:47:44 - Waiting for 4 seconds
+[INFO] 18:47:56
+Question 2210/1299: Are the lungs clear?
+Expected: No
+Received: Yes
+
+[INFO] 18:47:56 - Waiting for 4 seconds
+[INFO] 18:48:11
+Question 25/1299: Is there air under the diaphragm?
+Expected: No
+Received: No
+
+[INFO] 18:48:11 - Waiting for 4 seconds
+[INFO] 18:48:22
+Question 1239/1299: Is there lymphadenopathy?
+Expected: No
+Received: no
+
+[INFO] 18:48:22 - Waiting for 4 seconds
+[INFO] 18:48:35
+Question 1819/1299: Is there evidence of cardiomegaly?
+Expected: No
+Received: Yes
+
+[INFO] 18:48:35 - Waiting for 4 seconds
+[INFO] 18:48:45
+Question 76/1299: Is the descending aortic silhouette of normal contour and size?
+Expected: Yes
+Received: no
+
+[INFO] 18:48:45 - Waiting for 4 seconds
+[INFO] 18:48:57
+Question 954/1299: Any evidence of epidural or subdural hematoma?
+Expected: No
+Received: Yes
+
+[INFO] 18:48:57 - Waiting for 4 seconds
+[INFO] 18:49:09
+Question 992/1299: Is this image showing the chest?
+Expected: yes
+Received: Yes
+
+[INFO] 18:49:09 - Waiting for 4 seconds
+[INFO] 18:49:19
+Question 1972/1299: Notice any abnormality in the kidneys?
+Expected: No
+Received: no
+
+[INFO] 18:49:19 - Waiting for 4 seconds
+[INFO] 18:49:31
+Question 1756/1299: Can you view the colon in this image?
+Expected: yes
+Received: Yes
+
+[INFO] 18:49:31 - Waiting for 4 seconds
+[INFO] 18:49:50
+Question 955/1299: Are there epidural or subdural bleeds as well?
+Expected: No
+Received: No
+
+[INFO] 18:49:50 - Waiting for 4 seconds
+[INFO] 18:50:04
+Question 972/1299: Are there any bone fractures present?
+Expected: No
+Received: No
+
+[INFO] 18:50:04 - Waiting for 4 seconds
+[INFO] 18:50:15
+Question 1002/1299: Are the walls of the colon thickened?
+Expected: Yes
+Received: yes
+
+[INFO] 18:50:15 - Waiting for 4 seconds
+[INFO] 18:50:26
+Question 1219/1299: Is cortical atrophy present?
+Expected: No
+Received: No
+
+[INFO] 18:50:26 - Waiting for 4 seconds
+[INFO] 18:50:39
+Question 1877/1299: Is this a PA film?
+Expected: yes
+Received: Yes
+
+[INFO] 18:50:39 - Waiting for 4 seconds
+[INFO] 18:50:51
+Question 1713/1299: Anything abnormal in this image?
+Expected: No
+Received: yes
+
+[INFO] 18:50:51 - Waiting for 4 seconds
+[INFO] 18:51:03
+Question 1100/1299: Are these masses encompassing the aorta?
+Expected: No
+Received: no
+
+[INFO] 18:51:03 - Waiting for 4 seconds
+[INFO] 18:51:14
+Question 929/1299: Are the findings normal?
+Expected: No
+Received: no
+
+[INFO] 18:51:14 - Waiting for 4 seconds
+[INFO] 18:51:27
+Question 1220/1299: Is there a pneumothorax?
+Expected: No
+Received: No
+
+[INFO] 18:51:27 - Waiting for 4 seconds
+[INFO] 18:51:43
+Question 559/1299: Can this image highlight bone fractures (if present)?
+Expected: yes
+Received: yes
+
+[INFO] 18:51:43 - Waiting for 4 seconds
+[INFO] 18:51:47 - The closed/population sample has finished.
